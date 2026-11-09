@@ -1,0 +1,8548 @@
+{
+  "product": "Orbit Fit Band",
+  "stats": {
+    "n": 100,
+    "avg_rating": 2.94,
+    "median_words": 11.0,
+    "min_words": 7,
+    "max_words": 18,
+    "top_sentiment": "Negative",
+    "top_share": 0.4
+  },
+  "insights": [
+    "40% of these reviews are negative.",
+    "Average rating moved from 2.6 in Oct 2025 to 3.5 in Jun 2026.",
+    "\u201cwrong\u201d shows up more in negative reviews than in the rest."
+  ],
+  "sentiment_counts": [
+    {
+      "sentiment": "Negative",
+      "reviews": 40,
+      "share": 0.4
+    },
+    {
+      "sentiment": "Neutral",
+      "reviews": 24,
+      "share": 0.24
+    },
+    {
+      "sentiment": "Positive",
+      "reviews": 36,
+      "share": 0.36
+    }
+  ],
+  "star_counts": [
+    {
+      "stars": 1,
+      "reviews": 20
+    },
+    {
+      "stars": 2,
+      "reviews": 20
+    },
+    {
+      "stars": 3,
+      "reviews": 24
+    },
+    {
+      "stars": 4,
+      "reviews": 18
+    },
+    {
+      "stars": 5,
+      "reviews": 18
+    }
+  ],
+  "monthly": [
+    {
+      "month": "Oct 2025",
+      "reviews": 8,
+      "avg_rating": 2.625,
+      "negative_reviews": 4,
+      "negative_share": 0.5
+    },
+    {
+      "month": "Nov 2025",
+      "reviews": 10,
+      "avg_rating": 2.9,
+      "negative_reviews": 5,
+      "negative_share": 0.5
+    },
+    {
+      "month": "Dec 2025",
+      "reviews": 12,
+      "avg_rating": 2.6666666666666665,
+      "negative_reviews": 6,
+      "negative_share": 0.5
+    },
+    {
+      "month": "Jan 2026",
+      "reviews": 10,
+      "avg_rating": 3.4,
+      "negative_reviews": 3,
+      "negative_share": 0.3
+    },
+    {
+      "month": "Feb 2026",
+      "reviews": 8,
+      "avg_rating": 2.875,
+      "negative_reviews": 3,
+      "negative_share": 0.375
+    },
+    {
+      "month": "Mar 2026",
+      "reviews": 16,
+      "avg_rating": 2.625,
+      "negative_reviews": 8,
+      "negative_share": 0.5
+    },
+    {
+      "month": "Apr 2026",
+      "reviews": 14,
+      "avg_rating": 2.7857142857142856,
+      "negative_reviews": 7,
+      "negative_share": 0.5
+    },
+    {
+      "month": "May 2026",
+      "reviews": 7,
+      "avg_rating": 3.142857142857143,
+      "negative_reviews": 2,
+      "negative_share": 0.2857142857142857
+    },
+    {
+      "month": "Jun 2026",
+      "reviews": 15,
+      "avg_rating": 3.466666666666667,
+      "negative_reviews": 2,
+      "negative_share": 0.13333333333333333
+    }
+  ],
+  "categories": [
+    {
+      "category": "Fitness & Health",
+      "mentions": 42,
+      "keywords": [
+        {
+          "word": "heart",
+          "count": 18
+        },
+        {
+          "word": "sleep",
+          "count": 15
+        },
+        {
+          "word": "rate",
+          "count": 13
+        },
+        {
+          "word": "steps",
+          "count": 8
+        },
+        {
+          "word": "tracks",
+          "count": 7
+        },
+        {
+          "word": "swim",
+          "count": 7
+        },
+        {
+          "word": "tracking",
+          "count": 7
+        },
+        {
+          "word": "workouts",
+          "count": 5
+        }
+      ],
+      "by_sentiment": {
+        "Negative": 12,
+        "Neutral": 12,
+        "Positive": 18
+      },
+      "sample_reviews": [
+        {
+          "review_id": 301,
+          "date": "2025-10-04",
+          "reviewer": "Elena",
+          "rating": 3,
+          "sentiment": "Neutral",
+          "review": "Comfortable overnight. Heart rate looks plausible at rest.",
+          "keywords": [
+            "heart",
+            "rate"
+          ]
+        },
+        {
+          "review_id": 304,
+          "date": "2025-10-15",
+          "reviewer": "Arjun",
+          "rating": 3,
+          "sentiment": "Neutral",
+          "review": "Tracks steps okay. Sleep data is rough but directionally useful.",
+          "keywords": [
+            "tracks",
+            "steps",
+            "sleep"
+          ]
+        },
+        {
+          "review_id": 305,
+          "date": "2025-10-19",
+          "reviewer": "Paul",
+          "rating": 2,
+          "sentiment": "Negative",
+          "review": "Steps are undercounted compared with my phone. Sync fails twice a week.",
+          "keywords": [
+            "steps"
+          ]
+        },
+        {
+          "review_id": 308,
+          "date": "2025-10-31",
+          "reviewer": "Rohan",
+          "rating": 5,
+          "sentiment": "Positive",
+          "review": "Swim tracking and auto workout detect both work well. Love the display.",
+          "keywords": [
+            "swim",
+            "tracking",
+            "workout"
+          ]
+        },
+        {
+          "review_id": 310,
+          "date": "2025-11-01",
+          "reviewer": "Riya",
+          "rating": 1,
+          "sentiment": "Negative",
+          "review": "GPS tracks are jagged and overstate distance. Useless for training.",
+          "keywords": [
+            "gps",
+            "tracks"
+          ]
+        },
+        {
+          "review_id": 311,
+          "date": "2025-11-07",
+          "reviewer": "Meera",
+          "rating": 2,
+          "sentiment": "Negative",
+          "review": "Heart rate spikes randomly during rest. Sleep stages look completely wrong.",
+          "keywords": [
+            "heart",
+            "rate",
+            "sleep"
+          ]
+        },
+        {
+          "review_id": 312,
+          "date": "2025-11-10",
+          "reviewer": "Sana",
+          "rating": 5,
+          "sentiment": "Positive",
+          "review": "Accurate resting heart rate and sleep that finally matches how I feel.",
+          "keywords": [
+            "heart",
+            "rate",
+            "sleep"
+          ]
+        },
+        {
+          "review_id": 314,
+          "date": "2025-11-24",
+          "reviewer": "Chris",
+          "rating": 3,
+          "sentiment": "Neutral",
+          "review": "Tracks steps okay. Sleep data is rough but directionally useful. Still deciding if I will keep them.",
+          "keywords": [
+            "tracks",
+            "steps",
+            "sleep"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Fit & Comfort",
+      "mentions": 26,
+      "keywords": [
+        {
+          "word": "strap",
+          "count": 9
+        },
+        {
+          "word": "clasp",
+          "count": 7
+        },
+        {
+          "word": "irritates",
+          "count": 6
+        },
+        {
+          "word": "tips",
+          "count": 5
+        },
+        {
+          "word": "comfortable",
+          "count": 4
+        },
+        {
+          "word": "skin",
+          "count": 4
+        },
+        {
+          "word": "comfort",
+          "count": 1
+        }
+      ],
+      "by_sentiment": {
+        "Negative": 15,
+        "Neutral": 5,
+        "Positive": 6
+      },
+      "sample_reviews": [
+        {
+          "review_id": 301,
+          "date": "2025-10-04",
+          "reviewer": "Elena",
+          "rating": 3,
+          "sentiment": "Neutral",
+          "review": "Comfortable overnight. Heart rate looks plausible at rest.",
+          "keywords": [
+            "comfortable"
+          ]
+        },
+        {
+          "review_id": 306,
+          "date": "2025-10-21",
+          "reviewer": "Meera",
+          "rating": 2,
+          "sentiment": "Negative",
+          "review": "Calorie estimates are wildly high. Coach tips feel generic and wrong.",
+          "keywords": [
+            "tips"
+          ]
+        },
+        {
+          "review_id": 318,
+          "date": "2025-11-30",
+          "reviewer": "Nora",
+          "rating": 2,
+          "sentiment": "Negative",
+          "review": "Calorie estimates are wildly high. Coach tips feel generic and wrong.",
+          "keywords": [
+            "tips"
+          ]
+        },
+        {
+          "review_id": 321,
+          "date": "2025-12-11",
+          "reviewer": "Grace",
+          "rating": 4,
+          "sentiment": "Positive",
+          "review": "Light, comfortable, and the battery easily lasts a full week. Would buy again.",
+          "keywords": [
+            "comfortable"
+          ]
+        },
+        {
+          "review_id": 325,
+          "date": "2025-12-20",
+          "reviewer": "Anika",
+          "rating": 3,
+          "sentiment": "Neutral",
+          "review": "Clasp is secure enough for office days. Swim tracking is basic.",
+          "keywords": [
+            "clasp"
+          ]
+        },
+        {
+          "review_id": 327,
+          "date": "2025-12-21",
+          "reviewer": "Paul",
+          "rating": 1,
+          "sentiment": "Negative",
+          "review": "Band irritates my skin after a day. Clasp loosens while I run.",
+          "keywords": [
+            "irritates",
+            "skin",
+            "clasp"
+          ]
+        },
+        {
+          "review_id": 337,
+          "date": "2026-01-20",
+          "reviewer": "Emma",
+          "rating": 3,
+          "sentiment": "Neutral",
+          "review": "Clasp is secure enough for office days. Swim tracking is basic.",
+          "keywords": [
+            "clasp"
+          ]
+        },
+        {
+          "review_id": 338,
+          "date": "2026-01-25",
+          "reviewer": "Sofia",
+          "rating": 2,
+          "sentiment": "Negative",
+          "review": "Strap sizing runs small and the replacement cost is ridiculous.",
+          "keywords": [
+            "strap"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Battery & Power",
+      "mentions": 11,
+      "keywords": [
+        {
+          "word": "charging",
+          "count": 7
+        },
+        {
+          "word": "battery",
+          "count": 6
+        },
+        {
+          "word": "lasts",
+          "count": 4
+        },
+        {
+          "word": "dies",
+          "count": 2
+        }
+      ],
+      "by_sentiment": {
+        "Negative": 2,
+        "Neutral": 2,
+        "Positive": 7
+      },
+      "sample_reviews": [
+        {
+          "review_id": 313,
+          "date": "2025-11-11",
+          "reviewer": "Ben",
+          "rating": 1,
+          "sentiment": "Negative",
+          "review": "Battery dies in two days despite the seven day claim. Charging pins corrode.",
+          "keywords": [
+            "battery",
+            "dies",
+            "charging"
+          ]
+        },
+        {
+          "review_id": 317,
+          "date": "2025-11-26",
+          "reviewer": "Helena",
+          "rating": 2,
+          "sentiment": "Negative",
+          "review": "Disappointed overall. Battery dies in two days despite the seven day claim. Charging pins corrode.",
+          "keywords": [
+            "battery",
+            "dies",
+            "charging"
+          ]
+        },
+        {
+          "review_id": 320,
+          "date": "2025-12-10",
+          "reviewer": "Asha",
+          "rating": 4,
+          "sentiment": "Positive",
+          "review": "Heart zones during runs look consistent. Charging is quick. Would buy again.",
+          "keywords": [
+            "charging"
+          ]
+        },
+        {
+          "review_id": 321,
+          "date": "2025-12-11",
+          "reviewer": "Grace",
+          "rating": 4,
+          "sentiment": "Positive",
+          "review": "Light, comfortable, and the battery easily lasts a full week. Would buy again.",
+          "keywords": [
+            "battery",
+            "lasts"
+          ]
+        },
+        {
+          "review_id": 331,
+          "date": "2026-01-04",
+          "reviewer": "Asha",
+          "rating": 5,
+          "sentiment": "Positive",
+          "review": "Heart zones during runs look consistent. Charging is quick.",
+          "keywords": [
+            "charging"
+          ]
+        },
+        {
+          "review_id": 335,
+          "date": "2026-01-11",
+          "reviewer": "Emma",
+          "rating": 4,
+          "sentiment": "Positive",
+          "review": "Heart zones during runs look consistent. Charging is quick.",
+          "keywords": [
+            "charging"
+          ]
+        },
+        {
+          "review_id": 341,
+          "date": "2026-02-04",
+          "reviewer": "Jonah",
+          "rating": 4,
+          "sentiment": "Positive",
+          "review": "Heart zones during runs look consistent. Charging is quick. Would buy again.",
+          "keywords": [
+            "charging"
+          ]
+        },
+        {
+          "review_id": 361,
+          "date": "2026-03-23",
+          "reviewer": "Ravi",
+          "rating": 3,
+          "sentiment": "Neutral",
+          "review": "Light on the wrist. Battery lasts about four days with always-on off.",
+          "keywords": [
+            "battery",
+            "lasts"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Connectivity",
+      "mentions": 10,
+      "keywords": [
+        {
+          "word": "sync",
+          "count": 9
+        },
+        {
+          "word": "syncs",
+          "count": 1
+        }
+      ],
+      "by_sentiment": {
+        "Negative": 4,
+        "Neutral": 1,
+        "Positive": 5
+      },
+      "sample_reviews": [
+        {
+          "review_id": 305,
+          "date": "2025-10-19",
+          "reviewer": "Paul",
+          "rating": 2,
+          "sentiment": "Negative",
+          "review": "Steps are undercounted compared with my phone. Sync fails twice a week.",
+          "keywords": [
+            "sync"
+          ]
+        },
+        {
+          "review_id": 324,
+          "date": "2025-12-18",
+          "reviewer": "Priya",
+          "rating": 1,
+          "sentiment": "Negative",
+          "review": "Steps are undercounted compared with my phone. Sync fails twice a week.",
+          "keywords": [
+            "sync"
+          ]
+        },
+        {
+          "review_id": 333,
+          "date": "2026-01-07",
+          "reviewer": "Owen",
+          "rating": 5,
+          "sentiment": "Positive",
+          "review": "Sync is reliable and the app charts are clear. Great daily companion.",
+          "keywords": [
+            "sync"
+          ]
+        },
+        {
+          "review_id": 334,
+          "date": "2026-01-10",
+          "reviewer": "Nina",
+          "rating": 5,
+          "sentiment": "Positive",
+          "review": "Sync is reliable and the app charts are clear. Great daily companion.",
+          "keywords": [
+            "sync"
+          ]
+        },
+        {
+          "review_id": 343,
+          "date": "2026-02-13",
+          "reviewer": "Karan",
+          "rating": 4,
+          "sentiment": "Positive",
+          "review": "Sync is reliable and the app charts are clear. Great daily companion.",
+          "keywords": [
+            "sync"
+          ]
+        },
+        {
+          "review_id": 351,
+          "date": "2026-03-03",
+          "reviewer": "Omar",
+          "rating": 3,
+          "sentiment": "Neutral",
+          "review": "Syncs when it wants to. Design is plain and inoffensive.",
+          "keywords": [
+            "syncs"
+          ]
+        },
+        {
+          "review_id": 354,
+          "date": "2026-03-10",
+          "reviewer": "Jake",
+          "rating": 4,
+          "sentiment": "Positive",
+          "review": "Sync is reliable and the app charts are clear. Great daily companion.",
+          "keywords": [
+            "sync"
+          ]
+        },
+        {
+          "review_id": 357,
+          "date": "2026-03-16",
+          "reviewer": "Riya",
+          "rating": 1,
+          "sentiment": "Negative",
+          "review": "Steps are undercounted compared with my phone. Sync fails twice a week.",
+          "keywords": [
+            "sync"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Value & Price",
+      "mentions": 7,
+      "keywords": [
+        {
+          "word": "cost",
+          "count": 7
+        }
+      ],
+      "by_sentiment": {
+        "Negative": 7,
+        "Neutral": 0,
+        "Positive": 0
+      },
+      "sample_reviews": [
+        {
+          "review_id": 338,
+          "date": "2026-01-25",
+          "reviewer": "Sofia",
+          "rating": 2,
+          "sentiment": "Negative",
+          "review": "Strap sizing runs small and the replacement cost is ridiculous.",
+          "keywords": [
+            "cost"
+          ]
+        },
+        {
+          "review_id": 352,
+          "date": "2026-03-03",
+          "reviewer": "Grace",
+          "rating": 2,
+          "sentiment": "Negative",
+          "review": "Strap sizing runs small and the replacement cost is ridiculous.",
+          "keywords": [
+            "cost"
+          ]
+        },
+        {
+          "review_id": 355,
+          "date": "2026-03-10",
+          "reviewer": "Owen",
+          "rating": 2,
+          "sentiment": "Negative",
+          "review": "Strap sizing runs small and the replacement cost is ridiculous.",
+          "keywords": [
+            "cost"
+          ]
+        },
+        {
+          "review_id": 362,
+          "date": "2026-03-25",
+          "reviewer": "Maya",
+          "rating": 2,
+          "sentiment": "Negative",
+          "review": "Strap sizing runs small and the replacement cost is ridiculous.",
+          "keywords": [
+            "cost"
+          ]
+        },
+        {
+          "review_id": 366,
+          "date": "2026-04-04",
+          "reviewer": "Lina",
+          "rating": 1,
+          "sentiment": "Negative",
+          "review": "Strap sizing runs small and the replacement cost is ridiculous.",
+          "keywords": [
+            "cost"
+          ]
+        },
+        {
+          "review_id": 381,
+          "date": "2026-05-25",
+          "reviewer": "Tom",
+          "rating": 2,
+          "sentiment": "Negative",
+          "review": "Strap sizing runs small and the replacement cost is ridiculous.",
+          "keywords": [
+            "cost"
+          ]
+        },
+        {
+          "review_id": 388,
+          "date": "2026-06-12",
+          "reviewer": "Rahul",
+          "rating": 1,
+          "sentiment": "Negative",
+          "review": "Strap sizing runs small and the replacement cost is ridiculous.",
+          "keywords": [
+            "cost"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Sound Quality",
+      "mentions": 5,
+      "keywords": [
+        {
+          "word": "clear",
+          "count": 5
+        }
+      ],
+      "by_sentiment": {
+        "Negative": 0,
+        "Neutral": 0,
+        "Positive": 5
+      },
+      "sample_reviews": [
+        {
+          "review_id": 333,
+          "date": "2026-01-07",
+          "reviewer": "Owen",
+          "rating": 5,
+          "sentiment": "Positive",
+          "review": "Sync is reliable and the app charts are clear. Great daily companion.",
+          "keywords": [
+            "clear"
+          ]
+        },
+        {
+          "review_id": 334,
+          "date": "2026-01-10",
+          "reviewer": "Nina",
+          "rating": 5,
+          "sentiment": "Positive",
+          "review": "Sync is reliable and the app charts are clear. Great daily companion.",
+          "keywords": [
+            "clear"
+          ]
+        },
+        {
+          "review_id": 343,
+          "date": "2026-02-13",
+          "reviewer": "Karan",
+          "rating": 4,
+          "sentiment": "Positive",
+          "review": "Sync is reliable and the app charts are clear. Great daily companion.",
+          "keywords": [
+            "clear"
+          ]
+        },
+        {
+          "review_id": 354,
+          "date": "2026-03-10",
+          "reviewer": "Jake",
+          "rating": 4,
+          "sentiment": "Positive",
+          "review": "Sync is reliable and the app charts are clear. Great daily companion.",
+          "keywords": [
+            "clear"
+          ]
+        },
+        {
+          "review_id": 363,
+          "date": "2026-03-26",
+          "reviewer": "Paul",
+          "rating": 5,
+          "sentiment": "Positive",
+          "review": "Sync is reliable and the app charts are clear. Great daily companion.",
+          "keywords": [
+            "clear"
+          ]
+        }
+      ]
+    }
+  ],
+  "improvements": {
+    "recent": [
+      {
+        "review_id": 400,
+        "date": "2026-06-29",
+        "reviewer": "Ruth",
+        "rating": 3,
+        "sentiment": "Neutral",
+        "review": "Tracks steps okay. Sleep data is rough but directionally useful.",
+        "keywords": [
+          "tracks",
+          "steps",
+          "okay",
+          "sleep",
+          "data",
+          "rough",
+          "directionally",
+          "useful"
+        ],
+        "categories": [
+          "Fitness & Health"
+        ]
+      },
+      {
+        "review_id": 399,
+        "date": "2026-06-26",
+        "reviewer": "Yusuf",
+        "rating": 3,
+        "sentiment": "Neutral",
+        "review": "Notifications work most of the time. Screen is dim outdoors.",
+        "keywords": [
+          "notifications",
+          "work",
+          "time",
+          "screen",
+          "dim",
+          "outdoors"
+        ],
+        "categories": []
+      },
+      {
+        "review_id": 396,
+        "date": "2026-06-21",
+        "reviewer": "Ravi",
+        "rating": 3,
+        "sentiment": "Neutral",
+        "review": "App is simple. I wish workouts had more sport profiles.",
+        "keywords": [
+          "app",
+          "simple",
+          "wish",
+          "workouts",
+          "sport",
+          "profiles"
+        ],
+        "categories": [
+          "Fitness & Health"
+        ]
+      },
+      {
+        "review_id": 393,
+        "date": "2026-06-18",
+        "reviewer": "Maya",
+        "rating": 3,
+        "sentiment": "Neutral",
+        "review": "Comfortable overnight. Heart rate looks plausible at rest.",
+        "keywords": [
+          "comfortable",
+          "overnight",
+          "heart",
+          "rate",
+          "looks",
+          "plausible",
+          "rest"
+        ],
+        "categories": [
+          "Fit & Comfort",
+          "Fitness & Health"
+        ]
+      },
+      {
+        "review_id": 391,
+        "date": "2026-06-16",
+        "reviewer": "Leela",
+        "rating": 1,
+        "sentiment": "Negative",
+        "review": "Disappointed overall. Notifications arrive late or not at all. App crashes on open.",
+        "keywords": [
+          "disappointed",
+          "overall",
+          "notifications",
+          "arrive",
+          "late",
+          "app",
+          "crashes",
+          "open"
+        ],
+        "categories": []
+      },
+      {
+        "review_id": 390,
+        "date": "2026-06-16",
+        "reviewer": "Samir",
+        "rating": 3,
+        "sentiment": "Neutral",
+        "review": "Light on the wrist. Battery lasts about four days with always-on off.",
+        "keywords": [
+          "light",
+          "wrist",
+          "battery",
+          "lasts",
+          "four",
+          "days"
+        ],
+        "categories": [
+          "Battery & Power"
+        ]
+      },
+      {
+        "review_id": 388,
+        "date": "2026-06-12",
+        "reviewer": "Rahul",
+        "rating": 1,
+        "sentiment": "Negative",
+        "review": "Strap sizing runs small and the replacement cost is ridiculous.",
+        "keywords": [
+          "strap",
+          "sizing",
+          "runs",
+          "small",
+          "replacement",
+          "cost",
+          "ridiculous"
+        ],
+        "categories": [
+          "Fit & Comfort",
+          "Value & Price"
+        ]
+      },
+      {
+        "review_id": 384,
+        "date": "2026-05-28",
+        "reviewer": "Jonah",
+        "rating": 3,
+        "sentiment": "Neutral",
+        "review": "App is simple. I wish workouts had more sport profiles.",
+        "keywords": [
+          "app",
+          "simple",
+          "wish",
+          "workouts",
+          "sport",
+          "profiles"
+        ],
+        "categories": [
+          "Fitness & Health"
+        ]
+      },
+      {
+        "review_id": 382,
+        "date": "2026-05-26",
+        "reviewer": "Imran",
+        "rating": 3,
+        "sentiment": "Neutral",
+        "review": "Good reminder to stand. Metrics feel approximate rather than exact.",
+        "keywords": [
+          "good",
+          "reminder",
+          "stand",
+          "metrics",
+          "feel",
+          "approximate",
+          "rather",
+          "exact"
+        ],
+        "categories": []
+      },
+      {
+        "review_id": 381,
+        "date": "2026-05-25",
+        "reviewer": "Tom",
+        "rating": 2,
+        "sentiment": "Negative",
+        "review": "Strap sizing runs small and the replacement cost is ridiculous.",
+        "keywords": [
+          "strap",
+          "sizing",
+          "runs",
+          "small",
+          "replacement",
+          "cost",
+          "ridiculous"
+        ],
+        "categories": [
+          "Fit & Comfort",
+          "Value & Price"
+        ]
+      },
+      {
+        "review_id": 380,
+        "date": "2026-05-03",
+        "reviewer": "Kabir",
+        "rating": 1,
+        "sentiment": "Negative",
+        "review": "Heart rate spikes randomly during rest. Sleep stages look completely wrong.",
+        "keywords": [
+          "heart",
+          "rate",
+          "spikes",
+          "randomly",
+          "rest",
+          "sleep",
+          "stages",
+          "look"
+        ],
+        "categories": [
+          "Fitness & Health"
+        ]
+      },
+      {
+        "review_id": 379,
+        "date": "2026-05-02",
+        "reviewer": "Karan",
+        "rating": 3,
+        "sentiment": "Neutral",
+        "review": "Fine for casual walking goals. Not precise enough for serious training.",
+        "keywords": [
+          "fine",
+          "casual",
+          "walking",
+          "goals",
+          "precise",
+          "enough",
+          "serious",
+          "training"
+        ],
+        "categories": []
+      }
+    ],
+    "opportunities": [
+      {
+        "category": "Fit & Comfort",
+        "negative_mentions": 15,
+        "keywords": [
+          {
+            "word": "strap",
+            "count": 7
+          },
+          {
+            "word": "tips",
+            "count": 4
+          },
+          {
+            "word": "irritates",
+            "count": 4
+          },
+          {
+            "word": "skin",
+            "count": 4
+          },
+          {
+            "word": "clasp",
+            "count": 4
+          }
+        ],
+        "action": "Improve fit & comfort \u2014 reviewers often mention strap, tips, irritates, skin.",
+        "sample_reviews": [
+          {
+            "review_id": 306,
+            "date": "2025-10-21",
+            "reviewer": "Meera",
+            "rating": 2,
+            "sentiment": "Negative",
+            "review": "Calorie estimates are wildly high. Coach tips feel generic and wrong.",
+            "keywords": [
+              "tips"
+            ]
+          },
+          {
+            "review_id": 318,
+            "date": "2025-11-30",
+            "reviewer": "Nora",
+            "rating": 2,
+            "sentiment": "Negative",
+            "review": "Calorie estimates are wildly high. Coach tips feel generic and wrong.",
+            "keywords": [
+              "tips"
+            ]
+          },
+          {
+            "review_id": 327,
+            "date": "2025-12-21",
+            "reviewer": "Paul",
+            "rating": 1,
+            "sentiment": "Negative",
+            "review": "Band irritates my skin after a day. Clasp loosens while I run.",
+            "keywords": [
+              "irritates",
+              "skin",
+              "clasp"
+            ]
+          },
+          {
+            "review_id": 338,
+            "date": "2026-01-25",
+            "reviewer": "Sofia",
+            "rating": 2,
+            "sentiment": "Negative",
+            "review": "Strap sizing runs small and the replacement cost is ridiculous.",
+            "keywords": [
+              "strap"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Fitness & Health",
+        "negative_mentions": 12,
+        "keywords": [
+          {
+            "word": "heart",
+            "count": 5
+          },
+          {
+            "word": "rate",
+            "count": 5
+          },
+          {
+            "word": "sleep",
+            "count": 5
+          },
+          {
+            "word": "steps",
+            "count": 4
+          },
+          {
+            "word": "gps",
+            "count": 3
+          },
+          {
+            "word": "tracks",
+            "count": 3
+          }
+        ],
+        "action": "Improve fitness & health \u2014 reviewers often mention heart, rate, sleep, steps.",
+        "sample_reviews": [
+          {
+            "review_id": 305,
+            "date": "2025-10-19",
+            "reviewer": "Paul",
+            "rating": 2,
+            "sentiment": "Negative",
+            "review": "Steps are undercounted compared with my phone. Sync fails twice a week.",
+            "keywords": [
+              "steps"
+            ]
+          },
+          {
+            "review_id": 310,
+            "date": "2025-11-01",
+            "reviewer": "Riya",
+            "rating": 1,
+            "sentiment": "Negative",
+            "review": "GPS tracks are jagged and overstate distance. Useless for training.",
+            "keywords": [
+              "gps",
+              "tracks"
+            ]
+          },
+          {
+            "review_id": 311,
+            "date": "2025-11-07",
+            "reviewer": "Meera",
+            "rating": 2,
+            "sentiment": "Negative",
+            "review": "Heart rate spikes randomly during rest. Sleep stages look completely wrong.",
+            "keywords": [
+              "heart",
+              "rate",
+              "sleep"
+            ]
+          },
+          {
+            "review_id": 323,
+            "date": "2025-12-14",
+            "reviewer": "Amina",
+            "rating": 2,
+            "sentiment": "Negative",
+            "review": "GPS tracks are jagged and overstate distance. Useless for training.",
+            "keywords": [
+              "gps",
+              "tracks"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Value & Price",
+        "negative_mentions": 7,
+        "keywords": [
+          {
+            "word": "cost",
+            "count": 7
+          }
+        ],
+        "action": "Improve value & price \u2014 reviewers often mention cost.",
+        "sample_reviews": [
+          {
+            "review_id": 338,
+            "date": "2026-01-25",
+            "reviewer": "Sofia",
+            "rating": 2,
+            "sentiment": "Negative",
+            "review": "Strap sizing runs small and the replacement cost is ridiculous.",
+            "keywords": [
+              "cost"
+            ]
+          },
+          {
+            "review_id": 352,
+            "date": "2026-03-03",
+            "reviewer": "Grace",
+            "rating": 2,
+            "sentiment": "Negative",
+            "review": "Strap sizing runs small and the replacement cost is ridiculous.",
+            "keywords": [
+              "cost"
+            ]
+          },
+          {
+            "review_id": 355,
+            "date": "2026-03-10",
+            "reviewer": "Owen",
+            "rating": 2,
+            "sentiment": "Negative",
+            "review": "Strap sizing runs small and the replacement cost is ridiculous.",
+            "keywords": [
+              "cost"
+            ]
+          },
+          {
+            "review_id": 362,
+            "date": "2026-03-25",
+            "reviewer": "Maya",
+            "rating": 2,
+            "sentiment": "Negative",
+            "review": "Strap sizing runs small and the replacement cost is ridiculous.",
+            "keywords": [
+              "cost"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Connectivity",
+        "negative_mentions": 4,
+        "keywords": [
+          {
+            "word": "sync",
+            "count": 4
+          }
+        ],
+        "action": "Improve connectivity \u2014 reviewers often mention sync.",
+        "sample_reviews": [
+          {
+            "review_id": 305,
+            "date": "2025-10-19",
+            "reviewer": "Paul",
+            "rating": 2,
+            "sentiment": "Negative",
+            "review": "Steps are undercounted compared with my phone. Sync fails twice a week.",
+            "keywords": [
+              "sync"
+            ]
+          },
+          {
+            "review_id": 324,
+            "date": "2025-12-18",
+            "reviewer": "Priya",
+            "rating": 1,
+            "sentiment": "Negative",
+            "review": "Steps are undercounted compared with my phone. Sync fails twice a week.",
+            "keywords": [
+              "sync"
+            ]
+          },
+          {
+            "review_id": 357,
+            "date": "2026-03-16",
+            "reviewer": "Riya",
+            "rating": 1,
+            "sentiment": "Negative",
+            "review": "Steps are undercounted compared with my phone. Sync fails twice a week.",
+            "keywords": [
+              "sync"
+            ]
+          },
+          {
+            "review_id": 367,
+            "date": "2026-04-06",
+            "reviewer": "Emma",
+            "rating": 2,
+            "sentiment": "Negative",
+            "review": "Steps are undercounted compared with my phone. Sync fails twice a week.",
+            "keywords": [
+              "sync"
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Battery & Power",
+        "negative_mentions": 2,
+        "keywords": [
+          {
+            "word": "battery",
+            "count": 2
+          },
+          {
+            "word": "dies",
+            "count": 2
+          },
+          {
+            "word": "charging",
+            "count": 2
+          }
+        ],
+        "action": "Improve battery & power \u2014 reviewers often mention battery, dies, charging.",
+        "sample_reviews": [
+          {
+            "review_id": 313,
+            "date": "2025-11-11",
+            "reviewer": "Ben",
+            "rating": 1,
+            "sentiment": "Negative",
+            "review": "Battery dies in two days despite the seven day claim. Charging pins corrode.",
+            "keywords": [
+              "battery",
+              "dies",
+              "charging"
+            ]
+          },
+          {
+            "review_id": 317,
+            "date": "2025-11-26",
+            "reviewer": "Helena",
+            "rating": 2,
+            "sentiment": "Negative",
+            "review": "Disappointed overall. Battery dies in two days despite the seven day claim. Charging pins corrode.",
+            "keywords": [
+              "battery",
+              "dies",
+              "charging"
+            ]
+          }
+        ]
+      }
+    ],
+    "recent_count": 12,
+    "opportunity_count": 5
+  },
+  "distinctive_words": {
+    "Negative": [
+      {
+        "word": "wrong",
+        "count": 9,
+        "lift": 0.029801324503311258
+      },
+      {
+        "word": "sizing",
+        "count": 7,
+        "lift": 0.023178807947019868
+      },
+      {
+        "word": "small",
+        "count": 7,
+        "lift": 0.023178807947019868
+      },
+      {
+        "word": "replacement",
+        "count": 7,
+        "lift": 0.023178807947019868
+      },
+      {
+        "word": "cost",
+        "count": 7,
+        "lift": 0.023178807947019868
+      },
+      {
+        "word": "ridiculous",
+        "count": 7,
+        "lift": 0.023178807947019868
+      }
+    ],
+    "Neutral": [
+      {
+        "word": "enough",
+        "count": 6,
+        "lift": 0.033707865168539325
+      },
+      {
+        "word": "days",
+        "count": 5,
+        "lift": 0.02461162677088422
+      },
+      {
+        "word": "okay",
+        "count": 4,
+        "lift": 0.02247191011235955
+      },
+      {
+        "word": "data",
+        "count": 4,
+        "lift": 0.02247191011235955
+      },
+      {
+        "word": "rough",
+        "count": 4,
+        "lift": 0.02247191011235955
+      },
+      {
+        "word": "directionally",
+        "count": 4,
+        "lift": 0.02247191011235955
+      }
+    ],
+    "Positive": [
+      {
+        "word": "week",
+        "count": 16,
+        "lift": 0.050274725274725277
+      },
+      {
+        "word": "heart",
+        "count": 11,
+        "lift": 0.025709706959706962
+      },
+      {
+        "word": "works",
+        "count": 7,
+        "lift": 0.02564102564102564
+      },
+      {
+        "word": "steady",
+        "count": 7,
+        "lift": 0.02564102564102564
+      },
+      {
+        "word": "buy",
+        "count": 7,
+        "lift": 0.02564102564102564
+      },
+      {
+        "word": "accurate",
+        "count": 6,
+        "lift": 0.02197802197802198
+      }
+    ]
+  },
+  "top_words": [
+    {
+      "word": "week",
+      "count": 20
+    },
+    {
+      "word": "heart",
+      "count": 18
+    },
+    {
+      "word": "sleep",
+      "count": 15
+    },
+    {
+      "word": "feel",
+      "count": 14
+    },
+    {
+      "word": "rate",
+      "count": 13
+    },
+    {
+      "word": "runs",
+      "count": 13
+    },
+    {
+      "word": "app",
+      "count": 12
+    },
+    {
+      "word": "metrics",
+      "count": 11
+    },
+    {
+      "word": "simple",
+      "count": 10
+    },
+    {
+      "word": "look",
+      "count": 10
+    },
+    {
+      "word": "sync",
+      "count": 9
+    },
+    {
+      "word": "wrong",
+      "count": 9
+    }
+  ],
+  "reviews": [
+    {
+      "review_id": 301,
+      "date": "2025-10-04",
+      "reviewer": "Elena",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "review": "Comfortable overnight. Heart rate looks plausible at rest.",
+      "word_count": 8,
+      "keywords": [
+        {
+          "word": "comfortable",
+          "count": 1
+        },
+        {
+          "word": "overnight",
+          "count": 1
+        },
+        {
+          "word": "heart",
+          "count": 1
+        },
+        {
+          "word": "rate",
+          "count": 1
+        },
+        {
+          "word": "looks",
+          "count": 1
+        },
+        {
+          "word": "plausible",
+          "count": 1
+        },
+        {
+          "word": "rest",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fit & Comfort",
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fit & Comfort": [
+          {
+            "word": "comfortable",
+            "count": 1
+          }
+        ],
+        "Fitness & Health": [
+          {
+            "word": "heart",
+            "count": 1
+          },
+          {
+            "word": "rate",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 302,
+      "date": "2025-10-06",
+      "reviewer": "Elena",
+      "rating": 1,
+      "sentiment": "Negative",
+      "review": "Notifications arrive late or not at all. App crashes on open.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "notifications",
+          "count": 1
+        },
+        {
+          "word": "arrive",
+          "count": 1
+        },
+        {
+          "word": "late",
+          "count": 1
+        },
+        {
+          "word": "app",
+          "count": 1
+        },
+        {
+          "word": "crashes",
+          "count": 1
+        },
+        {
+          "word": "open",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 303,
+      "date": "2025-10-14",
+      "reviewer": "Nina",
+      "rating": 2,
+      "sentiment": "Negative",
+      "review": "After the latest update the band will not pair. Factory reset did nothing.",
+      "word_count": 13,
+      "keywords": [
+        {
+          "word": "latest",
+          "count": 1
+        },
+        {
+          "word": "update",
+          "count": 1
+        },
+        {
+          "word": "factory",
+          "count": 1
+        },
+        {
+          "word": "reset",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 304,
+      "date": "2025-10-15",
+      "reviewer": "Arjun",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "review": "Tracks steps okay. Sleep data is rough but directionally useful.",
+      "word_count": 10,
+      "keywords": [
+        {
+          "word": "tracks",
+          "count": 1
+        },
+        {
+          "word": "steps",
+          "count": 1
+        },
+        {
+          "word": "okay",
+          "count": 1
+        },
+        {
+          "word": "sleep",
+          "count": 1
+        },
+        {
+          "word": "data",
+          "count": 1
+        },
+        {
+          "word": "rough",
+          "count": 1
+        },
+        {
+          "word": "directionally",
+          "count": 1
+        },
+        {
+          "word": "useful",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "tracks",
+            "count": 1
+          },
+          {
+            "word": "steps",
+            "count": 1
+          },
+          {
+            "word": "sleep",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 305,
+      "date": "2025-10-19",
+      "reviewer": "Paul",
+      "rating": 2,
+      "sentiment": "Negative",
+      "review": "Steps are undercounted compared with my phone. Sync fails twice a week.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "steps",
+          "count": 1
+        },
+        {
+          "word": "undercounted",
+          "count": 1
+        },
+        {
+          "word": "compared",
+          "count": 1
+        },
+        {
+          "word": "phone",
+          "count": 1
+        },
+        {
+          "word": "sync",
+          "count": 1
+        },
+        {
+          "word": "fails",
+          "count": 1
+        },
+        {
+          "word": "twice",
+          "count": 1
+        },
+        {
+          "word": "week",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Connectivity",
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "steps",
+            "count": 1
+          }
+        ],
+        "Connectivity": [
+          {
+            "word": "sync",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 306,
+      "date": "2025-10-21",
+      "reviewer": "Meera",
+      "rating": 2,
+      "sentiment": "Negative",
+      "review": "Calorie estimates are wildly high. Coach tips feel generic and wrong.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "calorie",
+          "count": 1
+        },
+        {
+          "word": "estimates",
+          "count": 1
+        },
+        {
+          "word": "wildly",
+          "count": 1
+        },
+        {
+          "word": "high",
+          "count": 1
+        },
+        {
+          "word": "coach",
+          "count": 1
+        },
+        {
+          "word": "tips",
+          "count": 1
+        },
+        {
+          "word": "feel",
+          "count": 1
+        },
+        {
+          "word": "generic",
+          "count": 1
+        },
+        {
+          "word": "wrong",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fit & Comfort"
+      ],
+      "category_keywords": {
+        "Fit & Comfort": [
+          {
+            "word": "tips",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 307,
+      "date": "2025-10-31",
+      "reviewer": "Priya",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "review": "Good reminder to stand. Metrics feel approximate rather than exact. Still deciding if I will keep them.",
+      "word_count": 17,
+      "keywords": [
+        {
+          "word": "good",
+          "count": 1
+        },
+        {
+          "word": "reminder",
+          "count": 1
+        },
+        {
+          "word": "stand",
+          "count": 1
+        },
+        {
+          "word": "metrics",
+          "count": 1
+        },
+        {
+          "word": "feel",
+          "count": 1
+        },
+        {
+          "word": "approximate",
+          "count": 1
+        },
+        {
+          "word": "rather",
+          "count": 1
+        },
+        {
+          "word": "exact",
+          "count": 1
+        },
+        {
+          "word": "deciding",
+          "count": 1
+        },
+        {
+          "word": "keep",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 308,
+      "date": "2025-10-31",
+      "reviewer": "Rohan",
+      "rating": 5,
+      "sentiment": "Positive",
+      "review": "Swim tracking and auto workout detect both work well. Love the display.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "swim",
+          "count": 1
+        },
+        {
+          "word": "tracking",
+          "count": 1
+        },
+        {
+          "word": "auto",
+          "count": 1
+        },
+        {
+          "word": "workout",
+          "count": 1
+        },
+        {
+          "word": "detect",
+          "count": 1
+        },
+        {
+          "word": "work",
+          "count": 1
+        },
+        {
+          "word": "well",
+          "count": 1
+        },
+        {
+          "word": "love",
+          "count": 1
+        },
+        {
+          "word": "display",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "swim",
+            "count": 1
+          },
+          {
+            "word": "tracking",
+            "count": 1
+          },
+          {
+            "word": "workout",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 309,
+      "date": "2025-11-01",
+      "reviewer": "Jake",
+      "rating": 4,
+      "sentiment": "Positive",
+      "review": "Simple band that just works. Metrics are steady week after week.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "week",
+          "count": 2
+        },
+        {
+          "word": "simple",
+          "count": 1
+        },
+        {
+          "word": "works",
+          "count": 1
+        },
+        {
+          "word": "metrics",
+          "count": 1
+        },
+        {
+          "word": "steady",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 310,
+      "date": "2025-11-01",
+      "reviewer": "Riya",
+      "rating": 1,
+      "sentiment": "Negative",
+      "review": "GPS tracks are jagged and overstate distance. Useless for training.",
+      "word_count": 10,
+      "keywords": [
+        {
+          "word": "gps",
+          "count": 1
+        },
+        {
+          "word": "tracks",
+          "count": 1
+        },
+        {
+          "word": "jagged",
+          "count": 1
+        },
+        {
+          "word": "overstate",
+          "count": 1
+        },
+        {
+          "word": "distance",
+          "count": 1
+        },
+        {
+          "word": "useless",
+          "count": 1
+        },
+        {
+          "word": "training",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "gps",
+            "count": 1
+          },
+          {
+            "word": "tracks",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 311,
+      "date": "2025-11-07",
+      "reviewer": "Meera",
+      "rating": 2,
+      "sentiment": "Negative",
+      "review": "Heart rate spikes randomly during rest. Sleep stages look completely wrong.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "heart",
+          "count": 1
+        },
+        {
+          "word": "rate",
+          "count": 1
+        },
+        {
+          "word": "spikes",
+          "count": 1
+        },
+        {
+          "word": "randomly",
+          "count": 1
+        },
+        {
+          "word": "rest",
+          "count": 1
+        },
+        {
+          "word": "sleep",
+          "count": 1
+        },
+        {
+          "word": "stages",
+          "count": 1
+        },
+        {
+          "word": "look",
+          "count": 1
+        },
+        {
+          "word": "completely",
+          "count": 1
+        },
+        {
+          "word": "wrong",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "heart",
+            "count": 1
+          },
+          {
+            "word": "rate",
+            "count": 1
+          },
+          {
+            "word": "sleep",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 312,
+      "date": "2025-11-10",
+      "reviewer": "Sana",
+      "rating": 5,
+      "sentiment": "Positive",
+      "review": "Accurate resting heart rate and sleep that finally matches how I feel.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "accurate",
+          "count": 1
+        },
+        {
+          "word": "resting",
+          "count": 1
+        },
+        {
+          "word": "heart",
+          "count": 1
+        },
+        {
+          "word": "rate",
+          "count": 1
+        },
+        {
+          "word": "sleep",
+          "count": 1
+        },
+        {
+          "word": "finally",
+          "count": 1
+        },
+        {
+          "word": "matches",
+          "count": 1
+        },
+        {
+          "word": "feel",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "heart",
+            "count": 1
+          },
+          {
+            "word": "rate",
+            "count": 1
+          },
+          {
+            "word": "sleep",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 313,
+      "date": "2025-11-11",
+      "reviewer": "Ben",
+      "rating": 1,
+      "sentiment": "Negative",
+      "review": "Battery dies in two days despite the seven day claim. Charging pins corrode.",
+      "word_count": 13,
+      "keywords": [
+        {
+          "word": "battery",
+          "count": 1
+        },
+        {
+          "word": "dies",
+          "count": 1
+        },
+        {
+          "word": "two",
+          "count": 1
+        },
+        {
+          "word": "days",
+          "count": 1
+        },
+        {
+          "word": "despite",
+          "count": 1
+        },
+        {
+          "word": "seven",
+          "count": 1
+        },
+        {
+          "word": "day",
+          "count": 1
+        },
+        {
+          "word": "claim",
+          "count": 1
+        },
+        {
+          "word": "charging",
+          "count": 1
+        },
+        {
+          "word": "pins",
+          "count": 1
+        },
+        {
+          "word": "corrode",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Battery & Power"
+      ],
+      "category_keywords": {
+        "Battery & Power": [
+          {
+            "word": "battery",
+            "count": 1
+          },
+          {
+            "word": "dies",
+            "count": 1
+          },
+          {
+            "word": "charging",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 314,
+      "date": "2025-11-24",
+      "reviewer": "Chris",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "review": "Tracks steps okay. Sleep data is rough but directionally useful. Still deciding if I will keep them.",
+      "word_count": 17,
+      "keywords": [
+        {
+          "word": "tracks",
+          "count": 1
+        },
+        {
+          "word": "steps",
+          "count": 1
+        },
+        {
+          "word": "okay",
+          "count": 1
+        },
+        {
+          "word": "sleep",
+          "count": 1
+        },
+        {
+          "word": "data",
+          "count": 1
+        },
+        {
+          "word": "rough",
+          "count": 1
+        },
+        {
+          "word": "directionally",
+          "count": 1
+        },
+        {
+          "word": "useful",
+          "count": 1
+        },
+        {
+          "word": "deciding",
+          "count": 1
+        },
+        {
+          "word": "keep",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "tracks",
+            "count": 1
+          },
+          {
+            "word": "steps",
+            "count": 1
+          },
+          {
+            "word": "sleep",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 315,
+      "date": "2025-11-25",
+      "reviewer": "Hugo",
+      "rating": 4,
+      "sentiment": "Positive",
+      "review": "Water lock is trustworthy. Build quality feels tougher than it looks. Would buy again.",
+      "word_count": 14,
+      "keywords": [
+        {
+          "word": "water",
+          "count": 1
+        },
+        {
+          "word": "lock",
+          "count": 1
+        },
+        {
+          "word": "trustworthy",
+          "count": 1
+        },
+        {
+          "word": "build",
+          "count": 1
+        },
+        {
+          "word": "quality",
+          "count": 1
+        },
+        {
+          "word": "feels",
+          "count": 1
+        },
+        {
+          "word": "tougher",
+          "count": 1
+        },
+        {
+          "word": "looks",
+          "count": 1
+        },
+        {
+          "word": "buy",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 316,
+      "date": "2025-11-26",
+      "reviewer": "Anika",
+      "rating": 5,
+      "sentiment": "Positive",
+      "review": "Accurate resting heart rate and sleep that finally matches how I feel.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "accurate",
+          "count": 1
+        },
+        {
+          "word": "resting",
+          "count": 1
+        },
+        {
+          "word": "heart",
+          "count": 1
+        },
+        {
+          "word": "rate",
+          "count": 1
+        },
+        {
+          "word": "sleep",
+          "count": 1
+        },
+        {
+          "word": "finally",
+          "count": 1
+        },
+        {
+          "word": "matches",
+          "count": 1
+        },
+        {
+          "word": "feel",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "heart",
+            "count": 1
+          },
+          {
+            "word": "rate",
+            "count": 1
+          },
+          {
+            "word": "sleep",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 317,
+      "date": "2025-11-26",
+      "reviewer": "Helena",
+      "rating": 2,
+      "sentiment": "Negative",
+      "review": "Disappointed overall. Battery dies in two days despite the seven day claim. Charging pins corrode.",
+      "word_count": 15,
+      "keywords": [
+        {
+          "word": "disappointed",
+          "count": 1
+        },
+        {
+          "word": "overall",
+          "count": 1
+        },
+        {
+          "word": "battery",
+          "count": 1
+        },
+        {
+          "word": "dies",
+          "count": 1
+        },
+        {
+          "word": "two",
+          "count": 1
+        },
+        {
+          "word": "days",
+          "count": 1
+        },
+        {
+          "word": "despite",
+          "count": 1
+        },
+        {
+          "word": "seven",
+          "count": 1
+        },
+        {
+          "word": "day",
+          "count": 1
+        },
+        {
+          "word": "claim",
+          "count": 1
+        },
+        {
+          "word": "charging",
+          "count": 1
+        },
+        {
+          "word": "pins",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Battery & Power"
+      ],
+      "category_keywords": {
+        "Battery & Power": [
+          {
+            "word": "battery",
+            "count": 1
+          },
+          {
+            "word": "dies",
+            "count": 1
+          },
+          {
+            "word": "charging",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 318,
+      "date": "2025-11-30",
+      "reviewer": "Nora",
+      "rating": 2,
+      "sentiment": "Negative",
+      "review": "Calorie estimates are wildly high. Coach tips feel generic and wrong.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "calorie",
+          "count": 1
+        },
+        {
+          "word": "estimates",
+          "count": 1
+        },
+        {
+          "word": "wildly",
+          "count": 1
+        },
+        {
+          "word": "high",
+          "count": 1
+        },
+        {
+          "word": "coach",
+          "count": 1
+        },
+        {
+          "word": "tips",
+          "count": 1
+        },
+        {
+          "word": "feel",
+          "count": 1
+        },
+        {
+          "word": "generic",
+          "count": 1
+        },
+        {
+          "word": "wrong",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fit & Comfort"
+      ],
+      "category_keywords": {
+        "Fit & Comfort": [
+          {
+            "word": "tips",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 319,
+      "date": "2025-12-08",
+      "reviewer": "Grace",
+      "rating": 2,
+      "sentiment": "Negative",
+      "review": "After the latest update the band will not pair. Factory reset did nothing.",
+      "word_count": 13,
+      "keywords": [
+        {
+          "word": "latest",
+          "count": 1
+        },
+        {
+          "word": "update",
+          "count": 1
+        },
+        {
+          "word": "factory",
+          "count": 1
+        },
+        {
+          "word": "reset",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 320,
+      "date": "2025-12-10",
+      "reviewer": "Asha",
+      "rating": 4,
+      "sentiment": "Positive",
+      "review": "Heart zones during runs look consistent. Charging is quick. Would buy again.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "heart",
+          "count": 1
+        },
+        {
+          "word": "zones",
+          "count": 1
+        },
+        {
+          "word": "runs",
+          "count": 1
+        },
+        {
+          "word": "look",
+          "count": 1
+        },
+        {
+          "word": "consistent",
+          "count": 1
+        },
+        {
+          "word": "charging",
+          "count": 1
+        },
+        {
+          "word": "quick",
+          "count": 1
+        },
+        {
+          "word": "buy",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Battery & Power",
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "heart",
+            "count": 1
+          }
+        ],
+        "Battery & Power": [
+          {
+            "word": "charging",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 321,
+      "date": "2025-12-11",
+      "reviewer": "Grace",
+      "rating": 4,
+      "sentiment": "Positive",
+      "review": "Light, comfortable, and the battery easily lasts a full week. Would buy again.",
+      "word_count": 13,
+      "keywords": [
+        {
+          "word": "light",
+          "count": 1
+        },
+        {
+          "word": "comfortable",
+          "count": 1
+        },
+        {
+          "word": "battery",
+          "count": 1
+        },
+        {
+          "word": "easily",
+          "count": 1
+        },
+        {
+          "word": "lasts",
+          "count": 1
+        },
+        {
+          "word": "full",
+          "count": 1
+        },
+        {
+          "word": "week",
+          "count": 1
+        },
+        {
+          "word": "buy",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Battery & Power",
+        "Fit & Comfort"
+      ],
+      "category_keywords": {
+        "Fit & Comfort": [
+          {
+            "word": "comfortable",
+            "count": 1
+          }
+        ],
+        "Battery & Power": [
+          {
+            "word": "battery",
+            "count": 1
+          },
+          {
+            "word": "lasts",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 322,
+      "date": "2025-12-12",
+      "reviewer": "Sara",
+      "rating": 1,
+      "sentiment": "Negative",
+      "review": "Notifications arrive late or not at all. App crashes on open.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "notifications",
+          "count": 1
+        },
+        {
+          "word": "arrive",
+          "count": 1
+        },
+        {
+          "word": "late",
+          "count": 1
+        },
+        {
+          "word": "app",
+          "count": 1
+        },
+        {
+          "word": "crashes",
+          "count": 1
+        },
+        {
+          "word": "open",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 323,
+      "date": "2025-12-14",
+      "reviewer": "Amina",
+      "rating": 2,
+      "sentiment": "Negative",
+      "review": "GPS tracks are jagged and overstate distance. Useless for training.",
+      "word_count": 10,
+      "keywords": [
+        {
+          "word": "gps",
+          "count": 1
+        },
+        {
+          "word": "tracks",
+          "count": 1
+        },
+        {
+          "word": "jagged",
+          "count": 1
+        },
+        {
+          "word": "overstate",
+          "count": 1
+        },
+        {
+          "word": "distance",
+          "count": 1
+        },
+        {
+          "word": "useless",
+          "count": 1
+        },
+        {
+          "word": "training",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "gps",
+            "count": 1
+          },
+          {
+            "word": "tracks",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 324,
+      "date": "2025-12-18",
+      "reviewer": "Priya",
+      "rating": 1,
+      "sentiment": "Negative",
+      "review": "Steps are undercounted compared with my phone. Sync fails twice a week.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "steps",
+          "count": 1
+        },
+        {
+          "word": "undercounted",
+          "count": 1
+        },
+        {
+          "word": "compared",
+          "count": 1
+        },
+        {
+          "word": "phone",
+          "count": 1
+        },
+        {
+          "word": "sync",
+          "count": 1
+        },
+        {
+          "word": "fails",
+          "count": 1
+        },
+        {
+          "word": "twice",
+          "count": 1
+        },
+        {
+          "word": "week",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Connectivity",
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "steps",
+            "count": 1
+          }
+        ],
+        "Connectivity": [
+          {
+            "word": "sync",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 325,
+      "date": "2025-12-20",
+      "reviewer": "Anika",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "review": "Clasp is secure enough for office days. Swim tracking is basic.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "clasp",
+          "count": 1
+        },
+        {
+          "word": "secure",
+          "count": 1
+        },
+        {
+          "word": "enough",
+          "count": 1
+        },
+        {
+          "word": "office",
+          "count": 1
+        },
+        {
+          "word": "days",
+          "count": 1
+        },
+        {
+          "word": "swim",
+          "count": 1
+        },
+        {
+          "word": "tracking",
+          "count": 1
+        },
+        {
+          "word": "basic",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fit & Comfort",
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fit & Comfort": [
+          {
+            "word": "clasp",
+            "count": 1
+          }
+        ],
+        "Fitness & Health": [
+          {
+            "word": "swim",
+            "count": 1
+          },
+          {
+            "word": "tracking",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 326,
+      "date": "2025-12-21",
+      "reviewer": "Fatima",
+      "rating": 1,
+      "sentiment": "Negative",
+      "review": "Screen scratches easily. Water lock never engages in the pool.",
+      "word_count": 10,
+      "keywords": [
+        {
+          "word": "screen",
+          "count": 1
+        },
+        {
+          "word": "scratches",
+          "count": 1
+        },
+        {
+          "word": "easily",
+          "count": 1
+        },
+        {
+          "word": "water",
+          "count": 1
+        },
+        {
+          "word": "lock",
+          "count": 1
+        },
+        {
+          "word": "never",
+          "count": 1
+        },
+        {
+          "word": "engages",
+          "count": 1
+        },
+        {
+          "word": "pool",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 327,
+      "date": "2025-12-21",
+      "reviewer": "Paul",
+      "rating": 1,
+      "sentiment": "Negative",
+      "review": "Band irritates my skin after a day. Clasp loosens while I run.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "irritates",
+          "count": 1
+        },
+        {
+          "word": "skin",
+          "count": 1
+        },
+        {
+          "word": "day",
+          "count": 1
+        },
+        {
+          "word": "clasp",
+          "count": 1
+        },
+        {
+          "word": "loosens",
+          "count": 1
+        },
+        {
+          "word": "run",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fit & Comfort"
+      ],
+      "category_keywords": {
+        "Fit & Comfort": [
+          {
+            "word": "irritates",
+            "count": 1
+          },
+          {
+            "word": "skin",
+            "count": 1
+          },
+          {
+            "word": "clasp",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 328,
+      "date": "2025-12-24",
+      "reviewer": "Fatima",
+      "rating": 5,
+      "sentiment": "Positive",
+      "review": "Simple band that just works. Metrics are steady week after week.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "week",
+          "count": 2
+        },
+        {
+          "word": "simple",
+          "count": 1
+        },
+        {
+          "word": "works",
+          "count": 1
+        },
+        {
+          "word": "metrics",
+          "count": 1
+        },
+        {
+          "word": "steady",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 329,
+      "date": "2025-12-27",
+      "reviewer": "Ben",
+      "rating": 5,
+      "sentiment": "Positive",
+      "review": "Accurate resting heart rate and sleep that finally matches how I feel.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "accurate",
+          "count": 1
+        },
+        {
+          "word": "resting",
+          "count": 1
+        },
+        {
+          "word": "heart",
+          "count": 1
+        },
+        {
+          "word": "rate",
+          "count": 1
+        },
+        {
+          "word": "sleep",
+          "count": 1
+        },
+        {
+          "word": "finally",
+          "count": 1
+        },
+        {
+          "word": "matches",
+          "count": 1
+        },
+        {
+          "word": "feel",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "heart",
+            "count": 1
+          },
+          {
+            "word": "rate",
+            "count": 1
+          },
+          {
+            "word": "sleep",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 330,
+      "date": "2025-12-29",
+      "reviewer": "Anika",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "review": "Tracks steps okay. Sleep data is rough but directionally useful.",
+      "word_count": 10,
+      "keywords": [
+        {
+          "word": "tracks",
+          "count": 1
+        },
+        {
+          "word": "steps",
+          "count": 1
+        },
+        {
+          "word": "okay",
+          "count": 1
+        },
+        {
+          "word": "sleep",
+          "count": 1
+        },
+        {
+          "word": "data",
+          "count": 1
+        },
+        {
+          "word": "rough",
+          "count": 1
+        },
+        {
+          "word": "directionally",
+          "count": 1
+        },
+        {
+          "word": "useful",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "tracks",
+            "count": 1
+          },
+          {
+            "word": "steps",
+            "count": 1
+          },
+          {
+            "word": "sleep",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 331,
+      "date": "2026-01-04",
+      "reviewer": "Asha",
+      "rating": 5,
+      "sentiment": "Positive",
+      "review": "Heart zones during runs look consistent. Charging is quick.",
+      "word_count": 9,
+      "keywords": [
+        {
+          "word": "heart",
+          "count": 1
+        },
+        {
+          "word": "zones",
+          "count": 1
+        },
+        {
+          "word": "runs",
+          "count": 1
+        },
+        {
+          "word": "look",
+          "count": 1
+        },
+        {
+          "word": "consistent",
+          "count": 1
+        },
+        {
+          "word": "charging",
+          "count": 1
+        },
+        {
+          "word": "quick",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Battery & Power",
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "heart",
+            "count": 1
+          }
+        ],
+        "Battery & Power": [
+          {
+            "word": "charging",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 332,
+      "date": "2026-01-06",
+      "reviewer": "Emma",
+      "rating": 1,
+      "sentiment": "Negative",
+      "review": "After the latest update the band will not pair. Factory reset did nothing.",
+      "word_count": 13,
+      "keywords": [
+        {
+          "word": "latest",
+          "count": 1
+        },
+        {
+          "word": "update",
+          "count": 1
+        },
+        {
+          "word": "factory",
+          "count": 1
+        },
+        {
+          "word": "reset",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 333,
+      "date": "2026-01-07",
+      "reviewer": "Owen",
+      "rating": 5,
+      "sentiment": "Positive",
+      "review": "Sync is reliable and the app charts are clear. Great daily companion.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "sync",
+          "count": 1
+        },
+        {
+          "word": "reliable",
+          "count": 1
+        },
+        {
+          "word": "app",
+          "count": 1
+        },
+        {
+          "word": "charts",
+          "count": 1
+        },
+        {
+          "word": "clear",
+          "count": 1
+        },
+        {
+          "word": "great",
+          "count": 1
+        },
+        {
+          "word": "daily",
+          "count": 1
+        },
+        {
+          "word": "companion",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Connectivity",
+        "Sound Quality"
+      ],
+      "category_keywords": {
+        "Connectivity": [
+          {
+            "word": "sync",
+            "count": 1
+          }
+        ],
+        "Sound Quality": [
+          {
+            "word": "clear",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 334,
+      "date": "2026-01-10",
+      "reviewer": "Nina",
+      "rating": 5,
+      "sentiment": "Positive",
+      "review": "Sync is reliable and the app charts are clear. Great daily companion.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "sync",
+          "count": 1
+        },
+        {
+          "word": "reliable",
+          "count": 1
+        },
+        {
+          "word": "app",
+          "count": 1
+        },
+        {
+          "word": "charts",
+          "count": 1
+        },
+        {
+          "word": "clear",
+          "count": 1
+        },
+        {
+          "word": "great",
+          "count": 1
+        },
+        {
+          "word": "daily",
+          "count": 1
+        },
+        {
+          "word": "companion",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Connectivity",
+        "Sound Quality"
+      ],
+      "category_keywords": {
+        "Connectivity": [
+          {
+            "word": "sync",
+            "count": 1
+          }
+        ],
+        "Sound Quality": [
+          {
+            "word": "clear",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 335,
+      "date": "2026-01-11",
+      "reviewer": "Emma",
+      "rating": 4,
+      "sentiment": "Positive",
+      "review": "Heart zones during runs look consistent. Charging is quick.",
+      "word_count": 9,
+      "keywords": [
+        {
+          "word": "heart",
+          "count": 1
+        },
+        {
+          "word": "zones",
+          "count": 1
+        },
+        {
+          "word": "runs",
+          "count": 1
+        },
+        {
+          "word": "look",
+          "count": 1
+        },
+        {
+          "word": "consistent",
+          "count": 1
+        },
+        {
+          "word": "charging",
+          "count": 1
+        },
+        {
+          "word": "quick",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Battery & Power",
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "heart",
+            "count": 1
+          }
+        ],
+        "Battery & Power": [
+          {
+            "word": "charging",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 336,
+      "date": "2026-01-14",
+      "reviewer": "Jake",
+      "rating": 4,
+      "sentiment": "Positive",
+      "review": "Water lock is trustworthy. Build quality feels tougher than it looks.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "water",
+          "count": 1
+        },
+        {
+          "word": "lock",
+          "count": 1
+        },
+        {
+          "word": "trustworthy",
+          "count": 1
+        },
+        {
+          "word": "build",
+          "count": 1
+        },
+        {
+          "word": "quality",
+          "count": 1
+        },
+        {
+          "word": "feels",
+          "count": 1
+        },
+        {
+          "word": "tougher",
+          "count": 1
+        },
+        {
+          "word": "looks",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 337,
+      "date": "2026-01-20",
+      "reviewer": "Emma",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "review": "Clasp is secure enough for office days. Swim tracking is basic.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "clasp",
+          "count": 1
+        },
+        {
+          "word": "secure",
+          "count": 1
+        },
+        {
+          "word": "enough",
+          "count": 1
+        },
+        {
+          "word": "office",
+          "count": 1
+        },
+        {
+          "word": "days",
+          "count": 1
+        },
+        {
+          "word": "swim",
+          "count": 1
+        },
+        {
+          "word": "tracking",
+          "count": 1
+        },
+        {
+          "word": "basic",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fit & Comfort",
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fit & Comfort": [
+          {
+            "word": "clasp",
+            "count": 1
+          }
+        ],
+        "Fitness & Health": [
+          {
+            "word": "swim",
+            "count": 1
+          },
+          {
+            "word": "tracking",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 338,
+      "date": "2026-01-25",
+      "reviewer": "Sofia",
+      "rating": 2,
+      "sentiment": "Negative",
+      "review": "Strap sizing runs small and the replacement cost is ridiculous.",
+      "word_count": 10,
+      "keywords": [
+        {
+          "word": "strap",
+          "count": 1
+        },
+        {
+          "word": "sizing",
+          "count": 1
+        },
+        {
+          "word": "runs",
+          "count": 1
+        },
+        {
+          "word": "small",
+          "count": 1
+        },
+        {
+          "word": "replacement",
+          "count": 1
+        },
+        {
+          "word": "cost",
+          "count": 1
+        },
+        {
+          "word": "ridiculous",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fit & Comfort",
+        "Value & Price"
+      ],
+      "category_keywords": {
+        "Fit & Comfort": [
+          {
+            "word": "strap",
+            "count": 1
+          }
+        ],
+        "Value & Price": [
+          {
+            "word": "cost",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 339,
+      "date": "2026-01-27",
+      "reviewer": "Maya",
+      "rating": 1,
+      "sentiment": "Negative",
+      "review": "Band irritates my skin after a day. Clasp loosens while I run.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "irritates",
+          "count": 1
+        },
+        {
+          "word": "skin",
+          "count": 1
+        },
+        {
+          "word": "day",
+          "count": 1
+        },
+        {
+          "word": "clasp",
+          "count": 1
+        },
+        {
+          "word": "loosens",
+          "count": 1
+        },
+        {
+          "word": "run",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fit & Comfort"
+      ],
+      "category_keywords": {
+        "Fit & Comfort": [
+          {
+            "word": "irritates",
+            "count": 1
+          },
+          {
+            "word": "skin",
+            "count": 1
+          },
+          {
+            "word": "clasp",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 340,
+      "date": "2026-01-31",
+      "reviewer": "Nikhil",
+      "rating": 4,
+      "sentiment": "Positive",
+      "review": "Swim tracking and auto workout detect both work well. Love the display. Would buy again.",
+      "word_count": 15,
+      "keywords": [
+        {
+          "word": "swim",
+          "count": 1
+        },
+        {
+          "word": "tracking",
+          "count": 1
+        },
+        {
+          "word": "auto",
+          "count": 1
+        },
+        {
+          "word": "workout",
+          "count": 1
+        },
+        {
+          "word": "detect",
+          "count": 1
+        },
+        {
+          "word": "work",
+          "count": 1
+        },
+        {
+          "word": "well",
+          "count": 1
+        },
+        {
+          "word": "love",
+          "count": 1
+        },
+        {
+          "word": "display",
+          "count": 1
+        },
+        {
+          "word": "buy",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "swim",
+            "count": 1
+          },
+          {
+            "word": "tracking",
+            "count": 1
+          },
+          {
+            "word": "workout",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 341,
+      "date": "2026-02-04",
+      "reviewer": "Jonah",
+      "rating": 4,
+      "sentiment": "Positive",
+      "review": "Heart zones during runs look consistent. Charging is quick. Would buy again.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "heart",
+          "count": 1
+        },
+        {
+          "word": "zones",
+          "count": 1
+        },
+        {
+          "word": "runs",
+          "count": 1
+        },
+        {
+          "word": "look",
+          "count": 1
+        },
+        {
+          "word": "consistent",
+          "count": 1
+        },
+        {
+          "word": "charging",
+          "count": 1
+        },
+        {
+          "word": "quick",
+          "count": 1
+        },
+        {
+          "word": "buy",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Battery & Power",
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "heart",
+            "count": 1
+          }
+        ],
+        "Battery & Power": [
+          {
+            "word": "charging",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 342,
+      "date": "2026-02-13",
+      "reviewer": "Alex",
+      "rating": 2,
+      "sentiment": "Negative",
+      "review": "Heart rate spikes randomly during rest. Sleep stages look completely wrong.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "heart",
+          "count": 1
+        },
+        {
+          "word": "rate",
+          "count": 1
+        },
+        {
+          "word": "spikes",
+          "count": 1
+        },
+        {
+          "word": "randomly",
+          "count": 1
+        },
+        {
+          "word": "rest",
+          "count": 1
+        },
+        {
+          "word": "sleep",
+          "count": 1
+        },
+        {
+          "word": "stages",
+          "count": 1
+        },
+        {
+          "word": "look",
+          "count": 1
+        },
+        {
+          "word": "completely",
+          "count": 1
+        },
+        {
+          "word": "wrong",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "heart",
+            "count": 1
+          },
+          {
+            "word": "rate",
+            "count": 1
+          },
+          {
+            "word": "sleep",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 343,
+      "date": "2026-02-13",
+      "reviewer": "Karan",
+      "rating": 4,
+      "sentiment": "Positive",
+      "review": "Sync is reliable and the app charts are clear. Great daily companion.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "sync",
+          "count": 1
+        },
+        {
+          "word": "reliable",
+          "count": 1
+        },
+        {
+          "word": "app",
+          "count": 1
+        },
+        {
+          "word": "charts",
+          "count": 1
+        },
+        {
+          "word": "clear",
+          "count": 1
+        },
+        {
+          "word": "great",
+          "count": 1
+        },
+        {
+          "word": "daily",
+          "count": 1
+        },
+        {
+          "word": "companion",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Connectivity",
+        "Sound Quality"
+      ],
+      "category_keywords": {
+        "Connectivity": [
+          {
+            "word": "sync",
+            "count": 1
+          }
+        ],
+        "Sound Quality": [
+          {
+            "word": "clear",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 344,
+      "date": "2026-02-14",
+      "reviewer": "Chris",
+      "rating": 1,
+      "sentiment": "Negative",
+      "review": "Screen scratches easily. Water lock never engages in the pool.",
+      "word_count": 10,
+      "keywords": [
+        {
+          "word": "screen",
+          "count": 1
+        },
+        {
+          "word": "scratches",
+          "count": 1
+        },
+        {
+          "word": "easily",
+          "count": 1
+        },
+        {
+          "word": "water",
+          "count": 1
+        },
+        {
+          "word": "lock",
+          "count": 1
+        },
+        {
+          "word": "never",
+          "count": 1
+        },
+        {
+          "word": "engages",
+          "count": 1
+        },
+        {
+          "word": "pool",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 345,
+      "date": "2026-02-16",
+      "reviewer": "Ravi",
+      "rating": 4,
+      "sentiment": "Positive",
+      "review": "Notifications are timely. Strap never irritates during workouts.",
+      "word_count": 8,
+      "keywords": [
+        {
+          "word": "notifications",
+          "count": 1
+        },
+        {
+          "word": "timely",
+          "count": 1
+        },
+        {
+          "word": "strap",
+          "count": 1
+        },
+        {
+          "word": "never",
+          "count": 1
+        },
+        {
+          "word": "irritates",
+          "count": 1
+        },
+        {
+          "word": "workouts",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fit & Comfort",
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fit & Comfort": [
+          {
+            "word": "strap",
+            "count": 1
+          },
+          {
+            "word": "irritates",
+            "count": 1
+          }
+        ],
+        "Fitness & Health": [
+          {
+            "word": "workouts",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 346,
+      "date": "2026-02-18",
+      "reviewer": "Amina",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "review": "Good reminder to stand. Metrics feel approximate rather than exact.",
+      "word_count": 10,
+      "keywords": [
+        {
+          "word": "good",
+          "count": 1
+        },
+        {
+          "word": "reminder",
+          "count": 1
+        },
+        {
+          "word": "stand",
+          "count": 1
+        },
+        {
+          "word": "metrics",
+          "count": 1
+        },
+        {
+          "word": "feel",
+          "count": 1
+        },
+        {
+          "word": "approximate",
+          "count": 1
+        },
+        {
+          "word": "rather",
+          "count": 1
+        },
+        {
+          "word": "exact",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 347,
+      "date": "2026-02-26",
+      "reviewer": "Alex",
+      "rating": 2,
+      "sentiment": "Negative",
+      "review": "Heart rate spikes randomly during rest. Sleep stages look completely wrong.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "heart",
+          "count": 1
+        },
+        {
+          "word": "rate",
+          "count": 1
+        },
+        {
+          "word": "spikes",
+          "count": 1
+        },
+        {
+          "word": "randomly",
+          "count": 1
+        },
+        {
+          "word": "rest",
+          "count": 1
+        },
+        {
+          "word": "sleep",
+          "count": 1
+        },
+        {
+          "word": "stages",
+          "count": 1
+        },
+        {
+          "word": "look",
+          "count": 1
+        },
+        {
+          "word": "completely",
+          "count": 1
+        },
+        {
+          "word": "wrong",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "heart",
+            "count": 1
+          },
+          {
+            "word": "rate",
+            "count": 1
+          },
+          {
+            "word": "sleep",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 348,
+      "date": "2026-02-26",
+      "reviewer": "Meera",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "review": "Good reminder to stand. Metrics feel approximate rather than exact. Still deciding if I will keep them.",
+      "word_count": 17,
+      "keywords": [
+        {
+          "word": "good",
+          "count": 1
+        },
+        {
+          "word": "reminder",
+          "count": 1
+        },
+        {
+          "word": "stand",
+          "count": 1
+        },
+        {
+          "word": "metrics",
+          "count": 1
+        },
+        {
+          "word": "feel",
+          "count": 1
+        },
+        {
+          "word": "approximate",
+          "count": 1
+        },
+        {
+          "word": "rather",
+          "count": 1
+        },
+        {
+          "word": "exact",
+          "count": 1
+        },
+        {
+          "word": "deciding",
+          "count": 1
+        },
+        {
+          "word": "keep",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 349,
+      "date": "2026-03-01",
+      "reviewer": "Mark",
+      "rating": 1,
+      "sentiment": "Negative",
+      "review": "Band irritates my skin after a day. Clasp loosens while I run.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "irritates",
+          "count": 1
+        },
+        {
+          "word": "skin",
+          "count": 1
+        },
+        {
+          "word": "day",
+          "count": 1
+        },
+        {
+          "word": "clasp",
+          "count": 1
+        },
+        {
+          "word": "loosens",
+          "count": 1
+        },
+        {
+          "word": "run",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fit & Comfort"
+      ],
+      "category_keywords": {
+        "Fit & Comfort": [
+          {
+            "word": "irritates",
+            "count": 1
+          },
+          {
+            "word": "skin",
+            "count": 1
+          },
+          {
+            "word": "clasp",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 350,
+      "date": "2026-03-02",
+      "reviewer": "Rohan",
+      "rating": 1,
+      "sentiment": "Negative",
+      "review": "Calorie estimates are wildly high. Coach tips feel generic and wrong.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "calorie",
+          "count": 1
+        },
+        {
+          "word": "estimates",
+          "count": 1
+        },
+        {
+          "word": "wildly",
+          "count": 1
+        },
+        {
+          "word": "high",
+          "count": 1
+        },
+        {
+          "word": "coach",
+          "count": 1
+        },
+        {
+          "word": "tips",
+          "count": 1
+        },
+        {
+          "word": "feel",
+          "count": 1
+        },
+        {
+          "word": "generic",
+          "count": 1
+        },
+        {
+          "word": "wrong",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fit & Comfort"
+      ],
+      "category_keywords": {
+        "Fit & Comfort": [
+          {
+            "word": "tips",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 351,
+      "date": "2026-03-03",
+      "reviewer": "Omar",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "review": "Syncs when it wants to. Design is plain and inoffensive.",
+      "word_count": 10,
+      "keywords": [
+        {
+          "word": "syncs",
+          "count": 1
+        },
+        {
+          "word": "wants",
+          "count": 1
+        },
+        {
+          "word": "design",
+          "count": 1
+        },
+        {
+          "word": "plain",
+          "count": 1
+        },
+        {
+          "word": "inoffensive",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Connectivity"
+      ],
+      "category_keywords": {
+        "Connectivity": [
+          {
+            "word": "syncs",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 352,
+      "date": "2026-03-03",
+      "reviewer": "Grace",
+      "rating": 2,
+      "sentiment": "Negative",
+      "review": "Strap sizing runs small and the replacement cost is ridiculous.",
+      "word_count": 10,
+      "keywords": [
+        {
+          "word": "strap",
+          "count": 1
+        },
+        {
+          "word": "sizing",
+          "count": 1
+        },
+        {
+          "word": "runs",
+          "count": 1
+        },
+        {
+          "word": "small",
+          "count": 1
+        },
+        {
+          "word": "replacement",
+          "count": 1
+        },
+        {
+          "word": "cost",
+          "count": 1
+        },
+        {
+          "word": "ridiculous",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fit & Comfort",
+        "Value & Price"
+      ],
+      "category_keywords": {
+        "Fit & Comfort": [
+          {
+            "word": "strap",
+            "count": 1
+          }
+        ],
+        "Value & Price": [
+          {
+            "word": "cost",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 353,
+      "date": "2026-03-09",
+      "reviewer": "Neha",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "review": "Clasp is secure enough for office days. Swim tracking is basic.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "clasp",
+          "count": 1
+        },
+        {
+          "word": "secure",
+          "count": 1
+        },
+        {
+          "word": "enough",
+          "count": 1
+        },
+        {
+          "word": "office",
+          "count": 1
+        },
+        {
+          "word": "days",
+          "count": 1
+        },
+        {
+          "word": "swim",
+          "count": 1
+        },
+        {
+          "word": "tracking",
+          "count": 1
+        },
+        {
+          "word": "basic",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fit & Comfort",
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fit & Comfort": [
+          {
+            "word": "clasp",
+            "count": 1
+          }
+        ],
+        "Fitness & Health": [
+          {
+            "word": "swim",
+            "count": 1
+          },
+          {
+            "word": "tracking",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 354,
+      "date": "2026-03-10",
+      "reviewer": "Jake",
+      "rating": 4,
+      "sentiment": "Positive",
+      "review": "Sync is reliable and the app charts are clear. Great daily companion.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "sync",
+          "count": 1
+        },
+        {
+          "word": "reliable",
+          "count": 1
+        },
+        {
+          "word": "app",
+          "count": 1
+        },
+        {
+          "word": "charts",
+          "count": 1
+        },
+        {
+          "word": "clear",
+          "count": 1
+        },
+        {
+          "word": "great",
+          "count": 1
+        },
+        {
+          "word": "daily",
+          "count": 1
+        },
+        {
+          "word": "companion",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Connectivity",
+        "Sound Quality"
+      ],
+      "category_keywords": {
+        "Connectivity": [
+          {
+            "word": "sync",
+            "count": 1
+          }
+        ],
+        "Sound Quality": [
+          {
+            "word": "clear",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 355,
+      "date": "2026-03-10",
+      "reviewer": "Owen",
+      "rating": 2,
+      "sentiment": "Negative",
+      "review": "Strap sizing runs small and the replacement cost is ridiculous.",
+      "word_count": 10,
+      "keywords": [
+        {
+          "word": "strap",
+          "count": 1
+        },
+        {
+          "word": "sizing",
+          "count": 1
+        },
+        {
+          "word": "runs",
+          "count": 1
+        },
+        {
+          "word": "small",
+          "count": 1
+        },
+        {
+          "word": "replacement",
+          "count": 1
+        },
+        {
+          "word": "cost",
+          "count": 1
+        },
+        {
+          "word": "ridiculous",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fit & Comfort",
+        "Value & Price"
+      ],
+      "category_keywords": {
+        "Fit & Comfort": [
+          {
+            "word": "strap",
+            "count": 1
+          }
+        ],
+        "Value & Price": [
+          {
+            "word": "cost",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 356,
+      "date": "2026-03-13",
+      "reviewer": "Priya",
+      "rating": 1,
+      "sentiment": "Negative",
+      "review": "GPS tracks are jagged and overstate distance. Useless for training.",
+      "word_count": 10,
+      "keywords": [
+        {
+          "word": "gps",
+          "count": 1
+        },
+        {
+          "word": "tracks",
+          "count": 1
+        },
+        {
+          "word": "jagged",
+          "count": 1
+        },
+        {
+          "word": "overstate",
+          "count": 1
+        },
+        {
+          "word": "distance",
+          "count": 1
+        },
+        {
+          "word": "useless",
+          "count": 1
+        },
+        {
+          "word": "training",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "gps",
+            "count": 1
+          },
+          {
+            "word": "tracks",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 357,
+      "date": "2026-03-16",
+      "reviewer": "Riya",
+      "rating": 1,
+      "sentiment": "Negative",
+      "review": "Steps are undercounted compared with my phone. Sync fails twice a week.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "steps",
+          "count": 1
+        },
+        {
+          "word": "undercounted",
+          "count": 1
+        },
+        {
+          "word": "compared",
+          "count": 1
+        },
+        {
+          "word": "phone",
+          "count": 1
+        },
+        {
+          "word": "sync",
+          "count": 1
+        },
+        {
+          "word": "fails",
+          "count": 1
+        },
+        {
+          "word": "twice",
+          "count": 1
+        },
+        {
+          "word": "week",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Connectivity",
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "steps",
+            "count": 1
+          }
+        ],
+        "Connectivity": [
+          {
+            "word": "sync",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 358,
+      "date": "2026-03-19",
+      "reviewer": "Priya",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "review": "Fine for casual walking goals. Not precise enough for serious training.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "fine",
+          "count": 1
+        },
+        {
+          "word": "casual",
+          "count": 1
+        },
+        {
+          "word": "walking",
+          "count": 1
+        },
+        {
+          "word": "goals",
+          "count": 1
+        },
+        {
+          "word": "precise",
+          "count": 1
+        },
+        {
+          "word": "enough",
+          "count": 1
+        },
+        {
+          "word": "serious",
+          "count": 1
+        },
+        {
+          "word": "training",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 359,
+      "date": "2026-03-20",
+      "reviewer": "Grace",
+      "rating": 2,
+      "sentiment": "Negative",
+      "review": "Heart rate spikes randomly during rest. Sleep stages look completely wrong.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "heart",
+          "count": 1
+        },
+        {
+          "word": "rate",
+          "count": 1
+        },
+        {
+          "word": "spikes",
+          "count": 1
+        },
+        {
+          "word": "randomly",
+          "count": 1
+        },
+        {
+          "word": "rest",
+          "count": 1
+        },
+        {
+          "word": "sleep",
+          "count": 1
+        },
+        {
+          "word": "stages",
+          "count": 1
+        },
+        {
+          "word": "look",
+          "count": 1
+        },
+        {
+          "word": "completely",
+          "count": 1
+        },
+        {
+          "word": "wrong",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "heart",
+            "count": 1
+          },
+          {
+            "word": "rate",
+            "count": 1
+          },
+          {
+            "word": "sleep",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 360,
+      "date": "2026-03-22",
+      "reviewer": "Isha",
+      "rating": 4,
+      "sentiment": "Positive",
+      "review": "Simple band that just works. Metrics are steady week after week.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "week",
+          "count": 2
+        },
+        {
+          "word": "simple",
+          "count": 1
+        },
+        {
+          "word": "works",
+          "count": 1
+        },
+        {
+          "word": "metrics",
+          "count": 1
+        },
+        {
+          "word": "steady",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 361,
+      "date": "2026-03-23",
+      "reviewer": "Ravi",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "review": "Light on the wrist. Battery lasts about four days with always-on off.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "light",
+          "count": 1
+        },
+        {
+          "word": "wrist",
+          "count": 1
+        },
+        {
+          "word": "battery",
+          "count": 1
+        },
+        {
+          "word": "lasts",
+          "count": 1
+        },
+        {
+          "word": "four",
+          "count": 1
+        },
+        {
+          "word": "days",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Battery & Power"
+      ],
+      "category_keywords": {
+        "Battery & Power": [
+          {
+            "word": "battery",
+            "count": 1
+          },
+          {
+            "word": "lasts",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 362,
+      "date": "2026-03-25",
+      "reviewer": "Maya",
+      "rating": 2,
+      "sentiment": "Negative",
+      "review": "Strap sizing runs small and the replacement cost is ridiculous.",
+      "word_count": 10,
+      "keywords": [
+        {
+          "word": "strap",
+          "count": 1
+        },
+        {
+          "word": "sizing",
+          "count": 1
+        },
+        {
+          "word": "runs",
+          "count": 1
+        },
+        {
+          "word": "small",
+          "count": 1
+        },
+        {
+          "word": "replacement",
+          "count": 1
+        },
+        {
+          "word": "cost",
+          "count": 1
+        },
+        {
+          "word": "ridiculous",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fit & Comfort",
+        "Value & Price"
+      ],
+      "category_keywords": {
+        "Fit & Comfort": [
+          {
+            "word": "strap",
+            "count": 1
+          }
+        ],
+        "Value & Price": [
+          {
+            "word": "cost",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 363,
+      "date": "2026-03-26",
+      "reviewer": "Paul",
+      "rating": 5,
+      "sentiment": "Positive",
+      "review": "Sync is reliable and the app charts are clear. Great daily companion.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "sync",
+          "count": 1
+        },
+        {
+          "word": "reliable",
+          "count": 1
+        },
+        {
+          "word": "app",
+          "count": 1
+        },
+        {
+          "word": "charts",
+          "count": 1
+        },
+        {
+          "word": "clear",
+          "count": 1
+        },
+        {
+          "word": "great",
+          "count": 1
+        },
+        {
+          "word": "daily",
+          "count": 1
+        },
+        {
+          "word": "companion",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Connectivity",
+        "Sound Quality"
+      ],
+      "category_keywords": {
+        "Connectivity": [
+          {
+            "word": "sync",
+            "count": 1
+          }
+        ],
+        "Sound Quality": [
+          {
+            "word": "clear",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 364,
+      "date": "2026-03-30",
+      "reviewer": "Vikram",
+      "rating": 5,
+      "sentiment": "Positive",
+      "review": "Notifications are timely. Strap never irritates during workouts. Would buy again.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "notifications",
+          "count": 1
+        },
+        {
+          "word": "timely",
+          "count": 1
+        },
+        {
+          "word": "strap",
+          "count": 1
+        },
+        {
+          "word": "never",
+          "count": 1
+        },
+        {
+          "word": "irritates",
+          "count": 1
+        },
+        {
+          "word": "workouts",
+          "count": 1
+        },
+        {
+          "word": "buy",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fit & Comfort",
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fit & Comfort": [
+          {
+            "word": "strap",
+            "count": 1
+          },
+          {
+            "word": "irritates",
+            "count": 1
+          }
+        ],
+        "Fitness & Health": [
+          {
+            "word": "workouts",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 365,
+      "date": "2026-04-04",
+      "reviewer": "Ravi",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "review": "Does the basics. Nothing broken, nothing impressive.",
+      "word_count": 7,
+      "keywords": [
+        {
+          "word": "basics",
+          "count": 1
+        },
+        {
+          "word": "broken",
+          "count": 1
+        },
+        {
+          "word": "impressive",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 366,
+      "date": "2026-04-04",
+      "reviewer": "Lina",
+      "rating": 1,
+      "sentiment": "Negative",
+      "review": "Strap sizing runs small and the replacement cost is ridiculous.",
+      "word_count": 10,
+      "keywords": [
+        {
+          "word": "strap",
+          "count": 1
+        },
+        {
+          "word": "sizing",
+          "count": 1
+        },
+        {
+          "word": "runs",
+          "count": 1
+        },
+        {
+          "word": "small",
+          "count": 1
+        },
+        {
+          "word": "replacement",
+          "count": 1
+        },
+        {
+          "word": "cost",
+          "count": 1
+        },
+        {
+          "word": "ridiculous",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fit & Comfort",
+        "Value & Price"
+      ],
+      "category_keywords": {
+        "Fit & Comfort": [
+          {
+            "word": "strap",
+            "count": 1
+          }
+        ],
+        "Value & Price": [
+          {
+            "word": "cost",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 367,
+      "date": "2026-04-06",
+      "reviewer": "Emma",
+      "rating": 2,
+      "sentiment": "Negative",
+      "review": "Steps are undercounted compared with my phone. Sync fails twice a week.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "steps",
+          "count": 1
+        },
+        {
+          "word": "undercounted",
+          "count": 1
+        },
+        {
+          "word": "compared",
+          "count": 1
+        },
+        {
+          "word": "phone",
+          "count": 1
+        },
+        {
+          "word": "sync",
+          "count": 1
+        },
+        {
+          "word": "fails",
+          "count": 1
+        },
+        {
+          "word": "twice",
+          "count": 1
+        },
+        {
+          "word": "week",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Connectivity",
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "steps",
+            "count": 1
+          }
+        ],
+        "Connectivity": [
+          {
+            "word": "sync",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 368,
+      "date": "2026-04-10",
+      "reviewer": "Anika",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "review": "App is simple. I wish workouts had more sport profiles.",
+      "word_count": 10,
+      "keywords": [
+        {
+          "word": "app",
+          "count": 1
+        },
+        {
+          "word": "simple",
+          "count": 1
+        },
+        {
+          "word": "wish",
+          "count": 1
+        },
+        {
+          "word": "workouts",
+          "count": 1
+        },
+        {
+          "word": "sport",
+          "count": 1
+        },
+        {
+          "word": "profiles",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "workouts",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 369,
+      "date": "2026-04-13",
+      "reviewer": "Kabir",
+      "rating": 1,
+      "sentiment": "Negative",
+      "review": "After the latest update the band will not pair. Factory reset did nothing.",
+      "word_count": 13,
+      "keywords": [
+        {
+          "word": "latest",
+          "count": 1
+        },
+        {
+          "word": "update",
+          "count": 1
+        },
+        {
+          "word": "factory",
+          "count": 1
+        },
+        {
+          "word": "reset",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 370,
+      "date": "2026-04-13",
+      "reviewer": "Paul",
+      "rating": 2,
+      "sentiment": "Negative",
+      "review": "Band irritates my skin after a day. Clasp loosens while I run.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "irritates",
+          "count": 1
+        },
+        {
+          "word": "skin",
+          "count": 1
+        },
+        {
+          "word": "day",
+          "count": 1
+        },
+        {
+          "word": "clasp",
+          "count": 1
+        },
+        {
+          "word": "loosens",
+          "count": 1
+        },
+        {
+          "word": "run",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fit & Comfort"
+      ],
+      "category_keywords": {
+        "Fit & Comfort": [
+          {
+            "word": "irritates",
+            "count": 1
+          },
+          {
+            "word": "skin",
+            "count": 1
+          },
+          {
+            "word": "clasp",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 371,
+      "date": "2026-04-15",
+      "reviewer": "Karan",
+      "rating": 5,
+      "sentiment": "Positive",
+      "review": "Accurate resting heart rate and sleep that finally matches how I feel.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "accurate",
+          "count": 1
+        },
+        {
+          "word": "resting",
+          "count": 1
+        },
+        {
+          "word": "heart",
+          "count": 1
+        },
+        {
+          "word": "rate",
+          "count": 1
+        },
+        {
+          "word": "sleep",
+          "count": 1
+        },
+        {
+          "word": "finally",
+          "count": 1
+        },
+        {
+          "word": "matches",
+          "count": 1
+        },
+        {
+          "word": "feel",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "heart",
+            "count": 1
+          },
+          {
+            "word": "rate",
+            "count": 1
+          },
+          {
+            "word": "sleep",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 372,
+      "date": "2026-04-21",
+      "reviewer": "Elena",
+      "rating": 1,
+      "sentiment": "Negative",
+      "review": "Notifications arrive late or not at all. App crashes on open.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "notifications",
+          "count": 1
+        },
+        {
+          "word": "arrive",
+          "count": 1
+        },
+        {
+          "word": "late",
+          "count": 1
+        },
+        {
+          "word": "app",
+          "count": 1
+        },
+        {
+          "word": "crashes",
+          "count": 1
+        },
+        {
+          "word": "open",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 373,
+      "date": "2026-04-24",
+      "reviewer": "Vikram",
+      "rating": 2,
+      "sentiment": "Negative",
+      "review": "Screen scratches easily. Water lock never engages in the pool.",
+      "word_count": 10,
+      "keywords": [
+        {
+          "word": "screen",
+          "count": 1
+        },
+        {
+          "word": "scratches",
+          "count": 1
+        },
+        {
+          "word": "easily",
+          "count": 1
+        },
+        {
+          "word": "water",
+          "count": 1
+        },
+        {
+          "word": "lock",
+          "count": 1
+        },
+        {
+          "word": "never",
+          "count": 1
+        },
+        {
+          "word": "engages",
+          "count": 1
+        },
+        {
+          "word": "pool",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 374,
+      "date": "2026-04-24",
+      "reviewer": "Riya",
+      "rating": 2,
+      "sentiment": "Negative",
+      "review": "Calorie estimates are wildly high. Coach tips feel generic and wrong.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "calorie",
+          "count": 1
+        },
+        {
+          "word": "estimates",
+          "count": 1
+        },
+        {
+          "word": "wildly",
+          "count": 1
+        },
+        {
+          "word": "high",
+          "count": 1
+        },
+        {
+          "word": "coach",
+          "count": 1
+        },
+        {
+          "word": "tips",
+          "count": 1
+        },
+        {
+          "word": "feel",
+          "count": 1
+        },
+        {
+          "word": "generic",
+          "count": 1
+        },
+        {
+          "word": "wrong",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fit & Comfort"
+      ],
+      "category_keywords": {
+        "Fit & Comfort": [
+          {
+            "word": "tips",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 375,
+      "date": "2026-04-26",
+      "reviewer": "Leo",
+      "rating": 5,
+      "sentiment": "Positive",
+      "review": "Swim tracking and auto workout detect both work well. Love the display.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "swim",
+          "count": 1
+        },
+        {
+          "word": "tracking",
+          "count": 1
+        },
+        {
+          "word": "auto",
+          "count": 1
+        },
+        {
+          "word": "workout",
+          "count": 1
+        },
+        {
+          "word": "detect",
+          "count": 1
+        },
+        {
+          "word": "work",
+          "count": 1
+        },
+        {
+          "word": "well",
+          "count": 1
+        },
+        {
+          "word": "love",
+          "count": 1
+        },
+        {
+          "word": "display",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "swim",
+            "count": 1
+          },
+          {
+            "word": "tracking",
+            "count": 1
+          },
+          {
+            "word": "workout",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 376,
+      "date": "2026-04-26",
+      "reviewer": "Hugo",
+      "rating": 4,
+      "sentiment": "Positive",
+      "review": "Simple band that just works. Metrics are steady week after week.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "week",
+          "count": 2
+        },
+        {
+          "word": "simple",
+          "count": 1
+        },
+        {
+          "word": "works",
+          "count": 1
+        },
+        {
+          "word": "metrics",
+          "count": 1
+        },
+        {
+          "word": "steady",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 377,
+      "date": "2026-04-29",
+      "reviewer": "Tara",
+      "rating": 5,
+      "sentiment": "Positive",
+      "review": "Step goals keep me moving. Nighttime comfort is excellent.",
+      "word_count": 9,
+      "keywords": [
+        {
+          "word": "step",
+          "count": 1
+        },
+        {
+          "word": "goals",
+          "count": 1
+        },
+        {
+          "word": "keep",
+          "count": 1
+        },
+        {
+          "word": "moving",
+          "count": 1
+        },
+        {
+          "word": "nighttime",
+          "count": 1
+        },
+        {
+          "word": "comfort",
+          "count": 1
+        },
+        {
+          "word": "excellent",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fit & Comfort"
+      ],
+      "category_keywords": {
+        "Fit & Comfort": [
+          {
+            "word": "comfort",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 378,
+      "date": "2026-04-30",
+      "reviewer": "Chris",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "review": "Fine for casual walking goals. Not precise enough for serious training. Still deciding if I will keep them.",
+      "word_count": 18,
+      "keywords": [
+        {
+          "word": "fine",
+          "count": 1
+        },
+        {
+          "word": "casual",
+          "count": 1
+        },
+        {
+          "word": "walking",
+          "count": 1
+        },
+        {
+          "word": "goals",
+          "count": 1
+        },
+        {
+          "word": "precise",
+          "count": 1
+        },
+        {
+          "word": "enough",
+          "count": 1
+        },
+        {
+          "word": "serious",
+          "count": 1
+        },
+        {
+          "word": "training",
+          "count": 1
+        },
+        {
+          "word": "deciding",
+          "count": 1
+        },
+        {
+          "word": "keep",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 379,
+      "date": "2026-05-02",
+      "reviewer": "Karan",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "review": "Fine for casual walking goals. Not precise enough for serious training.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "fine",
+          "count": 1
+        },
+        {
+          "word": "casual",
+          "count": 1
+        },
+        {
+          "word": "walking",
+          "count": 1
+        },
+        {
+          "word": "goals",
+          "count": 1
+        },
+        {
+          "word": "precise",
+          "count": 1
+        },
+        {
+          "word": "enough",
+          "count": 1
+        },
+        {
+          "word": "serious",
+          "count": 1
+        },
+        {
+          "word": "training",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 380,
+      "date": "2026-05-03",
+      "reviewer": "Kabir",
+      "rating": 1,
+      "sentiment": "Negative",
+      "review": "Heart rate spikes randomly during rest. Sleep stages look completely wrong.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "heart",
+          "count": 1
+        },
+        {
+          "word": "rate",
+          "count": 1
+        },
+        {
+          "word": "spikes",
+          "count": 1
+        },
+        {
+          "word": "randomly",
+          "count": 1
+        },
+        {
+          "word": "rest",
+          "count": 1
+        },
+        {
+          "word": "sleep",
+          "count": 1
+        },
+        {
+          "word": "stages",
+          "count": 1
+        },
+        {
+          "word": "look",
+          "count": 1
+        },
+        {
+          "word": "completely",
+          "count": 1
+        },
+        {
+          "word": "wrong",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "heart",
+            "count": 1
+          },
+          {
+            "word": "rate",
+            "count": 1
+          },
+          {
+            "word": "sleep",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 381,
+      "date": "2026-05-25",
+      "reviewer": "Tom",
+      "rating": 2,
+      "sentiment": "Negative",
+      "review": "Strap sizing runs small and the replacement cost is ridiculous.",
+      "word_count": 10,
+      "keywords": [
+        {
+          "word": "strap",
+          "count": 1
+        },
+        {
+          "word": "sizing",
+          "count": 1
+        },
+        {
+          "word": "runs",
+          "count": 1
+        },
+        {
+          "word": "small",
+          "count": 1
+        },
+        {
+          "word": "replacement",
+          "count": 1
+        },
+        {
+          "word": "cost",
+          "count": 1
+        },
+        {
+          "word": "ridiculous",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fit & Comfort",
+        "Value & Price"
+      ],
+      "category_keywords": {
+        "Fit & Comfort": [
+          {
+            "word": "strap",
+            "count": 1
+          }
+        ],
+        "Value & Price": [
+          {
+            "word": "cost",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 382,
+      "date": "2026-05-26",
+      "reviewer": "Imran",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "review": "Good reminder to stand. Metrics feel approximate rather than exact.",
+      "word_count": 10,
+      "keywords": [
+        {
+          "word": "good",
+          "count": 1
+        },
+        {
+          "word": "reminder",
+          "count": 1
+        },
+        {
+          "word": "stand",
+          "count": 1
+        },
+        {
+          "word": "metrics",
+          "count": 1
+        },
+        {
+          "word": "feel",
+          "count": 1
+        },
+        {
+          "word": "approximate",
+          "count": 1
+        },
+        {
+          "word": "rather",
+          "count": 1
+        },
+        {
+          "word": "exact",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 383,
+      "date": "2026-05-27",
+      "reviewer": "Dev",
+      "rating": 5,
+      "sentiment": "Positive",
+      "review": "Light, comfortable, and the battery easily lasts a full week.",
+      "word_count": 10,
+      "keywords": [
+        {
+          "word": "light",
+          "count": 1
+        },
+        {
+          "word": "comfortable",
+          "count": 1
+        },
+        {
+          "word": "battery",
+          "count": 1
+        },
+        {
+          "word": "easily",
+          "count": 1
+        },
+        {
+          "word": "lasts",
+          "count": 1
+        },
+        {
+          "word": "full",
+          "count": 1
+        },
+        {
+          "word": "week",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Battery & Power",
+        "Fit & Comfort"
+      ],
+      "category_keywords": {
+        "Fit & Comfort": [
+          {
+            "word": "comfortable",
+            "count": 1
+          }
+        ],
+        "Battery & Power": [
+          {
+            "word": "battery",
+            "count": 1
+          },
+          {
+            "word": "lasts",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 384,
+      "date": "2026-05-28",
+      "reviewer": "Jonah",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "review": "App is simple. I wish workouts had more sport profiles.",
+      "word_count": 10,
+      "keywords": [
+        {
+          "word": "app",
+          "count": 1
+        },
+        {
+          "word": "simple",
+          "count": 1
+        },
+        {
+          "word": "wish",
+          "count": 1
+        },
+        {
+          "word": "workouts",
+          "count": 1
+        },
+        {
+          "word": "sport",
+          "count": 1
+        },
+        {
+          "word": "profiles",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "workouts",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 385,
+      "date": "2026-05-29",
+      "reviewer": "Amina",
+      "rating": 5,
+      "sentiment": "Positive",
+      "review": "Accurate resting heart rate and sleep that finally matches how I feel.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "accurate",
+          "count": 1
+        },
+        {
+          "word": "resting",
+          "count": 1
+        },
+        {
+          "word": "heart",
+          "count": 1
+        },
+        {
+          "word": "rate",
+          "count": 1
+        },
+        {
+          "word": "sleep",
+          "count": 1
+        },
+        {
+          "word": "finally",
+          "count": 1
+        },
+        {
+          "word": "matches",
+          "count": 1
+        },
+        {
+          "word": "feel",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "heart",
+            "count": 1
+          },
+          {
+            "word": "rate",
+            "count": 1
+          },
+          {
+            "word": "sleep",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 386,
+      "date": "2026-06-03",
+      "reviewer": "Imran",
+      "rating": 4,
+      "sentiment": "Positive",
+      "review": "Heart zones during runs look consistent. Charging is quick.",
+      "word_count": 9,
+      "keywords": [
+        {
+          "word": "heart",
+          "count": 1
+        },
+        {
+          "word": "zones",
+          "count": 1
+        },
+        {
+          "word": "runs",
+          "count": 1
+        },
+        {
+          "word": "look",
+          "count": 1
+        },
+        {
+          "word": "consistent",
+          "count": 1
+        },
+        {
+          "word": "charging",
+          "count": 1
+        },
+        {
+          "word": "quick",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Battery & Power",
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "heart",
+            "count": 1
+          }
+        ],
+        "Battery & Power": [
+          {
+            "word": "charging",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 387,
+      "date": "2026-06-08",
+      "reviewer": "Fatima",
+      "rating": 4,
+      "sentiment": "Positive",
+      "review": "Swim tracking and auto workout detect both work well. Love the display.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "swim",
+          "count": 1
+        },
+        {
+          "word": "tracking",
+          "count": 1
+        },
+        {
+          "word": "auto",
+          "count": 1
+        },
+        {
+          "word": "workout",
+          "count": 1
+        },
+        {
+          "word": "detect",
+          "count": 1
+        },
+        {
+          "word": "work",
+          "count": 1
+        },
+        {
+          "word": "well",
+          "count": 1
+        },
+        {
+          "word": "love",
+          "count": 1
+        },
+        {
+          "word": "display",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "swim",
+            "count": 1
+          },
+          {
+            "word": "tracking",
+            "count": 1
+          },
+          {
+            "word": "workout",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 388,
+      "date": "2026-06-12",
+      "reviewer": "Rahul",
+      "rating": 1,
+      "sentiment": "Negative",
+      "review": "Strap sizing runs small and the replacement cost is ridiculous.",
+      "word_count": 10,
+      "keywords": [
+        {
+          "word": "strap",
+          "count": 1
+        },
+        {
+          "word": "sizing",
+          "count": 1
+        },
+        {
+          "word": "runs",
+          "count": 1
+        },
+        {
+          "word": "small",
+          "count": 1
+        },
+        {
+          "word": "replacement",
+          "count": 1
+        },
+        {
+          "word": "cost",
+          "count": 1
+        },
+        {
+          "word": "ridiculous",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fit & Comfort",
+        "Value & Price"
+      ],
+      "category_keywords": {
+        "Fit & Comfort": [
+          {
+            "word": "strap",
+            "count": 1
+          }
+        ],
+        "Value & Price": [
+          {
+            "word": "cost",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 389,
+      "date": "2026-06-15",
+      "reviewer": "Alex",
+      "rating": 4,
+      "sentiment": "Positive",
+      "review": "Simple band that just works. Metrics are steady week after week.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "week",
+          "count": 2
+        },
+        {
+          "word": "simple",
+          "count": 1
+        },
+        {
+          "word": "works",
+          "count": 1
+        },
+        {
+          "word": "metrics",
+          "count": 1
+        },
+        {
+          "word": "steady",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 390,
+      "date": "2026-06-16",
+      "reviewer": "Samir",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "review": "Light on the wrist. Battery lasts about four days with always-on off.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "light",
+          "count": 1
+        },
+        {
+          "word": "wrist",
+          "count": 1
+        },
+        {
+          "word": "battery",
+          "count": 1
+        },
+        {
+          "word": "lasts",
+          "count": 1
+        },
+        {
+          "word": "four",
+          "count": 1
+        },
+        {
+          "word": "days",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Battery & Power"
+      ],
+      "category_keywords": {
+        "Battery & Power": [
+          {
+            "word": "battery",
+            "count": 1
+          },
+          {
+            "word": "lasts",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 391,
+      "date": "2026-06-16",
+      "reviewer": "Leela",
+      "rating": 1,
+      "sentiment": "Negative",
+      "review": "Disappointed overall. Notifications arrive late or not at all. App crashes on open.",
+      "word_count": 13,
+      "keywords": [
+        {
+          "word": "disappointed",
+          "count": 1
+        },
+        {
+          "word": "overall",
+          "count": 1
+        },
+        {
+          "word": "notifications",
+          "count": 1
+        },
+        {
+          "word": "arrive",
+          "count": 1
+        },
+        {
+          "word": "late",
+          "count": 1
+        },
+        {
+          "word": "app",
+          "count": 1
+        },
+        {
+          "word": "crashes",
+          "count": 1
+        },
+        {
+          "word": "open",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 392,
+      "date": "2026-06-16",
+      "reviewer": "Helena",
+      "rating": 5,
+      "sentiment": "Positive",
+      "review": "Simple band that just works. Metrics are steady week after week. Would buy again.",
+      "word_count": 14,
+      "keywords": [
+        {
+          "word": "week",
+          "count": 2
+        },
+        {
+          "word": "simple",
+          "count": 1
+        },
+        {
+          "word": "works",
+          "count": 1
+        },
+        {
+          "word": "metrics",
+          "count": 1
+        },
+        {
+          "word": "steady",
+          "count": 1
+        },
+        {
+          "word": "buy",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 393,
+      "date": "2026-06-18",
+      "reviewer": "Maya",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "review": "Comfortable overnight. Heart rate looks plausible at rest.",
+      "word_count": 8,
+      "keywords": [
+        {
+          "word": "comfortable",
+          "count": 1
+        },
+        {
+          "word": "overnight",
+          "count": 1
+        },
+        {
+          "word": "heart",
+          "count": 1
+        },
+        {
+          "word": "rate",
+          "count": 1
+        },
+        {
+          "word": "looks",
+          "count": 1
+        },
+        {
+          "word": "plausible",
+          "count": 1
+        },
+        {
+          "word": "rest",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fit & Comfort",
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fit & Comfort": [
+          {
+            "word": "comfortable",
+            "count": 1
+          }
+        ],
+        "Fitness & Health": [
+          {
+            "word": "heart",
+            "count": 1
+          },
+          {
+            "word": "rate",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 394,
+      "date": "2026-06-19",
+      "reviewer": "Leela",
+      "rating": 4,
+      "sentiment": "Positive",
+      "review": "Simple band that just works. Metrics are steady week after week.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "week",
+          "count": 2
+        },
+        {
+          "word": "simple",
+          "count": 1
+        },
+        {
+          "word": "works",
+          "count": 1
+        },
+        {
+          "word": "metrics",
+          "count": 1
+        },
+        {
+          "word": "steady",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 395,
+      "date": "2026-06-20",
+      "reviewer": "Anika",
+      "rating": 5,
+      "sentiment": "Positive",
+      "review": "Accurate resting heart rate and sleep that finally matches how I feel.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "accurate",
+          "count": 1
+        },
+        {
+          "word": "resting",
+          "count": 1
+        },
+        {
+          "word": "heart",
+          "count": 1
+        },
+        {
+          "word": "rate",
+          "count": 1
+        },
+        {
+          "word": "sleep",
+          "count": 1
+        },
+        {
+          "word": "finally",
+          "count": 1
+        },
+        {
+          "word": "matches",
+          "count": 1
+        },
+        {
+          "word": "feel",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "heart",
+            "count": 1
+          },
+          {
+            "word": "rate",
+            "count": 1
+          },
+          {
+            "word": "sleep",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 396,
+      "date": "2026-06-21",
+      "reviewer": "Ravi",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "review": "App is simple. I wish workouts had more sport profiles.",
+      "word_count": 10,
+      "keywords": [
+        {
+          "word": "app",
+          "count": 1
+        },
+        {
+          "word": "simple",
+          "count": 1
+        },
+        {
+          "word": "wish",
+          "count": 1
+        },
+        {
+          "word": "workouts",
+          "count": 1
+        },
+        {
+          "word": "sport",
+          "count": 1
+        },
+        {
+          "word": "profiles",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "workouts",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 397,
+      "date": "2026-06-21",
+      "reviewer": "Samir",
+      "rating": 4,
+      "sentiment": "Positive",
+      "review": "GPS runs are clean and the coach tips helped me improve pace.",
+      "word_count": 12,
+      "keywords": [
+        {
+          "word": "gps",
+          "count": 1
+        },
+        {
+          "word": "runs",
+          "count": 1
+        },
+        {
+          "word": "clean",
+          "count": 1
+        },
+        {
+          "word": "coach",
+          "count": 1
+        },
+        {
+          "word": "tips",
+          "count": 1
+        },
+        {
+          "word": "helped",
+          "count": 1
+        },
+        {
+          "word": "improve",
+          "count": 1
+        },
+        {
+          "word": "pace",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fit & Comfort",
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "gps",
+            "count": 1
+          }
+        ],
+        "Fit & Comfort": [
+          {
+            "word": "tips",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "review_id": 398,
+      "date": "2026-06-21",
+      "reviewer": "Nora",
+      "rating": 5,
+      "sentiment": "Positive",
+      "review": "Water lock is trustworthy. Build quality feels tougher than it looks.",
+      "word_count": 11,
+      "keywords": [
+        {
+          "word": "water",
+          "count": 1
+        },
+        {
+          "word": "lock",
+          "count": 1
+        },
+        {
+          "word": "trustworthy",
+          "count": 1
+        },
+        {
+          "word": "build",
+          "count": 1
+        },
+        {
+          "word": "quality",
+          "count": 1
+        },
+        {
+          "word": "feels",
+          "count": 1
+        },
+        {
+          "word": "tougher",
+          "count": 1
+        },
+        {
+          "word": "looks",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 399,
+      "date": "2026-06-26",
+      "reviewer": "Yusuf",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "review": "Notifications work most of the time. Screen is dim outdoors.",
+      "word_count": 10,
+      "keywords": [
+        {
+          "word": "notifications",
+          "count": 1
+        },
+        {
+          "word": "work",
+          "count": 1
+        },
+        {
+          "word": "time",
+          "count": 1
+        },
+        {
+          "word": "screen",
+          "count": 1
+        },
+        {
+          "word": "dim",
+          "count": 1
+        },
+        {
+          "word": "outdoors",
+          "count": 1
+        }
+      ],
+      "categories": [],
+      "category_keywords": {}
+    },
+    {
+      "review_id": 400,
+      "date": "2026-06-29",
+      "reviewer": "Ruth",
+      "rating": 3,
+      "sentiment": "Neutral",
+      "review": "Tracks steps okay. Sleep data is rough but directionally useful.",
+      "word_count": 10,
+      "keywords": [
+        {
+          "word": "tracks",
+          "count": 1
+        },
+        {
+          "word": "steps",
+          "count": 1
+        },
+        {
+          "word": "okay",
+          "count": 1
+        },
+        {
+          "word": "sleep",
+          "count": 1
+        },
+        {
+          "word": "data",
+          "count": 1
+        },
+        {
+          "word": "rough",
+          "count": 1
+        },
+        {
+          "word": "directionally",
+          "count": 1
+        },
+        {
+          "word": "useful",
+          "count": 1
+        }
+      ],
+      "categories": [
+        "Fitness & Health"
+      ],
+      "category_keywords": {
+        "Fitness & Health": [
+          {
+            "word": "tracks",
+            "count": 1
+          },
+          {
+            "word": "steps",
+            "count": 1
+          },
+          {
+            "word": "sleep",
+            "count": 1
+          }
+        ]
+      }
+    }
+  ],
+  "model": {
+    "accuracy": 0.92,
+    "report": [
+      {
+        "Sentiment": "Negative",
+        "Precision": 0.8888888888888888,
+        "Recall": 1.0,
+        "F1": 0.9411764705882353,
+        "Reviews": 40
+      },
+      {
+        "Sentiment": "Neutral",
+        "Precision": 0.95,
+        "Recall": 0.7916666666666666,
+        "F1": 0.8636363636363636,
+        "Reviews": 24
+      },
+      {
+        "Sentiment": "Positive",
+        "Precision": 0.9428571428571428,
+        "Recall": 0.9166666666666666,
+        "F1": 0.9295774647887324,
+        "Reviews": 36
+      }
+    ],
+    "matrix": [
+      [
+        40,
+        0,
+        0
+      ],
+      [
+        3,
+        19,
+        2
+      ],
+      [
+        2,
+        1,
+        33
+      ]
+    ],
+    "labels": [
+      "Negative",
+      "Neutral",
+      "Positive"
+    ],
+    "top_words": [
+      {
+        "sentiment": "Negative",
+        "rank": 1,
+        "word": "sizing"
+      },
+      {
+        "sentiment": "Negative",
+        "rank": 2,
+        "word": "small"
+      },
+      {
+        "sentiment": "Negative",
+        "rank": 3,
+        "word": "small replacement"
+      },
+      {
+        "sentiment": "Negative",
+        "rank": 4,
+        "word": "ridiculous"
+      },
+      {
+        "sentiment": "Negative",
+        "rank": 5,
+        "word": "replacement cost"
+      },
+      {
+        "sentiment": "Negative",
+        "rank": 6,
+        "word": "replacement"
+      },
+      {
+        "sentiment": "Neutral",
+        "rank": 1,
+        "word": "days"
+      },
+      {
+        "sentiment": "Neutral",
+        "rank": 2,
+        "word": "metrics feel"
+      },
+      {
+        "sentiment": "Neutral",
+        "rank": 3,
+        "word": "approximate exact"
+      },
+      {
+        "sentiment": "Neutral",
+        "rank": 4,
+        "word": "good reminder"
+      },
+      {
+        "sentiment": "Neutral",
+        "rank": 5,
+        "word": "approximate"
+      },
+      {
+        "sentiment": "Neutral",
+        "rank": 6,
+        "word": "stand metrics"
+      },
+      {
+        "sentiment": "Positive",
+        "rank": 1,
+        "word": "week"
+      },
+      {
+        "sentiment": "Positive",
+        "rank": 2,
+        "word": "heart"
+      },
+      {
+        "sentiment": "Positive",
+        "rank": 3,
+        "word": "metrics steady"
+      },
+      {
+        "sentiment": "Positive",
+        "rank": 4,
+        "word": "just works"
+      },
+      {
+        "sentiment": "Positive",
+        "rank": 5,
+        "word": "works"
+      },
+      {
+        "sentiment": "Positive",
+        "rank": 6,
+        "word": "steady"
+      }
+    ],
+    "export": {
+      "vocabulary": {
+        "comfortable": 42,
+        "overnight": 162,
+        "heart": 114,
+        "rate": 184,
+        "looks": 142,
+        "plausible": 172,
+        "rest": 196,
+        "comfortable overnight": 44,
+        "overnight heart": 163,
+        "heart rate": 115,
+        "rate looks": 185,
+        "looks plausible": 143,
+        "plausible rest": 173,
+        "notifications": 153,
+        "arrive": 8,
+        "late": 129,
+        "app": 2,
+        "crashes": 55,
+        "open": 160,
+        "notifications arrive": 154,
+        "arrive late": 9,
+        "late app": 130,
+        "app crashes": 4,
+        "crashes open": 56,
+        "latest": 131,
+        "update": 268,
+        "band": 12,
+        "pair": 166,
+        "factory": 91,
+        "reset": 194,
+        "did": 72,
+        "latest update": 132,
+        "update band": 269,
+        "band pair": 15,
+        "pair factory": 167,
+        "factory reset": 92,
+        "reset did": 195,
+        "tracks": 258,
+        "steps": 238,
+        "okay": 158,
+        "sleep": 222,
+        "data": 59,
+        "rough": 201,
+        "directionally": 75,
+        "useful": 270,
+        "tracks steps": 260,
+        "steps okay": 239,
+        "okay sleep": 159,
+        "sleep data": 223,
+        "data rough": 60,
+        "rough directionally": 202,
+        "directionally useful": 76,
+        "undercounted": 266,
+        "compared": 46,
+        "phone": 168,
+        "sync": 246,
+        "fails": 93,
+        "twice": 264,
+        "week": 277,
+        "steps undercounted": 240,
+        "undercounted compared": 267,
+        "compared phone": 47,
+        "phone sync": 169,
+        "sync fails": 247,
+        "fails twice": 94,
+        "twice week": 265,
+        "calorie": 24,
+        "estimates": 87,
+        "wildly": 280,
+        "high": 117,
+        "coach": 40,
+        "tips": 251,
+        "feel": 95,
+        "generic": 104,
+        "wrong": 294,
+        "calorie estimates": 25,
+        "estimates wildly": 88,
+        "wildly high": 281,
+        "high coach": 118,
+        "coach tips": 41,
+        "tips feel": 252,
+        "feel generic": 97,
+        "generic wrong": 105,
+        "good": 108,
+        "reminder": 190,
+        "stand": 234,
+        "metrics": 150,
+        "approximate": 6,
+        "exact": 89,
+        "deciding": 67,
+        "good reminder": 109,
+        "reminder stand": 191,
+        "stand metrics": 235,
+        "metrics feel": 151,
+        "feel approximate": 96,
+        "approximate exact": 7,
+        "exact deciding": 90,
+        "swim": 244,
+        "tracking": 255,
+        "auto": 10,
+        "workout": 286,
+        "detect": 70,
+        "work": 284,
+        "love": 146,
+        "display": 79,
+        "swim tracking": 245,
+        "tracking auto": 256,
+        "auto workout": 11,
+        "workout detect": 287,
+        "detect work": 71,
+        "work love": 285,
+        "love display": 147,
+        "simple": 215,
+        "just": 124,
+        "works": 290,
+        "steady": 236,
+        "simple band": 216,
+        "band just": 14,
+        "just works": 125,
+        "works metrics": 291,
+        "metrics steady": 152,
+        "steady week": 237,
+        "week week": 279,
+        "gps": 110,
+        "jagged": 122,
+        "overstate": 164,
+        "distance": 80,
+        "useless": 271,
+        "training": 261,
+        "gps tracks": 111,
+        "tracks jagged": 259,
+        "jagged overstate": 123,
+        "overstate distance": 165,
+        "distance useless": 81,
+        "useless training": 272,
+        "spikes": 228,
+        "randomly": 182,
+        "stages": 232,
+        "look": 139,
+        "completely": 48,
+        "rate spikes": 187,
+        "spikes randomly": 229,
+        "randomly rest": 183,
+        "rest sleep": 197,
+        "sleep stages": 225,
+        "stages look": 233,
+        "look completely": 140,
+        "completely wrong": 49,
+        "accurate": 0,
+        "resting": 198,
+        "finally": 100,
+        "matches": 148,
+        "accurate resting": 1,
+        "resting heart": 199,
+        "rate sleep": 186,
+        "sleep finally": 224,
+        "finally matches": 101,
+        "matches feel": 149,
+        "battery": 17,
+        "dies": 73,
+        "days": 64,
+        "despite": 68,
+        "seven": 213,
+        "day": 61,
+        "claim": 33,
+        "charging": 28,
+        "pins": 170,
+        "corrode": 52,
+        "battery dies": 18,
+        "dies days": 74,
+        "days despite": 65,
+        "despite seven": 69,
+        "seven day": 214,
+        "day claim": 62,
+        "claim charging": 34,
+        "charging pins": 29,
+        "pins corrode": 171,
+        "water": 275,
+        "lock": 136,
+        "trustworthy": 262,
+        "build": 21,
+        "quality": 178,
+        "feels": 98,
+        "tougher": 253,
+        "buy": 23,
+        "water lock": 276,
+        "lock trustworthy": 138,
+        "trustworthy build": 263,
+        "build quality": 22,
+        "quality feels": 179,
+        "feels tougher": 99,
+        "tougher looks": 254,
+        "disappointed": 77,
+        "overall": 161,
+        "disappointed overall": 78,
+        "zones": 295,
+        "runs": 204,
+        "consistent": 50,
+        "quick": 180,
+        "heart zones": 116,
+        "zones runs": 296,
+        "runs look": 205,
+        "look consistent": 141,
+        "consistent charging": 51,
+        "charging quick": 30,
+        "quick buy": 181,
+        "light": 133,
+        "easily": 82,
+        "lasts": 126,
+        "light comfortable": 134,
+        "comfortable battery": 43,
+        "battery easily": 19,
+        "easily lasts": 83,
+        "lasts week": 128,
+        "week buy": 278,
+        "clasp": 35,
+        "secure": 211,
+        "office": 156,
+        "basic": 16,
+        "clasp secure": 37,
+        "secure office": 212,
+        "office days": 157,
+        "days swim": 66,
+        "tracking basic": 257,
+        "screen": 209,
+        "scratches": 207,
+        "engages": 85,
+        "pool": 174,
+        "screen scratches": 210,
+        "scratches easily": 208,
+        "easily water": 84,
+        "lock engages": 137,
+        "engages pool": 86,
+        "irritates": 119,
+        "skin": 220,
+        "loosens": 144,
+        "run": 203,
+        "band irritates": 13,
+        "irritates skin": 120,
+        "skin day": 221,
+        "day clasp": 63,
+        "clasp loosens": 36,
+        "loosens run": 145,
+        "reliable": 188,
+        "charts": 31,
+        "clear": 38,
+        "great": 112,
+        "daily": 57,
+        "companion": 45,
+        "sync reliable": 248,
+        "reliable app": 189,
+        "app charts": 3,
+        "charts clear": 32,
+        "clear great": 39,
+        "great daily": 113,
+        "daily companion": 58,
+        "strap": 241,
+        "sizing": 218,
+        "small": 226,
+        "replacement": 192,
+        "cost": 53,
+        "ridiculous": 200,
+        "strap sizing": 243,
+        "sizing runs": 219,
+        "runs small": 206,
+        "small replacement": 227,
+        "replacement cost": 193,
+        "cost ridiculous": 54,
+        "timely": 249,
+        "workouts": 288,
+        "notifications timely": 155,
+        "timely strap": 250,
+        "strap irritates": 242,
+        "irritates workouts": 121,
+        "fine": 102,
+        "casual": 26,
+        "walking": 273,
+        "goals": 106,
+        "precise": 175,
+        "fine casual": 103,
+        "casual walking": 27,
+        "walking goals": 274,
+        "goals precise": 107,
+        "precise training": 176,
+        "wrist": 292,
+        "light wrist": 135,
+        "wrist battery": 293,
+        "battery lasts": 20,
+        "lasts days": 127,
+        "wish": 282,
+        "sport": 230,
+        "profiles": 177,
+        "app simple": 5,
+        "simple wish": 217,
+        "wish workouts": 283,
+        "workouts sport": 289,
+        "sport profiles": 231
+      },
+      "idf": [
+        3.6692103677859462,
+        3.6692103677859462,
+        3.0501711593797225,
+        3.8233610476132043,
+        4.005682604407159,
+        4.228826155721369,
+        4.005682604407159,
+        4.005682604407159,
+        4.005682604407159,
+        4.005682604407159,
+        4.005682604407159,
+        4.005682604407159,
+        2.842531794601478,
+        4.005682604407159,
+        3.5356789751614235,
+        4.005682604407159,
+        4.228826155721369,
+        3.6692103677859462,
+        4.51650822817315,
+        4.51650822817315,
+        4.51650822817315,
+        4.228826155721369,
+        4.228826155721369,
+        3.5356789751614235,
+        4.005682604407159,
+        4.005682604407159,
+        4.228826155721369,
+        4.228826155721369,
+        3.5356789751614235,
+        4.51650822817315,
+        3.8233610476132043,
+        3.8233610476132043,
+        3.8233610476132043,
+        4.51650822817315,
+        4.51650822817315,
+        3.5356789751614235,
+        4.005682604407159,
+        4.228826155721369,
+        3.8233610476132043,
+        3.8233610476132043,
+        3.8233610476132043,
+        3.8233610476132043,
+        4.005682604407159,
+        4.51650822817315,
+        4.51650822817315,
+        3.8233610476132043,
+        4.005682604407159,
+        4.005682604407159,
+        3.8233610476132043,
+        3.8233610476132043,
+        3.8233610476132043,
+        3.8233610476132043,
+        4.51650822817315,
+        3.5356789751614235,
+        3.5356789751614235,
+        4.005682604407159,
+        4.005682604407159,
+        3.8233610476132043,
+        3.8233610476132043,
+        4.005682604407159,
+        4.005682604407159,
+        3.6692103677859462,
+        4.51650822817315,
+        4.005682604407159,
+        3.5356789751614235,
+        4.51650822817315,
+        4.228826155721369,
+        4.005682604407159,
+        4.51650822817315,
+        4.51650822817315,
+        4.005682604407159,
+        4.005682604407159,
+        4.005682604407159,
+        4.51650822817315,
+        4.51650822817315,
+        4.005682604407159,
+        4.005682604407159,
+        4.51650822817315,
+        4.51650822817315,
+        4.005682604407159,
+        4.228826155721369,
+        4.228826155721369,
+        3.8233610476132043,
+        4.51650822817315,
+        4.228826155721369,
+        4.228826155721369,
+        4.228826155721369,
+        4.005682604407159,
+        4.005682604407159,
+        4.005682604407159,
+        4.51650822817315,
+        4.005682604407159,
+        4.005682604407159,
+        4.005682604407159,
+        4.005682604407159,
+        2.907070315739049,
+        4.005682604407159,
+        4.005682604407159,
+        4.228826155721369,
+        4.228826155721369,
+        3.6692103677859462,
+        3.6692103677859462,
+        4.228826155721369,
+        4.228826155721369,
+        4.005682604407159,
+        4.005682604407159,
+        4.005682604407159,
+        4.228826155721369,
+        4.005682604407159,
+        4.005682604407159,
+        4.005682604407159,
+        4.228826155721369,
+        3.8233610476132043,
+        3.8233610476132043,
+        2.670681537674819,
+        2.976063187226001,
+        3.8233610476132043,
+        4.005682604407159,
+        4.005682604407159,
+        3.6692103677859462,
+        4.005682604407159,
+        4.51650822817315,
+        4.228826155721369,
+        4.228826155721369,
+        3.5356789751614235,
+        3.5356789751614235,
+        4.005682604407159,
+        4.51650822817315,
+        4.51650822817315,
+        4.005682604407159,
+        4.005682604407159,
+        4.005682604407159,
+        4.005682604407159,
+        4.005682604407159,
+        4.51650822817315,
+        4.51650822817315,
+        3.6692103677859462,
+        4.228826155721369,
+        4.228826155721369,
+        3.217225244042889,
+        3.8233610476132043,
+        3.8233610476132043,
+        3.8233610476132043,
+        4.51650822817315,
+        4.005682604407159,
+        4.005682604407159,
+        4.005682604407159,
+        4.005682604407159,
+        3.6692103677859462,
+        3.6692103677859462,
+        3.130213867053259,
+        4.005682604407159,
+        3.5356789751614235,
+        3.5356789751614235,
+        4.005682604407159,
+        4.51650822817315,
+        4.228826155721369,
+        4.228826155721369,
+        4.005682604407159,
+        4.005682604407159,
+        4.005682604407159,
+        4.51650822817315,
+        4.51650822817315,
+        4.51650822817315,
+        4.228826155721369,
+        4.228826155721369,
+        4.005682604407159,
+        4.005682604407159,
+        4.005682604407159,
+        4.005682604407159,
+        4.51650822817315,
+        4.51650822817315,
+        4.51650822817315,
+        4.51650822817315,
+        4.228826155721369,
+        4.228826155721369,
+        4.228826155721369,
+        4.228826155721369,
+        4.228826155721369,
+        4.228826155721369,
+        3.8233610476132043,
+        4.51650822817315,
+        3.8233610476132043,
+        3.8233610476132043,
+        2.976063187226001,
+        4.51650822817315,
+        3.6692103677859462,
+        3.8233610476132043,
+        3.8233610476132043,
+        3.8233610476132043,
+        4.005682604407159,
+        4.005682604407159,
+        3.5356789751614235,
+        3.5356789751614235,
+        4.005682604407159,
+        4.005682604407159,
+        3.5356789751614235,
+        3.8233610476132043,
+        3.6692103677859462,
+        3.6692103677859462,
+        3.5356789751614235,
+        4.005682604407159,
+        4.005682604407159,
+        4.005682604407159,
+        2.976063187226001,
+        3.8233610476132043,
+        3.5356789751614235,
+        4.228826155721369,
+        4.228826155721369,
+        4.005682604407159,
+        4.228826155721369,
+        4.228826155721369,
+        4.228826155721369,
+        4.51650822817315,
+        4.51650822817315,
+        3.217225244042889,
+        3.5356789751614235,
+        4.228826155721369,
+        3.5356789751614235,
+        3.5356789751614235,
+        4.005682604407159,
+        4.005682604407159,
+        2.842531794601478,
+        4.005682604407159,
+        3.6692103677859462,
+        3.8233610476132043,
+        3.5356789751614235,
+        3.5356789751614235,
+        3.8233610476132043,
+        3.8233610476132043,
+        4.228826155721369,
+        4.228826155721369,
+        3.8233610476132043,
+        3.8233610476132043,
+        4.005682604407159,
+        4.005682604407159,
+        3.5356789751614235,
+        3.5356789751614235,
+        3.41789593950504,
+        4.005682604407159,
+        4.005682604407159,
+        3.312535423847214,
+        4.51650822817315,
+        3.5356789751614235,
+        3.5356789751614235,
+        3.5356789751614235,
+        3.312535423847214,
+        4.005682604407159,
+        3.8233610476132043,
+        4.51650822817315,
+        4.51650822817315,
+        3.8233610476132043,
+        4.005682604407159,
+        4.228826155721369,
+        4.228826155721369,
+        3.5356789751614235,
+        4.005682604407159,
+        4.228826155721369,
+        3.5356789751614235,
+        4.228826155721369,
+        4.005682604407159,
+        3.6692103677859462,
+        4.228826155721369,
+        4.228826155721369,
+        4.005682604407159,
+        4.005682604407159,
+        4.005682604407159,
+        4.005682604407159,
+        4.005682604407159,
+        4.005682604407159,
+        4.005682604407159,
+        4.228826155721369,
+        4.228826155721369,
+        4.228826155721369,
+        4.228826155721369,
+        3.6692103677859462,
+        3.6692103677859462,
+        2.976063187226001,
+        4.51650822817315,
+        3.5356789751614235,
+        4.005682604407159,
+        4.005682604407159,
+        4.228826155721369,
+        4.228826155721369,
+        3.8233610476132043,
+        4.005682604407159,
+        4.005682604407159,
+        4.005682604407159,
+        3.8233610476132043,
+        4.228826155721369,
+        3.5356789751614235,
+        3.5356789751614235,
+        4.51650822817315,
+        4.51650822817315,
+        3.312535423847214,
+        3.8233610476132043,
+        3.8233610476132043
+      ],
+      "ngram_range": [
+        1,
+        2
+      ],
+      "classes": [
+        "Negative",
+        "Neutral",
+        "Positive"
+      ],
+      "class_log_prior": [
+        -0.9162907318741556,
+        -1.427116355640146,
+        -1.0216512475319819
+      ],
+      "feature_log_prob": [
+        [
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.458340822393477,
+          -6.106503380740383,
+          -5.319078574795752,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.319078574795752,
+          -5.319078574795752,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.142001436572688,
+          -5.337974179304724,
+          -6.106503380740383,
+          -5.349813748519625,
+          -6.106503380740383,
+          -5.7893759248162135,
+          -5.728510787364754,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.412474188276689,
+          -5.412474188276689,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.799315231978831,
+          -5.728510787364754,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.728510787364754,
+          -5.728510787364754,
+          -5.402968246895645,
+          -5.337974179304724,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.435515540607061,
+          -5.435515540607061,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.378749153808848,
+          -5.378749153808848,
+          -5.305197755325245,
+          -5.305197755325245,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.728510787364754,
+          -5.016897221483662,
+          -5.016897221483662,
+          -5.319078574795752,
+          -5.319078574795752,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.217535611460503,
+          -5.728510787364754,
+          -5.337974179304724,
+          -5.799315231978831,
+          -5.728510787364754,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.728510787364754,
+          -5.728510787364754,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.349813748519625,
+          -5.728510787364754,
+          -5.728510787364754,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.687715395453313,
+          -5.687715395453313,
+          -6.106503380740383,
+          -5.4893222897412235,
+          -5.4893222897412235,
+          -5.527720961185019,
+          -6.106503380740383,
+          -5.482173984038006,
+          -5.482173984038006,
+          -5.482173984038006,
+          -5.412474188276689,
+          -5.412474188276689,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.349813748519625,
+          -5.349813748519625,
+          -5.378749153808848,
+          -5.378749153808848,
+          -5.560107540045295,
+          -6.106503380740383,
+          -5.412474188276689,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.412474188276689,
+          -5.412474188276689,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.513923712356217,
+          -5.4893222897412235,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.48695332003034,
+          -5.435493859720707,
+          -6.106503380740383,
+          -5.412474188276689,
+          -5.412474188276689,
+          -5.384069399910665,
+          -5.337974179304724,
+          -6.106503380740383,
+          -5.4893222897412235,
+          -5.4893222897412235,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.319078574795752,
+          -5.319078574795752,
+          -5.349813748519625,
+          -5.349813748519625,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.545596340360031,
+          -5.482173984038006,
+          -6.106503380740383,
+          -5.396648211198986,
+          -5.305197755325245,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.337974179304724,
+          -5.337974179304724,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.385160027729874,
+          -5.319078574795752,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.319078574795752,
+          -5.687715395453313,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.4893222897412235,
+          -5.4893222897412235,
+          -5.349813748519625,
+          -5.349813748519625,
+          -5.378749153808848,
+          -5.378749153808848,
+          -5.728510787364754,
+          -5.728510787364754,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.482173984038006,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.305197755325245,
+          -5.305197755325245,
+          -5.435493859720707,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.305197755325245,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.016897221483662,
+          -5.016897221483662,
+          -5.349813748519625,
+          -5.349813748519625,
+          -5.347560922144219,
+          -5.305197755325245,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.016897221483662,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.337974179304724,
+          -5.127874074418797,
+          -6.106503380740383,
+          -5.016897221483662,
+          -5.482173984038006,
+          -5.482173984038006,
+          -5.506983236235115,
+          -5.482173984038006,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.728510787364754,
+          -5.728510787364754,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.016897221483662,
+          -5.016897221483662,
+          -5.337974179304724,
+          -5.337974179304724,
+          -5.457669996643935,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.305197755325245,
+          -5.016897221483662,
+          -5.016897221483662,
+          -5.305197755325245,
+          -5.305197755325245,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.305197755325245,
+          -5.305197755325245,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.457646004335766,
+          -6.106503380740383,
+          -5.378749153808848,
+          -5.059683962203034,
+          -6.106503380740383,
+          -5.016897221483662,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.472470427340969,
+          -5.378749153808848,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.435515540607061,
+          -5.412474188276689,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.567810079752731,
+          -5.4893222897412235,
+          -6.106503380740383,
+          -5.552203007035462,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.378749153808848,
+          -5.378749153808848,
+          -5.378749153808848,
+          -5.378749153808848,
+          -5.349813748519625,
+          -5.349813748519625,
+          -6.106503380740383,
+          -5.4893222897412235,
+          -5.4893222897412235,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.545596340360031,
+          -5.545596340360031,
+          -5.52134027002192,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.412474188276689,
+          -5.412474188276689,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -6.106503380740383,
+          -5.044299791803359,
+          -6.106503380740383,
+          -6.106503380740383
+        ],
+        [
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.398623747185767,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.2524623625246365,
+          -5.179264862550796,
+          -5.179264862550796,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.287819891268527,
+          -5.464195145652585,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.382823135012063,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.276062116497379,
+          -5.276062116497379,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.367889080616207,
+          -5.921660276457069,
+          -5.287819891268527,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.482255813149794,
+          -5.921660276457069,
+          -5.437908443343794,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.199156480945794,
+          -5.199156480945794,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.08929237258482,
+          -5.921660276457069,
+          -5.287819891268527,
+          -5.197137978507305,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.199156480945794,
+          -5.199156480945794,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.179264862550796,
+          -5.455363909910183,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.334424599259674,
+          -5.179264862550796,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.276062116497379,
+          -5.276062116497379,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.301481271483907,
+          -5.276062116497379,
+          -5.179264862550796,
+          -5.179264862550796,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.60839350473703,
+          -5.578104104838422,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.431084476102411,
+          -5.382823135012063,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.431084476102411,
+          -5.921660276457069,
+          -5.382823135012063,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.498572690834205,
+          -5.437908443343794,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.300901269259986,
+          -5.179264862550796,
+          -5.921660276457069,
+          -5.491075387561761,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.287819891268527,
+          -5.287819891268527,
+          -5.199156480945794,
+          -5.199156480945794,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.437908443343794,
+          -5.437908443343794,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.437908443343794,
+          -5.437908443343794,
+          -5.921660276457069,
+          -5.276062116497379,
+          -5.276062116497379,
+          -5.2524623625246365,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.578104104838422,
+          -5.437908443343794,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.179264862550796,
+          -5.179264862550796,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.524872845856279,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.199156480945794,
+          -5.199156480945794,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.445615558918737,
+          -5.921660276457069,
+          -5.287819891268527,
+          -5.287819891268527,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.376562565756053,
+          -5.921660276457069,
+          -5.2524623625246365,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.360955495665226,
+          -5.199156480945794,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.2524623625246365,
+          -5.2524623625246365,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.179264862550796,
+          -5.179264862550796,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.2776496898256715,
+          -5.199156480945794,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.367889080616207,
+          -5.367889080616207,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.367889080616207,
+          -5.921660276457069,
+          -5.287819891268527,
+          -5.261419557104281,
+          -5.921660276457069,
+          -5.199156480945794,
+          -5.341075027493607,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.199156480945794,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.276062116497379,
+          -5.276062116497379,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.2524623625246365,
+          -5.2524623625246365,
+          -5.46300562592556,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.300370466564555,
+          -5.2524623625246365,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.382823135012063,
+          -5.382823135012063,
+          -5.921660276457069,
+          -5.921660276457069,
+          -5.921660276457069
+        ],
+        [
+          -5.079650923892602,
+          -5.079650923892602,
+          -5.339125784283038,
+          -5.216965794066777,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.338589882441604,
+          -5.338589882441604,
+          -5.168781968822313,
+          -6.057759950274251,
+          -5.034593503887116,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.641905305664312,
+          -6.057759950274251,
+          -5.566273999702019,
+          -6.057759950274251,
+          -5.473738417745542,
+          -5.473738417745542,
+          -5.067677983529956,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.221162363377022,
+          -6.057759950274251,
+          -5.176074850302429,
+          -5.216965794066777,
+          -5.216965794066777,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.216965794066777,
+          -5.216965794066777,
+          -5.67857572787086,
+          -5.67857572787086,
+          -5.611183055122135,
+          -5.566273999702019,
+          -6.057759950274251,
+          -5.216965794066777,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.176074850302429,
+          -5.176074850302429,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.216965794066777,
+          -5.216965794066777,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.338589882441604,
+          -5.338589882441604,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.338589882441604,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.627713027699578,
+          -5.566273999702019,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.218462520866366,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.473738417745542,
+          -5.473738417745542,
+          -5.079650923892602,
+          -5.079650923892602,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.364612769714306,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.663639004354721,
+          -6.057759950274251,
+          -5.216965794066777,
+          -5.216965794066777,
+          -4.895794505657577,
+          -5.205072675821482,
+          -5.176074850302429,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.599797445273921,
+          -6.057759950274251,
+          -5.518358444598382,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.034593503887116,
+          -5.034593503887116,
+          -5.611183055122135,
+          -6.057759950274251,
+          -5.566273999702019,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.611183055122135,
+          -5.566273999702019,
+          -6.057759950274251,
+          -5.5340592898965895,
+          -6.057759950274251,
+          -5.473738417745542,
+          -5.2735641945260525,
+          -6.057759950274251,
+          -5.176074850302429,
+          -5.517077064999601,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.338589882441604,
+          -5.338589882441604,
+          -5.079650923892602,
+          -5.079650923892602,
+          -5.110887808348838,
+          -6.057759950274251,
+          -5.034593503887116,
+          -5.613259268593986,
+          -6.057759950274251,
+          -5.518358444598382,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.473738417745542,
+          -5.473738417745542,
+          -5.176074850302429,
+          -5.5670229403949625,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.205072675821482,
+          -6.057759950274251,
+          -5.079650923892602,
+          -6.057759950274251,
+          -5.216965794066777,
+          -5.216965794066777,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.079650923892602,
+          -5.079650923892602,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.157475299985905,
+          -5.176074850302429,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.094017670076487,
+          -5.034593503887116,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.231152291931217,
+          -6.057759950274251,
+          -5.079650923892602,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.034593503887116,
+          -5.034593503887116,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.636167752226355,
+          -5.518358444598382,
+          -6.057759950274251,
+          -5.400650518731087,
+          -5.400650518731087,
+          -5.2959796911196,
+          -6.057759950274251,
+          -5.216965794066777,
+          -5.518358444598382,
+          -5.518358444598382,
+          -5.67857572787086,
+          -6.057759950274251,
+          -5.473738417745542,
+          -5.473738417745542,
+          -5.400650518731087,
+          -5.338589882441604,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.473738417745542,
+          -5.473738417745542,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.5340592898965895,
+          -5.5340592898965895,
+          -4.572042015653402,
+          -5.582800494014748,
+          -5.034593503887116,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.362209082223888,
+          -5.338589882441604,
+          -5.338589882441604,
+          -5.338589882441604,
+          -5.584478974092331,
+          -6.057759950274251,
+          -5.034593503887116,
+          -5.034593503887116,
+          -6.057759950274251,
+          -6.057759950274251,
+          -6.057759950274251,
+          -5.176074850302429,
+          -5.176074850302429
+        ]
+      ]
+    }
+  },
+  "date_range": {
+    "start": "Oct 2025",
+    "end": "Jun 2026"
+  }
+}

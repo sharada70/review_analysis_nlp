@@ -1,0 +1,501 @@
+review_id,date,product,reviewer,rating,sentiment,review
+1,2025-10-01,Aurora X1 Wireless Earbuds,Ben,3,Neutral,Average sound for podcasts. Fine indoors and nothing I would rave about.
+2,2025-10-04,Aurora X1 Wireless Earbuds,Sana,1,Negative,People keep asking me to repeat myself. Calls are too quiet.
+3,2025-10-11,Aurora X1 Wireless Earbuds,Emma,4,Positive,"After the update these are clear, comfortable, and dependable. My everyday pair."
+4,2025-10-13,Aurora X1 Wireless Earbuds,Owen,5,Positive,Comfortable all day and the case is easy to pocket. The sound is clear and balanced.
+5,2025-10-15,Aurora X1 Wireless Earbuds,Dev,4,Positive,"The size, the clear sound, and the stable connection all work for class and travel."
+6,2025-10-21,Aurora X1 Wireless Earbuds,Sana,1,Negative,One side is much louder. This pair feels defective.
+7,2025-10-22,Aurora X1 Wireless Earbuds,Leo,1,Negative,The battery will not hold a charge. The bass crackles and the fit is painful.
+8,2025-10-23,Aurora X1 Wireless Earbuds,Asha,2,Negative,Bluetooth cuts out near elevators. Call quality is muddy outdoors.
+9,2025-10-30,Aurora X1 Wireless Earbuds,Omar,1,Negative,They fall out when I walk and hurt after twenty minutes.
+10,2025-10-31,Aurora X1 Wireless Earbuds,Ruth,5,Positive,Switching tips made them comfortable. The battery now lasts a full workday. Would buy again.
+11,2025-10-31,Aurora X1 Wireless Earbuds,Priya,3,Neutral,Good enough for the bus. The tone is light and the matte case shows fingerprints.
+12,2025-11-04,Aurora X1 Wireless Earbuds,Tom,2,Negative,Disappointed overall. The bass crackles when I turn the volume up. Not worth this price.
+13,2025-11-05,Aurora X1 Wireless Earbuds,Rohan,1,Negative,The battery lasts about two hours. Vocals are muddy and the fit is painful.
+14,2025-11-07,Aurora X1 Wireless Earbuds,Asha,1,Negative,One side is much louder. This pair feels defective.
+15,2025-11-07,Aurora X1 Wireless Earbuds,Samir,5,Positive,"After the update these are clear, comfortable, and dependable. My everyday pair."
+16,2025-11-09,Aurora X1 Wireless Earbuds,Jake,5,Positive,Switching tips made them comfortable. The battery now lasts a full workday.
+17,2025-11-11,Aurora X1 Wireless Earbuds,Anika,3,Neutral,Fine for commuting. Battery is average and the tips need frequent adjusting. Still deciding if I will keep them.
+18,2025-11-12,Aurora X1 Wireless Earbuds,Alex,3,Neutral,Fine for commuting. Battery is average and the tips need frequent adjusting.
+19,2025-11-17,Aurora X1 Wireless Earbuds,Emma,5,Positive,"The size, the clear sound, and the stable connection all work for class and travel."
+20,2025-11-20,Aurora X1 Wireless Earbuds,Vikram,2,Negative,Bluetooth cuts out near elevators. Call quality is muddy outdoors.
+21,2025-11-21,Aurora X1 Wireless Earbuds,Lina,3,Neutral,Nothing special. Calls are okay and the case is small.
+22,2025-11-22,Aurora X1 Wireless Earbuds,Sana,2,Negative,They fall out when I walk and hurt after twenty minutes.
+23,2025-11-25,Aurora X1 Wireless Earbuds,Diya,2,Negative,They fall out when I walk and hurt after twenty minutes.
+24,2025-12-02,Aurora X1 Wireless Earbuds,Samir,4,Positive,Clear vocals and a stable connection on my walk to campus.
+25,2025-12-03,Aurora X1 Wireless Earbuds,Sofia,1,Negative,One side is much louder. This pair feels defective.
+26,2025-12-05,Aurora X1 Wireless Earbuds,Helena,4,Positive,Great for long lectures. The smaller tips feel comfortable and the sound stays clear.
+27,2025-12-05,Aurora X1 Wireless Earbuds,Karan,3,Neutral,Solid enough after the update. The design is plain and the app is basic.
+28,2025-12-08,Aurora X1 Wireless Earbuds,Elena,3,Neutral,They work for lectures. Music sounds flat and the price feels a bit high.
+29,2025-12-16,Aurora X1 Wireless Earbuds,Maya,3,Neutral,Average sound for podcasts. Fine indoors and nothing I would rave about. Still deciding if I will keep them.
+30,2025-12-17,Aurora X1 Wireless Earbuds,Ruth,3,Neutral,They are okay. Sound is pleasant at low volume and the price still feels slightly high. Still deciding if I will keep them.
+31,2025-12-19,Aurora X1 Wireless Earbuds,Jonah,4,Positive,After the update the connection is stable while I study. The battery lasts me two days.
+32,2025-12-26,Aurora X1 Wireless Earbuds,Riya,2,Negative,The left bud stopped connecting and the warranty form is confusing.
+33,2026-01-06,Aurora X1 Wireless Earbuds,Sara,1,Negative,The left bud stopped connecting and the warranty form is confusing.
+34,2026-01-06,Aurora X1 Wireless Earbuds,Elena,3,Neutral,The March update made listening steadier. Music is still a little flat.
+35,2026-01-08,Aurora X1 Wireless Earbuds,Jake,2,Negative,The case light says full when the charge is almost gone. Battery dies fast.
+36,2026-01-09,Aurora X1 Wireless Earbuds,Mark,2,Negative,Audio drops whenever I put my phone in my pocket. Connection fails on the bus.
+37,2026-01-11,Aurora X1 Wireless Earbuds,Jake,4,Positive,Switching tips made them comfortable. The battery now lasts a full workday.
+38,2026-01-18,Aurora X1 Wireless Earbuds,Tara,3,Neutral,Nothing special. Calls are okay and the case is small.
+39,2026-01-18,Aurora X1 Wireless Earbuds,Lina,2,Negative,The case light says full when the charge is almost gone. Battery dies fast.
+40,2026-01-21,Aurora X1 Wireless Earbuds,Yusuf,4,Positive,"The size, the clear sound, and the stable connection all work for class and travel."
+41,2026-01-24,Aurora X1 Wireless Earbuds,Helena,1,Negative,They fall out when I walk and hurt after twenty minutes.
+42,2026-01-25,Aurora X1 Wireless Earbuds,Ruth,2,Negative,Touch controls are far too sensitive. Music pauses when I adjust them.
+43,2026-01-26,Aurora X1 Wireless Earbuds,Omar,5,Positive,After the update the connection is stable while I study. The battery lasts me two days.
+44,2026-01-30,Aurora X1 Wireless Earbuds,Priya,5,Positive,Comfortable all day and the case is easy to pocket. The sound is clear and balanced.
+45,2026-02-02,Aurora X1 Wireless Earbuds,Kabir,1,Negative,The case light says full when the charge is almost gone. Battery dies fast.
+46,2026-02-03,Aurora X1 Wireless Earbuds,Mark,4,Positive,No random cutouts. Comfortable for a three hour study session with a stable connection.
+47,2026-02-03,Aurora X1 Wireless Earbuds,Grace,2,Negative,Disappointed overall. The bass crackles when I turn the volume up. Not worth this price.
+48,2026-02-04,Aurora X1 Wireless Earbuds,Ruth,4,Positive,"The size, the clear sound, and the stable connection all work for class and travel."
+49,2026-02-04,Aurora X1 Wireless Earbuds,Omar,1,Negative,They fall out when I walk and hurt after twenty minutes.
+50,2026-02-04,Aurora X1 Wireless Earbuds,Zoe,3,Neutral,Nothing special. Calls are okay and the case is small.
+51,2026-02-06,Aurora X1 Wireless Earbuds,Vikram,3,Neutral,Pleasant and simple. I like the size. I wish the tone had a little more weight.
+52,2026-02-12,Aurora X1 Wireless Earbuds,Priya,2,Negative,One side is much louder. This pair feels defective.
+53,2026-02-13,Aurora X1 Wireless Earbuds,Nora,3,Neutral,They are okay. Sound is pleasant at low volume and the price still feels slightly high. Still deciding if I will keep them.
+54,2026-02-13,Aurora X1 Wireless Earbuds,Meera,1,Negative,Touch controls are far too sensitive. Music pauses when I adjust them.
+55,2026-03-03,Aurora X1 Wireless Earbuds,Samir,5,Positive,Crisp and clear. Friends say calls sound better and the connection stays stable.
+56,2026-03-03,Aurora X1 Wireless Earbuds,Riya,4,Positive,"The size, the clear sound, and the stable connection all work for class and travel. Would buy again."
+57,2026-03-04,Aurora X1 Wireless Earbuds,Karan,1,Negative,Touch controls are far too sensitive. Music pauses when I adjust them.
+58,2026-03-04,Aurora X1 Wireless Earbuds,Paul,3,Neutral,Solid enough after the update. The design is plain and the app is basic.
+59,2026-03-05,Aurora X1 Wireless Earbuds,Amina,4,Positive,"The size, the clear sound, and the stable connection all work for class and travel."
+60,2026-03-10,Aurora X1 Wireless Earbuds,Vikram,3,Neutral,They are okay. Sound is pleasant at low volume and the price still feels slightly high. Still deciding if I will keep them.
+61,2026-03-10,Aurora X1 Wireless Earbuds,Nikhil,3,Neutral,Good enough for the bus. The tone is light and the matte case shows fingerprints.
+62,2026-03-11,Aurora X1 Wireless Earbuds,Elena,3,Neutral,Fine for commuting. Battery is average and the tips need frequent adjusting.
+63,2026-03-14,Aurora X1 Wireless Earbuds,Samir,2,Negative,They fall out when I walk and hurt after twenty minutes.
+64,2026-03-19,Aurora X1 Wireless Earbuds,Lina,5,Positive,After the update the connection is stable while I study. The battery lasts me two days.
+65,2026-03-19,Aurora X1 Wireless Earbuds,Karan,3,Neutral,The March update made listening steadier. Music is still a little flat. Still deciding if I will keep them.
+66,2026-03-21,Aurora X1 Wireless Earbuds,Arjun,1,Negative,Bluetooth fails on the bus. Call quality is muddy outdoors.
+67,2026-03-21,Aurora X1 Wireless Earbuds,Fatima,5,Positive,Crisp and clear. Friends say calls sound better and the connection stays stable. Would buy again.
+68,2026-03-23,Aurora X1 Wireless Earbuds,Sara,1,Negative,The battery died after four days. The audio drops out and the fit is painful.
+69,2026-03-25,Aurora X1 Wireless Earbuds,Imran,5,Positive,Crisp and clear. Friends say calls sound better and the connection stays stable.
+70,2026-03-26,Aurora X1 Wireless Earbuds,Sofia,5,Positive,After the update the connection is stable while I study. The battery lasts me two days.
+71,2026-04-10,Aurora X1 Wireless Earbuds,Leela,4,Positive,Crisp and clear. Friends say calls sound better and the connection stays stable.
+72,2026-04-13,Aurora X1 Wireless Earbuds,Tom,3,Neutral,The March update made listening steadier. Music is still a little flat.
+73,2026-04-18,Aurora X1 Wireless Earbuds,Elena,2,Negative,Disappointed overall. The case light says full when the charge is almost gone. Battery dies fast.
+74,2026-04-20,Aurora X1 Wireless Earbuds,Omar,5,Positive,"The size, the clear sound, and the stable connection all work for class and travel. Would buy again."
+75,2026-04-26,Aurora X1 Wireless Earbuds,Sofia,4,Positive,Great for long lectures. The smaller tips feel comfortable and the sound stays clear.
+76,2026-04-27,Aurora X1 Wireless Earbuds,Karan,5,Positive,"The size, the clear sound, and the stable connection all work for class and travel."
+77,2026-04-28,Aurora X1 Wireless Earbuds,Fatima,1,Negative,Touch controls are far too sensitive. Music pauses when I adjust them.
+78,2026-04-29,Aurora X1 Wireless Earbuds,Samir,2,Negative,Bluetooth cuts out near elevators. Call quality is muddy outdoors.
+79,2026-04-29,Aurora X1 Wireless Earbuds,Riya,2,Negative,One side is much louder. This pair feels defective.
+80,2026-05-03,Aurora X1 Wireless Earbuds,Maya,2,Negative,Touch controls are far too sensitive. Music pauses when I adjust them.
+81,2026-05-04,Aurora X1 Wireless Earbuds,Diya,4,Positive,Clear vocals and a stable connection on my walk to campus. Would buy again.
+82,2026-05-07,Aurora X1 Wireless Earbuds,Ravi,1,Negative,The left bud stopped connecting and the warranty form is confusing.
+83,2026-05-15,Aurora X1 Wireless Earbuds,Karan,5,Positive,"After the update these are clear, comfortable, and dependable. My everyday pair."
+84,2026-05-17,Aurora X1 Wireless Earbuds,Priya,1,Negative,Audio drops whenever I put my phone in my pocket. Connection fails on the bus.
+85,2026-05-18,Aurora X1 Wireless Earbuds,Nora,4,Positive,Switching tips made them comfortable. The battery now lasts a full workday. Would buy again.
+86,2026-05-24,Aurora X1 Wireless Earbuds,Sana,2,Negative,The battery drains overnight. The bass crackles and the fit is painful.
+87,2026-05-25,Aurora X1 Wireless Earbuds,Nikhil,4,Positive,Great for long lectures. The smaller tips feel comfortable and the sound stays clear. Would buy again.
+88,2026-05-27,Aurora X1 Wireless Earbuds,Anika,3,Neutral,The March update made listening steadier. Music is still a little flat.
+89,2026-05-31,Aurora X1 Wireless Earbuds,Nikhil,3,Neutral,They are okay. Sound is pleasant at low volume and the price still feels slightly high. Still deciding if I will keep them.
+90,2026-06-06,Aurora X1 Wireless Earbuds,Imran,2,Negative,Audio drops whenever I put my phone in my pocket. Connection fails on the bus.
+91,2026-06-06,Aurora X1 Wireless Earbuds,Grace,2,Negative,They fall out when I walk and hurt after twenty minutes.
+92,2026-06-06,Aurora X1 Wireless Earbuds,Rahul,5,Positive,Switching tips made them comfortable. The battery now lasts a full workday.
+93,2026-06-07,Aurora X1 Wireless Earbuds,Kabir,4,Positive,The firmware update fixed the earlier glitches. Voices are clear and music is warm.
+94,2026-06-15,Aurora X1 Wireless Earbuds,Ben,5,Positive,Clear vocals and a stable connection on my walk to campus.
+95,2026-06-18,Aurora X1 Wireless Earbuds,Arjun,3,Neutral,Solid enough after the update. The design is plain and the app is basic. Still deciding if I will keep them.
+96,2026-06-18,Aurora X1 Wireless Earbuds,Paul,5,Positive,Crisp and clear. Friends say calls sound better and the connection stays stable.
+97,2026-06-19,Aurora X1 Wireless Earbuds,Dev,3,Neutral,Okay for daily podcasts. I would not pick these when I want exciting music.
+98,2026-06-23,Aurora X1 Wireless Earbuds,Samir,1,Negative,The battery died after four days. Vocals are muddy and the fit is painful.
+99,2026-06-24,Aurora X1 Wireless Earbuds,Yusuf,4,Positive,Crisp and clear. Friends say calls sound better and the connection stays stable.
+100,2026-06-29,Aurora X1 Wireless Earbuds,Ravi,1,Negative,The bass crackles when I turn the volume up. Not worth this price.
+101,2025-10-03,Flux ANC Headset,Jake,4,Positive,Studio clarity plus serious ANC. Worth every bit of the price.
+102,2025-10-14,Flux ANC Headset,Sofia,3,Neutral,Does the job for hybrid work. Not a standout for audiophiles. Still deciding if I will keep them.
+103,2025-10-17,Flux ANC Headset,Arjun,4,Positive,Excellent for flights. Battery with ANC lasted my entire trip.
+104,2025-10-22,Flux ANC Headset,Ruth,5,Positive,Excellent for flights. Battery with ANC lasted my entire trip.
+105,2025-10-31,Flux ANC Headset,Ben,5,Positive,"Soft pads, stable Bluetooth, and honest battery numbers. Highly recommend."
+106,2025-11-02,Flux ANC Headset,Isha,3,Neutral,Transparency helps at crosswalks. Sound signature is V-shaped. Still deciding if I will keep them.
+107,2025-11-05,Flux ANC Headset,Anika,5,Positive,Calls are crisp even outdoors. Wind reduction actually works.
+108,2025-11-08,Flux ANC Headset,Riya,4,Positive,ANC melts cafe noise. Vocals stay clear and the pads stay cool.
+109,2025-11-08,Flux ANC Headset,Chris,1,Negative,Transparency mode sounds hollow. Mic quality fails in windy streets.
+110,2025-11-09,Flux ANC Headset,Mark,3,Neutral,Mic is acceptable indoors. Outdoors it struggles with wind. Still deciding if I will keep them.
+111,2025-11-12,Flux ANC Headset,Yusuf,5,Positive,ANC melts cafe noise. Vocals stay clear and the pads stay cool.
+112,2025-11-13,Flux ANC Headset,Sofia,1,Negative,Hiss is audible when ANC is on with no music. Distracting in quiet rooms.
+113,2025-11-13,Flux ANC Headset,Sara,4,Positive,"Soft pads, stable Bluetooth, and honest battery numbers. Highly recommend."
+114,2025-11-13,Flux ANC Headset,Dev,3,Neutral,"Pairs easily. Isolation is good for chatter, weak for low rumble."
+115,2025-11-13,Flux ANC Headset,Tom,5,Positive,Calls are crisp even outdoors. Wind reduction actually works.
+116,2025-11-17,Flux ANC Headset,Nina,1,Negative,Transparency mode sounds hollow. Mic quality fails in windy streets.
+117,2025-11-22,Flux ANC Headset,Nora,5,Positive,Quick charge gives hours of listening. Case is compact and sturdy.
+118,2025-11-22,Flux ANC Headset,Rahul,1,Negative,One side ANC is weaker. Feels like a manufacturing defect.
+119,2025-11-24,Flux ANC Headset,Nora,2,Negative,Price is steep for this average isolation. Cheaper rivals seal better.
+120,2025-11-28,Flux ANC Headset,Rahul,3,Neutral,Comfortable for an hour. After that the clamp starts to show. Still deciding if I will keep them.
+121,2025-11-28,Flux ANC Headset,Elena,5,Positive,Quick charge gives hours of listening. Case is compact and sturdy. Would buy again.
+122,2025-11-28,Flux ANC Headset,Sana,3,Neutral,Mic is acceptable indoors. Outdoors it struggles with wind.
+123,2025-12-09,Flux ANC Headset,Leo,5,Positive,Quick charge gives hours of listening. Case is compact and sturdy.
+124,2025-12-11,Flux ANC Headset,Neha,3,Neutral,Does the job for hybrid work. Not a standout for audiophiles.
+125,2025-12-12,Flux ANC Headset,Tara,5,Positive,Excellent for flights. Battery with ANC lasted my entire trip. Would buy again.
+126,2025-12-13,Flux ANC Headset,Emma,1,Negative,ANC leaks train rumble and causes ear pressure. Battery drains in four hours.
+127,2025-12-17,Flux ANC Headset,Asha,2,Negative,Disappointed overall. Firmware update broke multipoint. Now only one device stays connected.
+128,2025-12-18,Flux ANC Headset,Diya,4,Positive,Excellent for flights. Battery with ANC lasted my entire trip. Would buy again.
+129,2025-12-21,Flux ANC Headset,Chris,5,Positive,Rich detail and strong seal. Headband never digs in.
+130,2025-12-24,Flux ANC Headset,Ayaan,1,Negative,Case zipper jammed in a month. Customer support took weeks to reply.
+131,2025-12-28,Flux ANC Headset,Tom,5,Positive,Quick charge gives hours of listening. Case is compact and sturdy.
+132,2025-12-31,Flux ANC Headset,Fatima,4,Positive,Studio clarity plus serious ANC. Worth every bit of the price.
+133,2026-01-04,Flux ANC Headset,Zoe,4,Positive,"Deep, clean bass with precise mids. My favorite work headset."
+134,2026-01-04,Flux ANC Headset,Mark,2,Negative,Transparency mode sounds hollow. Mic quality fails in windy streets.
+135,2026-01-10,Flux ANC Headset,Leela,1,Negative,Latency is bad for video calls. Voices cut out when I turn my head.
+136,2026-01-11,Flux ANC Headset,Grace,5,Positive,Quick charge gives hours of listening. Case is compact and sturdy.
+137,2026-01-11,Flux ANC Headset,Omar,3,Neutral,Solid travel option if you tweak EQ. Stock tuning is bass heavy. Still deciding if I will keep them.
+138,2026-01-16,Flux ANC Headset,Leela,3,Neutral,Build looks premium. Features are many but polish is mixed.
+139,2026-01-22,Flux ANC Headset,Tara,2,Negative,Disappointed overall. ANC leaks train rumble and causes ear pressure. Battery drains in four hours.
+140,2026-01-22,Flux ANC Headset,Leela,1,Negative,One side ANC is weaker. Feels like a manufacturing defect.
+141,2026-01-24,Flux ANC Headset,Leo,4,Positive,Rich detail and strong seal. Headband never digs in.
+142,2026-01-26,Flux ANC Headset,Diya,2,Negative,Pads get sweaty fast and the headband pinches. Not for long flights.
+143,2026-01-31,Flux ANC Headset,Leo,1,Negative,Pads get sweaty fast and the headband pinches. Not for long flights.
+144,2026-02-02,Flux ANC Headset,Isha,3,Neutral,Does the job for hybrid work. Not a standout for audiophiles.
+145,2026-02-04,Flux ANC Headset,Jake,4,Positive,Studio clarity plus serious ANC. Worth every bit of the price.
+146,2026-02-15,Flux ANC Headset,Yusuf,1,Negative,Pads get sweaty fast and the headband pinches. Not for long flights.
+147,2026-02-17,Flux ANC Headset,Leela,1,Negative,Disappointed overall. Case zipper jammed in a month. Customer support took weeks to reply.
+148,2026-02-21,Flux ANC Headset,Maya,1,Negative,ANC leaks train rumble and causes ear pressure. Battery drains in four hours.
+149,2026-02-21,Flux ANC Headset,Paul,4,Positive,Rich detail and strong seal. Headband never digs in.
+150,2026-02-24,Flux ANC Headset,Rahul,3,Neutral,"Pairs easily. Isolation is good for chatter, weak for low rumble."
+151,2026-03-03,Flux ANC Headset,Priya,3,Neutral,Mic is acceptable indoors. Outdoors it struggles with wind.
+152,2026-03-05,Flux ANC Headset,Nikhil,2,Negative,Bass is exaggerated and muddy. EQ in the app barely helps.
+153,2026-03-07,Flux ANC Headset,Leela,3,Neutral,Comfortable for an hour. After that the clamp starts to show. Still deciding if I will keep them.
+154,2026-03-10,Flux ANC Headset,Nina,4,Positive,Isolation is class leading. Music and podcasts both shine.
+155,2026-03-12,Flux ANC Headset,Mark,4,Positive,Transparency sounds natural. Multipoint between laptop and phone is flawless.
+156,2026-03-18,Flux ANC Headset,Leela,5,Positive,Studio clarity plus serious ANC. Worth every bit of the price.
+157,2026-03-19,Flux ANC Headset,Isha,5,Positive,"Deep, clean bass with precise mids. My favorite work headset."
+158,2026-03-25,Flux ANC Headset,Samir,4,Positive,Transparency sounds natural. Multipoint between laptop and phone is flawless.
+159,2026-03-27,Flux ANC Headset,Vikram,4,Positive,Excellent for flights. Battery with ANC lasted my entire trip.
+160,2026-03-28,Flux ANC Headset,Grace,2,Negative,Firmware update broke multipoint. Now only one device stays connected.
+161,2026-03-30,Flux ANC Headset,Priya,4,Positive,Isolation is class leading. Music and podcasts both shine.
+162,2026-03-31,Flux ANC Headset,Priya,3,Neutral,Transparency helps at crosswalks. Sound signature is V-shaped.
+163,2026-04-03,Flux ANC Headset,Neha,1,Negative,ANC leaks train rumble and causes ear pressure. Battery drains in four hours.
+164,2026-04-10,Flux ANC Headset,Vikram,1,Negative,Firmware update broke multipoint. Now only one device stays connected.
+165,2026-04-11,Flux ANC Headset,Hugo,2,Negative,Bass is exaggerated and muddy. EQ in the app barely helps.
+166,2026-04-13,Flux ANC Headset,Arjun,1,Negative,Pads get sweaty fast and the headband pinches. Not for long flights.
+167,2026-04-13,Flux ANC Headset,Priya,2,Negative,One side ANC is weaker. Feels like a manufacturing defect.
+168,2026-04-16,Flux ANC Headset,Asha,3,Neutral,"Average ANC headset. Reliable enough, not exciting."
+169,2026-04-18,Flux ANC Headset,Tom,5,Positive,Studio clarity plus serious ANC. Worth every bit of the price.
+170,2026-04-21,Flux ANC Headset,Chris,1,Negative,Disappointed overall. Hiss is audible when ANC is on with no music. Distracting in quiet rooms.
+171,2026-04-22,Flux ANC Headset,Arjun,3,Neutral,Solid travel option if you tweak EQ. Stock tuning is bass heavy. Still deciding if I will keep them.
+172,2026-04-22,Flux ANC Headset,Rohan,3,Neutral,"Average ANC headset. Reliable enough, not exciting."
+173,2026-04-22,Flux ANC Headset,Fatima,2,Negative,Case zipper jammed in a month. Customer support took weeks to reply.
+174,2026-04-23,Flux ANC Headset,Emma,1,Negative,Disappointed overall. Price is steep for this average isolation. Cheaper rivals seal better.
+175,2026-04-30,Flux ANC Headset,Nora,2,Negative,ANC leaks train rumble and causes ear pressure. Battery drains in four hours.
+176,2026-05-02,Flux ANC Headset,Amina,3,Neutral,"ANC is okay for offices. Music is fine, calls are average. Still deciding if I will keep them."
+177,2026-05-03,Flux ANC Headset,Maya,4,Positive,"Deep, clean bass with precise mids. My favorite work headset."
+178,2026-05-05,Flux ANC Headset,Diya,3,Neutral,"Pairs easily. Isolation is good for chatter, weak for low rumble."
+179,2026-05-09,Flux ANC Headset,Owen,4,Positive,"Soft pads, stable Bluetooth, and honest battery numbers. Highly recommend."
+180,2026-05-09,Flux ANC Headset,Sara,2,Negative,Case zipper jammed in a month. Customer support took weeks to reply.
+181,2026-05-11,Flux ANC Headset,Jonah,2,Negative,Disappointed overall. Pads get sweaty fast and the headband pinches. Not for long flights.
+182,2026-05-18,Flux ANC Headset,Ravi,2,Negative,Transparency mode sounds hollow. Mic quality fails in windy streets.
+183,2026-05-20,Flux ANC Headset,Fatima,2,Negative,Transparency mode sounds hollow. Mic quality fails in windy streets.
+184,2026-05-24,Flux ANC Headset,Isha,1,Negative,Case zipper jammed in a month. Customer support took weeks to reply.
+185,2026-05-25,Flux ANC Headset,Ruth,3,Neutral,Does the job for hybrid work. Not a standout for audiophiles.
+186,2026-06-01,Flux ANC Headset,Vikram,2,Negative,Latency is bad for video calls. Voices cut out when I turn my head.
+187,2026-06-01,Flux ANC Headset,Jonah,2,Negative,Firmware update broke multipoint. Now only one device stays connected.
+188,2026-06-03,Flux ANC Headset,Omar,5,Positive,Excellent for flights. Battery with ANC lasted my entire trip.
+189,2026-06-05,Flux ANC Headset,Riya,5,Positive,Studio clarity plus serious ANC. Worth every bit of the price.
+190,2026-06-05,Flux ANC Headset,Sara,2,Negative,Case zipper jammed in a month. Customer support took weeks to reply.
+191,2026-06-08,Flux ANC Headset,Sofia,2,Negative,Case zipper jammed in a month. Customer support took weeks to reply.
+192,2026-06-08,Flux ANC Headset,Owen,3,Neutral,Battery lasts a workday with ANC on. App is a bit cluttered.
+193,2026-06-09,Flux ANC Headset,Isha,4,Positive,Calls are crisp even outdoors. Wind reduction actually works.
+194,2026-06-11,Flux ANC Headset,Nina,5,Positive,Calls are crisp even outdoors. Wind reduction actually works.
+195,2026-06-13,Flux ANC Headset,Ravi,1,Negative,Price is steep for this average isolation. Cheaper rivals seal better.
+196,2026-06-14,Flux ANC Headset,Kabir,2,Negative,Case zipper jammed in a month. Customer support took weeks to reply.
+197,2026-06-26,Flux ANC Headset,Kabir,1,Negative,Transparency mode sounds hollow. Mic quality fails in windy streets.
+198,2026-06-27,Flux ANC Headset,Elena,3,Neutral,Transparency helps at crosswalks. Sound signature is V-shaped. Still deciding if I will keep them.
+199,2026-06-29,Flux ANC Headset,Sofia,3,Neutral,Mic is acceptable indoors. Outdoors it struggles with wind. Still deciding if I will keep them.
+200,2026-06-30,Flux ANC Headset,Ravi,3,Neutral,Build looks premium. Features are many but polish is mixed. Still deciding if I will keep them.
+201,2025-10-02,Nova Pro Over-Ear Headphones,Amina,3,Neutral,Cable sound is clearer than wireless. App features feel basic. Still deciding if I will keep them.
+202,2025-10-07,Nova Pro Over-Ear Headphones,Isha,2,Negative,Disappointed overall. Bluetooth latency ruins gaming. Cable mode is the only usable option.
+203,2025-10-08,Nova Pro Over-Ear Headphones,Ravi,2,Negative,Bass blooms and vocals get buried. Not worth the asking price.
+204,2025-10-11,Nova Pro Over-Ear Headphones,Emma,2,Negative,The hinge feels loose and the headband creaks. Connection drops near Wi-Fi routers.
+205,2025-10-14,Nova Pro Over-Ear Headphones,Arjun,1,Negative,Mic quality is poor for calls. Coworkers say I sound distant.
+206,2025-10-17,Nova Pro Over-Ear Headphones,Ruth,3,Neutral,"Average daily headphones. Nothing broken, nothing memorable."
+207,2025-10-19,Nova Pro Over-Ear Headphones,Nora,4,Positive,"Warm, detailed sound with a secure fit. The hinge feels solid."
+208,2025-10-19,Nova Pro Over-Ear Headphones,Karan,5,Positive,Stable connection across campus. Music and podcasts both sound full.
+209,2025-10-21,Nova Pro Over-Ear Headphones,Hugo,3,Neutral,Noise reduction helps a little in cafes. Not enough for open offices.
+210,2025-10-21,Nova Pro Over-Ear Headphones,Leo,5,Positive,Excellent for long flights. Isolation is strong and the battery easily lasts two days.
+211,2025-10-26,Nova Pro Over-Ear Headphones,Nina,3,Neutral,Decent for office calls. Music is fine but not exciting. Build feels average.
+212,2025-10-27,Nova Pro Over-Ear Headphones,Imran,3,Neutral,Noise reduction helps a little in cafes. Not enough for open offices.
+213,2025-10-28,Nova Pro Over-Ear Headphones,Kabir,1,Negative,Noise isolation is weak on the train. The cushioning flattens quickly.
+214,2025-10-29,Nova Pro Over-Ear Headphones,Amina,2,Negative,The clamp is too tight and my ears get hot after an hour. Sound is muddy at midrange.
+215,2025-11-11,Nova Pro Over-Ear Headphones,Chris,4,Positive,"Build quality feels premium. Sound is clear, deep, and fatigue-free."
+216,2025-11-15,Nova Pro Over-Ear Headphones,Fatima,5,Positive,Soft memory foam and balanced EQ. My go-to for remote meetings. Would buy again.
+217,2025-11-20,Nova Pro Over-Ear Headphones,Emma,4,Positive,"Build quality feels premium. Sound is clear, deep, and fatigue-free. Would buy again."
+218,2025-11-20,Nova Pro Over-Ear Headphones,Emma,3,Neutral,"Comfortable enough for short flights. Isolation is okay, not great."
+219,2025-11-24,Nova Pro Over-Ear Headphones,Nikhil,5,Positive,Studio-like clarity for the price. Headband never digs in.
+220,2025-11-28,Nova Pro Over-Ear Headphones,Samir,4,Positive,Studio-like clarity for the price. Headband never digs in. Would buy again.
+221,2025-11-29,Nova Pro Over-Ear Headphones,Nora,4,Positive,Calls are crisp and the mic boom alternative works well. Comfortable all afternoon.
+222,2025-12-03,Nova Pro Over-Ear Headphones,Samir,5,Positive,Studio-like clarity for the price. Headband never digs in. Would buy again.
+223,2025-12-04,Nova Pro Over-Ear Headphones,Zoe,1,Negative,The clamp is too tight and my ears get hot after an hour. Sound is muddy at midrange.
+224,2025-12-07,Nova Pro Over-Ear Headphones,Maya,1,Negative,Leather pads peel after a few weeks. Soundstage feels narrow.
+225,2025-12-09,Nova Pro Over-Ear Headphones,Lina,5,Positive,Soft memory foam and balanced EQ. My go-to for remote meetings.
+226,2025-12-09,Nova Pro Over-Ear Headphones,Diya,1,Negative,Disappointed overall. Noise isolation is weak on the train. The cushioning flattens quickly.
+227,2025-12-10,Nova Pro Over-Ear Headphones,Zoe,5,Positive,Great for focus work. ANC cuts office chatter without pressure.
+228,2025-12-13,Nova Pro Over-Ear Headphones,Ruth,5,Positive,Great for focus work. ANC cuts office chatter without pressure.
+229,2025-12-14,Nova Pro Over-Ear Headphones,Nikhil,5,Positive,Rich bass without mud. Pairing is instant and the case protects them well.
+230,2025-12-16,Nova Pro Over-Ear Headphones,Jonah,3,Neutral,"Comfortable enough for short flights. Isolation is okay, not great."
+231,2025-12-18,Nova Pro Over-Ear Headphones,Yusuf,2,Negative,Noise isolation is weak on the train. The cushioning flattens quickly.
+232,2025-12-19,Nova Pro Over-Ear Headphones,Lina,2,Negative,Bass blooms and vocals get buried. Not worth the asking price.
+233,2025-12-24,Nova Pro Over-Ear Headphones,Leo,5,Positive,"Warm, detailed sound with a secure fit. The hinge feels solid. Would buy again."
+234,2025-12-28,Nova Pro Over-Ear Headphones,Ravi,5,Positive,Excellent for long flights. Isolation is strong and the battery easily lasts two days. Would buy again.
+235,2025-12-29,Nova Pro Over-Ear Headphones,Grace,4,Positive,Calls are crisp and the mic boom alternative works well. Comfortable all afternoon.
+236,2026-01-01,Nova Pro Over-Ear Headphones,Priya,5,Positive,Soft memory foam and balanced EQ. My go-to for remote meetings.
+237,2026-01-06,Nova Pro Over-Ear Headphones,Nina,2,Negative,The app EQ resets every time I reconnect. Frustrating for daily use.
+238,2026-01-10,Nova Pro Over-Ear Headphones,Hugo,2,Negative,The hinge feels loose and the headband creaks. Connection drops near Wi-Fi routers.
+239,2026-01-24,Nova Pro Over-Ear Headphones,Rohan,1,Negative,One earcup is quieter. Support asked me to reset them three times with no fix.
+240,2026-01-24,Nova Pro Over-Ear Headphones,Tom,3,Neutral,Battery lasts a workday. Sound is balanced but a bit clinical.
+241,2026-01-31,Nova Pro Over-Ear Headphones,Jake,5,Positive,Stable connection across campus. Music and podcasts both sound full. Would buy again.
+242,2026-01-31,Nova Pro Over-Ear Headphones,Isha,4,Positive,Rich bass without mud. Pairing is instant and the case protects them well.
+243,2026-02-02,Nova Pro Over-Ear Headphones,Samir,3,Neutral,Noise reduction helps a little in cafes. Not enough for open offices.
+244,2026-02-07,Nova Pro Over-Ear Headphones,Grace,4,Positive,"Warm, detailed sound with a secure fit. The hinge feels solid."
+245,2026-02-12,Nova Pro Over-Ear Headphones,Omar,1,Negative,Mic quality is poor for calls. Coworkers say I sound distant.
+246,2026-02-13,Nova Pro Over-Ear Headphones,Riya,1,Negative,The hinge feels loose and the headband creaks. Connection drops near Wi-Fi routers.
+247,2026-02-13,Nova Pro Over-Ear Headphones,Chris,2,Negative,Bluetooth latency ruins gaming. Cable mode is the only usable option.
+248,2026-02-17,Nova Pro Over-Ear Headphones,Anika,3,Neutral,Solid midrange. Bass is restrained and the case is bulky.
+249,2026-02-17,Nova Pro Over-Ear Headphones,Priya,1,Negative,Mic quality is poor for calls. Coworkers say I sound distant.
+250,2026-02-20,Nova Pro Over-Ear Headphones,Owen,3,Neutral,Cable sound is clearer than wireless. App features feel basic.
+251,2026-02-24,Nova Pro Over-Ear Headphones,Rohan,4,Positive,Stable connection across campus. Music and podcasts both sound full.
+252,2026-02-25,Nova Pro Over-Ear Headphones,Leela,1,Negative,One earcup is quieter. Support asked me to reset them three times with no fix.
+253,2026-02-25,Nova Pro Over-Ear Headphones,Leela,2,Negative,They are heavy for long study sessions. Battery drains faster than advertised.
+254,2026-02-25,Nova Pro Over-Ear Headphones,Ruth,3,Neutral,"Comfortable enough for short flights. Isolation is okay, not great. Still deciding if I will keep them."
+255,2026-03-01,Nova Pro Over-Ear Headphones,Neha,3,Neutral,Good enough for podcasts. I expected richer detail at this price.
+256,2026-03-01,Nova Pro Over-Ear Headphones,Fatima,4,Positive,"Warm, detailed sound with a secure fit. The hinge feels solid. Would buy again."
+257,2026-03-03,Nova Pro Over-Ear Headphones,Rahul,5,Positive,Excellent for long flights. Isolation is strong and the battery easily lasts two days.
+258,2026-03-04,Nova Pro Over-Ear Headphones,Helena,3,Neutral,Solid midrange. Bass is restrained and the case is bulky.
+259,2026-03-05,Nova Pro Over-Ear Headphones,Arjun,2,Negative,Bass blooms and vocals get buried. Not worth the asking price.
+260,2026-03-05,Nova Pro Over-Ear Headphones,Neha,1,Negative,Noise isolation is weak on the train. The cushioning flattens quickly.
+261,2026-03-05,Nova Pro Over-Ear Headphones,Yusuf,1,Negative,The clamp is too tight and my ears get hot after an hour. Sound is muddy at midrange.
+262,2026-03-06,Nova Pro Over-Ear Headphones,Isha,4,Positive,"Build quality feels premium. Sound is clear, deep, and fatigue-free."
+263,2026-03-12,Nova Pro Over-Ear Headphones,Zoe,4,Positive,Soft memory foam and balanced EQ. My go-to for remote meetings.
+264,2026-03-17,Nova Pro Over-Ear Headphones,Karan,1,Negative,The hinge feels loose and the headband creaks. Connection drops near Wi-Fi routers.
+265,2026-03-18,Nova Pro Over-Ear Headphones,Anika,5,Positive,Excellent for long flights. Isolation is strong and the battery easily lasts two days.
+266,2026-03-19,Nova Pro Over-Ear Headphones,Sara,3,Neutral,Cable sound is clearer than wireless. App features feel basic.
+267,2026-03-20,Nova Pro Over-Ear Headphones,Fatima,3,Neutral,Noise reduction helps a little in cafes. Not enough for open offices.
+268,2026-03-26,Nova Pro Over-Ear Headphones,Chris,1,Negative,Bluetooth latency ruins gaming. Cable mode is the only usable option.
+269,2026-03-30,Nova Pro Over-Ear Headphones,Ruth,4,Positive,Great for focus work. ANC cuts office chatter without pressure.
+270,2026-04-04,Nova Pro Over-Ear Headphones,Karan,2,Negative,The clamp is too tight and my ears get hot after an hour. Sound is muddy at midrange.
+271,2026-04-05,Nova Pro Over-Ear Headphones,Sofia,2,Negative,Disappointed overall. Bluetooth latency ruins gaming. Cable mode is the only usable option.
+272,2026-04-06,Nova Pro Over-Ear Headphones,Arjun,4,Positive,Studio-like clarity for the price. Headband never digs in.
+273,2026-04-09,Nova Pro Over-Ear Headphones,Sara,2,Negative,Leather pads peel after a few weeks. Soundstage feels narrow.
+274,2026-04-12,Nova Pro Over-Ear Headphones,Samir,2,Negative,The app EQ resets every time I reconnect. Frustrating for daily use.
+275,2026-04-14,Nova Pro Over-Ear Headphones,Diya,3,Neutral,Pairing is simple. Design looks premium but comfort fades after two hours.
+276,2026-04-14,Nova Pro Over-Ear Headphones,Karan,2,Negative,Disappointed overall. Bass blooms and vocals get buried. Not worth the asking price.
+277,2026-04-21,Nova Pro Over-Ear Headphones,Jonah,2,Negative,Disappointed overall. They are heavy for long study sessions. Battery drains faster than advertised.
+278,2026-04-24,Nova Pro Over-Ear Headphones,Yusuf,1,Negative,Noise isolation is weak on the train. The cushioning flattens quickly.
+279,2026-04-24,Nova Pro Over-Ear Headphones,Emma,2,Negative,Bluetooth latency ruins gaming. Cable mode is the only usable option.
+280,2026-04-25,Nova Pro Over-Ear Headphones,Tara,3,Neutral,Solid midrange. Bass is restrained and the case is bulky.
+281,2026-04-28,Nova Pro Over-Ear Headphones,Leela,1,Negative,Noise isolation is weak on the train. The cushioning flattens quickly.
+282,2026-04-29,Nova Pro Over-Ear Headphones,Meera,1,Negative,Leather pads peel after a few weeks. Soundstage feels narrow.
+283,2026-05-01,Nova Pro Over-Ear Headphones,Chris,2,Negative,They are heavy for long study sessions. Battery drains faster than advertised.
+284,2026-05-02,Nova Pro Over-Ear Headphones,Nina,5,Positive,Great for focus work. ANC cuts office chatter without pressure. Would buy again.
+285,2026-05-03,Nova Pro Over-Ear Headphones,Omar,3,Neutral,Noise reduction helps a little in cafes. Not enough for open offices.
+286,2026-05-06,Nova Pro Over-Ear Headphones,Neha,1,Negative,One earcup is quieter. Support asked me to reset them three times with no fix.
+287,2026-05-14,Nova Pro Over-Ear Headphones,Chris,1,Negative,They are heavy for long study sessions. Battery drains faster than advertised.
+288,2026-05-15,Nova Pro Over-Ear Headphones,Leo,1,Negative,The app EQ resets every time I reconnect. Frustrating for daily use.
+289,2026-05-15,Nova Pro Over-Ear Headphones,Sana,4,Positive,Soft memory foam and balanced EQ. My go-to for remote meetings. Would buy again.
+290,2026-05-21,Nova Pro Over-Ear Headphones,Lina,3,Neutral,Solid midrange. Bass is restrained and the case is bulky.
+291,2026-05-22,Nova Pro Over-Ear Headphones,Asha,4,Positive,Stable connection across campus. Music and podcasts both sound full. Would buy again.
+292,2026-05-24,Nova Pro Over-Ear Headphones,Elena,5,Positive,Stable connection across campus. Music and podcasts both sound full.
+293,2026-05-25,Nova Pro Over-Ear Headphones,Anika,4,Positive,Plush pads and a wide soundstage. Vocals stay clear even at higher volume.
+294,2026-05-26,Nova Pro Over-Ear Headphones,Neha,3,Neutral,They do the job for lectures. I wish the pads were softer.
+295,2026-05-27,Nova Pro Over-Ear Headphones,Amina,2,Negative,The clamp is too tight and my ears get hot after an hour. Sound is muddy at midrange.
+296,2026-05-28,Nova Pro Over-Ear Headphones,Lina,4,Positive,Rich bass without mud. Pairing is instant and the case protects them well.
+297,2026-06-04,Nova Pro Over-Ear Headphones,Amina,3,Neutral,Solid midrange. Bass is restrained and the case is bulky.
+298,2026-06-08,Nova Pro Over-Ear Headphones,Kabir,3,Neutral,Solid midrange. Bass is restrained and the case is bulky.
+299,2026-06-09,Nova Pro Over-Ear Headphones,Arjun,3,Neutral,"Average daily headphones. Nothing broken, nothing memorable."
+300,2026-06-14,Nova Pro Over-Ear Headphones,Maya,5,Positive,Studio-like clarity for the price. Headband never digs in.
+301,2025-10-04,Orbit Fit Band,Elena,3,Neutral,Comfortable overnight. Heart rate looks plausible at rest.
+302,2025-10-06,Orbit Fit Band,Elena,1,Negative,Notifications arrive late or not at all. App crashes on open.
+303,2025-10-14,Orbit Fit Band,Nina,2,Negative,After the latest update the band will not pair. Factory reset did nothing.
+304,2025-10-15,Orbit Fit Band,Arjun,3,Neutral,Tracks steps okay. Sleep data is rough but directionally useful.
+305,2025-10-19,Orbit Fit Band,Paul,2,Negative,Steps are undercounted compared with my phone. Sync fails twice a week.
+306,2025-10-21,Orbit Fit Band,Meera,2,Negative,Calorie estimates are wildly high. Coach tips feel generic and wrong.
+307,2025-10-31,Orbit Fit Band,Priya,3,Neutral,Good reminder to stand. Metrics feel approximate rather than exact. Still deciding if I will keep them.
+308,2025-10-31,Orbit Fit Band,Rohan,5,Positive,Swim tracking and auto workout detect both work well. Love the display.
+309,2025-11-01,Orbit Fit Band,Jake,4,Positive,Simple band that just works. Metrics are steady week after week.
+310,2025-11-01,Orbit Fit Band,Riya,1,Negative,GPS tracks are jagged and overstate distance. Useless for training.
+311,2025-11-07,Orbit Fit Band,Meera,2,Negative,Heart rate spikes randomly during rest. Sleep stages look completely wrong.
+312,2025-11-10,Orbit Fit Band,Sana,5,Positive,Accurate resting heart rate and sleep that finally matches how I feel.
+313,2025-11-11,Orbit Fit Band,Ben,1,Negative,Battery dies in two days despite the seven day claim. Charging pins corrode.
+314,2025-11-24,Orbit Fit Band,Chris,3,Neutral,Tracks steps okay. Sleep data is rough but directionally useful. Still deciding if I will keep them.
+315,2025-11-25,Orbit Fit Band,Hugo,4,Positive,Water lock is trustworthy. Build quality feels tougher than it looks. Would buy again.
+316,2025-11-26,Orbit Fit Band,Anika,5,Positive,Accurate resting heart rate and sleep that finally matches how I feel.
+317,2025-11-26,Orbit Fit Band,Helena,2,Negative,Disappointed overall. Battery dies in two days despite the seven day claim. Charging pins corrode.
+318,2025-11-30,Orbit Fit Band,Nora,2,Negative,Calorie estimates are wildly high. Coach tips feel generic and wrong.
+319,2025-12-08,Orbit Fit Band,Grace,2,Negative,After the latest update the band will not pair. Factory reset did nothing.
+320,2025-12-10,Orbit Fit Band,Asha,4,Positive,Heart zones during runs look consistent. Charging is quick. Would buy again.
+321,2025-12-11,Orbit Fit Band,Grace,4,Positive,"Light, comfortable, and the battery easily lasts a full week. Would buy again."
+322,2025-12-12,Orbit Fit Band,Sara,1,Negative,Notifications arrive late or not at all. App crashes on open.
+323,2025-12-14,Orbit Fit Band,Amina,2,Negative,GPS tracks are jagged and overstate distance. Useless for training.
+324,2025-12-18,Orbit Fit Band,Priya,1,Negative,Steps are undercounted compared with my phone. Sync fails twice a week.
+325,2025-12-20,Orbit Fit Band,Anika,3,Neutral,Clasp is secure enough for office days. Swim tracking is basic.
+326,2025-12-21,Orbit Fit Band,Fatima,1,Negative,Screen scratches easily. Water lock never engages in the pool.
+327,2025-12-21,Orbit Fit Band,Paul,1,Negative,Band irritates my skin after a day. Clasp loosens while I run.
+328,2025-12-24,Orbit Fit Band,Fatima,5,Positive,Simple band that just works. Metrics are steady week after week.
+329,2025-12-27,Orbit Fit Band,Ben,5,Positive,Accurate resting heart rate and sleep that finally matches how I feel.
+330,2025-12-29,Orbit Fit Band,Anika,3,Neutral,Tracks steps okay. Sleep data is rough but directionally useful.
+331,2026-01-04,Orbit Fit Band,Asha,5,Positive,Heart zones during runs look consistent. Charging is quick.
+332,2026-01-06,Orbit Fit Band,Emma,1,Negative,After the latest update the band will not pair. Factory reset did nothing.
+333,2026-01-07,Orbit Fit Band,Owen,5,Positive,Sync is reliable and the app charts are clear. Great daily companion.
+334,2026-01-10,Orbit Fit Band,Nina,5,Positive,Sync is reliable and the app charts are clear. Great daily companion.
+335,2026-01-11,Orbit Fit Band,Emma,4,Positive,Heart zones during runs look consistent. Charging is quick.
+336,2026-01-14,Orbit Fit Band,Jake,4,Positive,Water lock is trustworthy. Build quality feels tougher than it looks.
+337,2026-01-20,Orbit Fit Band,Emma,3,Neutral,Clasp is secure enough for office days. Swim tracking is basic.
+338,2026-01-25,Orbit Fit Band,Sofia,2,Negative,Strap sizing runs small and the replacement cost is ridiculous.
+339,2026-01-27,Orbit Fit Band,Maya,1,Negative,Band irritates my skin after a day. Clasp loosens while I run.
+340,2026-01-31,Orbit Fit Band,Nikhil,4,Positive,Swim tracking and auto workout detect both work well. Love the display. Would buy again.
+341,2026-02-04,Orbit Fit Band,Jonah,4,Positive,Heart zones during runs look consistent. Charging is quick. Would buy again.
+342,2026-02-13,Orbit Fit Band,Alex,2,Negative,Heart rate spikes randomly during rest. Sleep stages look completely wrong.
+343,2026-02-13,Orbit Fit Band,Karan,4,Positive,Sync is reliable and the app charts are clear. Great daily companion.
+344,2026-02-14,Orbit Fit Band,Chris,1,Negative,Screen scratches easily. Water lock never engages in the pool.
+345,2026-02-16,Orbit Fit Band,Ravi,4,Positive,Notifications are timely. Strap never irritates during workouts.
+346,2026-02-18,Orbit Fit Band,Amina,3,Neutral,Good reminder to stand. Metrics feel approximate rather than exact.
+347,2026-02-26,Orbit Fit Band,Alex,2,Negative,Heart rate spikes randomly during rest. Sleep stages look completely wrong.
+348,2026-02-26,Orbit Fit Band,Meera,3,Neutral,Good reminder to stand. Metrics feel approximate rather than exact. Still deciding if I will keep them.
+349,2026-03-01,Orbit Fit Band,Mark,1,Negative,Band irritates my skin after a day. Clasp loosens while I run.
+350,2026-03-02,Orbit Fit Band,Rohan,1,Negative,Calorie estimates are wildly high. Coach tips feel generic and wrong.
+351,2026-03-03,Orbit Fit Band,Omar,3,Neutral,Syncs when it wants to. Design is plain and inoffensive.
+352,2026-03-03,Orbit Fit Band,Grace,2,Negative,Strap sizing runs small and the replacement cost is ridiculous.
+353,2026-03-09,Orbit Fit Band,Neha,3,Neutral,Clasp is secure enough for office days. Swim tracking is basic.
+354,2026-03-10,Orbit Fit Band,Jake,4,Positive,Sync is reliable and the app charts are clear. Great daily companion.
+355,2026-03-10,Orbit Fit Band,Owen,2,Negative,Strap sizing runs small and the replacement cost is ridiculous.
+356,2026-03-13,Orbit Fit Band,Priya,1,Negative,GPS tracks are jagged and overstate distance. Useless for training.
+357,2026-03-16,Orbit Fit Band,Riya,1,Negative,Steps are undercounted compared with my phone. Sync fails twice a week.
+358,2026-03-19,Orbit Fit Band,Priya,3,Neutral,Fine for casual walking goals. Not precise enough for serious training.
+359,2026-03-20,Orbit Fit Band,Grace,2,Negative,Heart rate spikes randomly during rest. Sleep stages look completely wrong.
+360,2026-03-22,Orbit Fit Band,Isha,4,Positive,Simple band that just works. Metrics are steady week after week.
+361,2026-03-23,Orbit Fit Band,Ravi,3,Neutral,Light on the wrist. Battery lasts about four days with always-on off.
+362,2026-03-25,Orbit Fit Band,Maya,2,Negative,Strap sizing runs small and the replacement cost is ridiculous.
+363,2026-03-26,Orbit Fit Band,Paul,5,Positive,Sync is reliable and the app charts are clear. Great daily companion.
+364,2026-03-30,Orbit Fit Band,Vikram,5,Positive,Notifications are timely. Strap never irritates during workouts. Would buy again.
+365,2026-04-04,Orbit Fit Band,Ravi,3,Neutral,"Does the basics. Nothing broken, nothing impressive."
+366,2026-04-04,Orbit Fit Band,Lina,1,Negative,Strap sizing runs small and the replacement cost is ridiculous.
+367,2026-04-06,Orbit Fit Band,Emma,2,Negative,Steps are undercounted compared with my phone. Sync fails twice a week.
+368,2026-04-10,Orbit Fit Band,Anika,3,Neutral,App is simple. I wish workouts had more sport profiles.
+369,2026-04-13,Orbit Fit Band,Kabir,1,Negative,After the latest update the band will not pair. Factory reset did nothing.
+370,2026-04-13,Orbit Fit Band,Paul,2,Negative,Band irritates my skin after a day. Clasp loosens while I run.
+371,2026-04-15,Orbit Fit Band,Karan,5,Positive,Accurate resting heart rate and sleep that finally matches how I feel.
+372,2026-04-21,Orbit Fit Band,Elena,1,Negative,Notifications arrive late or not at all. App crashes on open.
+373,2026-04-24,Orbit Fit Band,Vikram,2,Negative,Screen scratches easily. Water lock never engages in the pool.
+374,2026-04-24,Orbit Fit Band,Riya,2,Negative,Calorie estimates are wildly high. Coach tips feel generic and wrong.
+375,2026-04-26,Orbit Fit Band,Leo,5,Positive,Swim tracking and auto workout detect both work well. Love the display.
+376,2026-04-26,Orbit Fit Band,Hugo,4,Positive,Simple band that just works. Metrics are steady week after week.
+377,2026-04-29,Orbit Fit Band,Tara,5,Positive,Step goals keep me moving. Nighttime comfort is excellent.
+378,2026-04-30,Orbit Fit Band,Chris,3,Neutral,Fine for casual walking goals. Not precise enough for serious training. Still deciding if I will keep them.
+379,2026-05-02,Orbit Fit Band,Karan,3,Neutral,Fine for casual walking goals. Not precise enough for serious training.
+380,2026-05-03,Orbit Fit Band,Kabir,1,Negative,Heart rate spikes randomly during rest. Sleep stages look completely wrong.
+381,2026-05-25,Orbit Fit Band,Tom,2,Negative,Strap sizing runs small and the replacement cost is ridiculous.
+382,2026-05-26,Orbit Fit Band,Imran,3,Neutral,Good reminder to stand. Metrics feel approximate rather than exact.
+383,2026-05-27,Orbit Fit Band,Dev,5,Positive,"Light, comfortable, and the battery easily lasts a full week."
+384,2026-05-28,Orbit Fit Band,Jonah,3,Neutral,App is simple. I wish workouts had more sport profiles.
+385,2026-05-29,Orbit Fit Band,Amina,5,Positive,Accurate resting heart rate and sleep that finally matches how I feel.
+386,2026-06-03,Orbit Fit Band,Imran,4,Positive,Heart zones during runs look consistent. Charging is quick.
+387,2026-06-08,Orbit Fit Band,Fatima,4,Positive,Swim tracking and auto workout detect both work well. Love the display.
+388,2026-06-12,Orbit Fit Band,Rahul,1,Negative,Strap sizing runs small and the replacement cost is ridiculous.
+389,2026-06-15,Orbit Fit Band,Alex,4,Positive,Simple band that just works. Metrics are steady week after week.
+390,2026-06-16,Orbit Fit Band,Samir,3,Neutral,Light on the wrist. Battery lasts about four days with always-on off.
+391,2026-06-16,Orbit Fit Band,Leela,1,Negative,Disappointed overall. Notifications arrive late or not at all. App crashes on open.
+392,2026-06-16,Orbit Fit Band,Helena,5,Positive,Simple band that just works. Metrics are steady week after week. Would buy again.
+393,2026-06-18,Orbit Fit Band,Maya,3,Neutral,Comfortable overnight. Heart rate looks plausible at rest.
+394,2026-06-19,Orbit Fit Band,Leela,4,Positive,Simple band that just works. Metrics are steady week after week.
+395,2026-06-20,Orbit Fit Band,Anika,5,Positive,Accurate resting heart rate and sleep that finally matches how I feel.
+396,2026-06-21,Orbit Fit Band,Ravi,3,Neutral,App is simple. I wish workouts had more sport profiles.
+397,2026-06-21,Orbit Fit Band,Samir,4,Positive,GPS runs are clean and the coach tips helped me improve pace.
+398,2026-06-21,Orbit Fit Band,Nora,5,Positive,Water lock is trustworthy. Build quality feels tougher than it looks.
+399,2026-06-26,Orbit Fit Band,Yusuf,3,Neutral,Notifications work most of the time. Screen is dim outdoors.
+400,2026-06-29,Orbit Fit Band,Ruth,3,Neutral,Tracks steps okay. Sleep data is rough but directionally useful.
+401,2025-10-15,Pulse Mini Bluetooth Speaker,Fatima,4,Positive,Punchy bass and clear mids. Pairing is instant every time.
+402,2025-10-16,Pulse Mini Bluetooth Speaker,Arjun,1,Negative,Disappointed overall. It overheats after thirty minutes of loud playback and shuts down.
+403,2025-10-22,Pulse Mini Bluetooth Speaker,Hugo,1,Negative,It overheats after thirty minutes of loud playback and shuts down.
+404,2025-10-22,Pulse Mini Bluetooth Speaker,Leela,5,Positive,Clear announcements in speakerphone mode. Connection stays stable.
+405,2025-10-26,Pulse Mini Bluetooth Speaker,Tom,5,Positive,Took light rain without issues. Loud enough for a small patio dinner. Would buy again.
+406,2025-10-27,Pulse Mini Bluetooth Speaker,Alex,1,Negative,Bluetooth drops when I walk ten feet away. Not usable outdoors.
+407,2025-10-30,Pulse Mini Bluetooth Speaker,Mark,4,Positive,True pocket size with honest battery life. Love it for camping.
+408,2025-11-01,Pulse Mini Bluetooth Speaker,Leela,3,Neutral,Works with my phone and laptop. No wow factor in the sound.
+409,2025-11-04,Pulse Mini Bluetooth Speaker,Grace,3,Neutral,Average picnic speaker. Holds a charge for a few hours. Still deciding if I will keep them.
+410,2025-11-04,Pulse Mini Bluetooth Speaker,Sana,2,Negative,Volume maxes out too soon and the bass rattles the grille. Distortion is obvious.
+411,2025-11-07,Pulse Mini Bluetooth Speaker,Leo,1,Negative,Volume maxes out too soon and the bass rattles the grille. Distortion is obvious.
+412,2025-11-08,Pulse Mini Bluetooth Speaker,Owen,4,Positive,Bright design and warm tone. Best mini speaker I have owned. Would buy again.
+413,2025-11-09,Pulse Mini Bluetooth Speaker,Fatima,3,Neutral,Fine for a desk. Bass is light and battery lasts an afternoon.
+414,2025-11-09,Pulse Mini Bluetooth Speaker,Tara,5,Positive,Charges quickly and plays for hours. Perfect for dorm rooms.
+415,2025-11-10,Pulse Mini Bluetooth Speaker,Rahul,5,Positive,Bright design and warm tone. Best mini speaker I have owned. Would buy again.
+416,2025-11-13,Pulse Mini Bluetooth Speaker,Vikram,4,Positive,Charges quickly and plays for hours. Perfect for dorm rooms.
+417,2025-11-13,Pulse Mini Bluetooth Speaker,Leo,2,Negative,Price is high for this thin sound. Neighbor's cheaper speaker beats it.
+418,2025-11-13,Pulse Mini Bluetooth Speaker,Ben,3,Neutral,Design is clean. Output is safe but unexciting at this price. Still deciding if I will keep them.
+419,2025-11-16,Pulse Mini Bluetooth Speaker,Karan,2,Negative,Disappointed overall. Sound is tinny at mid volume. Party mode never syncs with a second speaker.
+420,2025-11-21,Pulse Mini Bluetooth Speaker,Tara,1,Negative,Sound is tinny at mid volume. Party mode never syncs with a second speaker.
+421,2025-11-22,Pulse Mini Bluetooth Speaker,Jake,3,Neutral,Works with my phone and laptop. No wow factor in the sound.
+422,2025-11-23,Pulse Mini Bluetooth Speaker,Rohan,2,Negative,Water resistance failed after light rain. Unit will not power on now.
+423,2025-11-24,Pulse Mini Bluetooth Speaker,Nikhil,2,Negative,Disappointed overall. The strap broke in a week. Support said wear and tear is not covered.
+424,2025-11-26,Pulse Mini Bluetooth Speaker,Rohan,2,Negative,Price is high for this thin sound. Neighbor's cheaper speaker beats it.
+425,2025-12-02,Pulse Mini Bluetooth Speaker,Vikram,1,Negative,Sound is tinny at mid volume. Party mode never syncs with a second speaker.
+426,2025-12-07,Pulse Mini Bluetooth Speaker,Nina,4,Positive,Charges quickly and plays for hours. Perfect for dorm rooms.
+427,2025-12-09,Pulse Mini Bluetooth Speaker,Lina,3,Neutral,Works with my phone and laptop. No wow factor in the sound.
+428,2025-12-12,Pulse Mini Bluetooth Speaker,Sana,3,Neutral,"Portable and simple. Sound is okay indoors, weak outside."
+429,2025-12-13,Pulse Mini Bluetooth Speaker,Isha,2,Negative,Volume maxes out too soon and the bass rattles the grille. Distortion is obvious.
+430,2025-12-15,Pulse Mini Bluetooth Speaker,Nikhil,1,Negative,The strap broke in a week. Support said wear and tear is not covered.
+431,2025-12-16,Pulse Mini Bluetooth Speaker,Chris,1,Negative,Sound is tinny at mid volume. Party mode never syncs with a second speaker.
+432,2025-12-16,Pulse Mini Bluetooth Speaker,Ravi,4,Positive,Stereo pair mode locked in fast. Guests kept asking what speaker it was. Would buy again.
+433,2025-12-19,Pulse Mini Bluetooth Speaker,Lina,3,Neutral,Pairs quickly. I wish there was a clearer battery indicator.
+434,2025-12-24,Pulse Mini Bluetooth Speaker,Sofia,3,Neutral,"Does what it says. Not a party speaker, more of a personal one."
+435,2025-12-28,Pulse Mini Bluetooth Speaker,Meera,2,Negative,Battery dies during a short picnic. Charging port feels loose.
+436,2026-01-01,Pulse Mini Bluetooth Speaker,Neha,3,Neutral,Design is clean. Output is safe but unexciting at this price. Still deciding if I will keep them.
+437,2026-01-08,Pulse Mini Bluetooth Speaker,Rohan,4,Positive,Punchy bass and clear mids. Pairing is instant every time.
+438,2026-01-08,Pulse Mini Bluetooth Speaker,Mark,5,Positive,True pocket size with honest battery life. Love it for camping.
+439,2026-01-10,Pulse Mini Bluetooth Speaker,Owen,2,Negative,Battery dies during a short picnic. Charging port feels loose.
+440,2026-01-11,Pulse Mini Bluetooth Speaker,Nina,5,Positive,Rich sound without crackle at high volume. Build feels solid.
+441,2026-01-12,Pulse Mini Bluetooth Speaker,Meera,5,Positive,True pocket size with honest battery life. Love it for camping. Would buy again.
+442,2026-01-22,Pulse Mini Bluetooth Speaker,Leela,1,Negative,Disappointed overall. It overheats after thirty minutes of loud playback and shuts down.
+443,2026-01-26,Pulse Mini Bluetooth Speaker,Tara,3,Neutral,Looks cute on a shelf. Volume is adequate for small rooms only.
+444,2026-01-29,Pulse Mini Bluetooth Speaker,Diya,3,Neutral,Design is clean. Output is safe but unexciting at this price.
+445,2026-01-31,Pulse Mini Bluetooth Speaker,Leo,3,Neutral,Works with my phone and laptop. No wow factor in the sound. Still deciding if I will keep them.
+446,2026-02-01,Pulse Mini Bluetooth Speaker,Isha,3,Neutral,Fine for a desk. Bass is light and battery lasts an afternoon.
+447,2026-02-07,Pulse Mini Bluetooth Speaker,Ayaan,5,Positive,Rich sound without crackle at high volume. Build feels solid.
+448,2026-02-17,Pulse Mini Bluetooth Speaker,Imran,2,Negative,Price is high for this thin sound. Neighbor's cheaper speaker beats it.
+449,2026-02-18,Pulse Mini Bluetooth Speaker,Omar,3,Neutral,Works with my phone and laptop. No wow factor in the sound.
+450,2026-02-23,Pulse Mini Bluetooth Speaker,Emma,1,Negative,Water resistance failed after light rain. Unit will not power on now.
+451,2026-02-23,Pulse Mini Bluetooth Speaker,Arjun,5,Positive,Clear announcements in speakerphone mode. Connection stays stable.
+452,2026-02-26,Pulse Mini Bluetooth Speaker,Fatima,3,Neutral,Looks cute on a shelf. Volume is adequate for small rooms only.
+453,2026-02-27,Pulse Mini Bluetooth Speaker,Hugo,4,Positive,"Compact, sturdy strap, and clean vocals. Great travel companion."
+454,2026-03-04,Pulse Mini Bluetooth Speaker,Imran,5,Positive,Surprisingly full sound for the size. Battery lasted our whole beach day. Would buy again.
+455,2026-03-08,Pulse Mini Bluetooth Speaker,Owen,2,Negative,Disappointed overall. The strap broke in a week. Support said wear and tear is not covered.
+456,2026-03-09,Pulse Mini Bluetooth Speaker,Sofia,3,Neutral,Average picnic speaker. Holds a charge for a few hours. Still deciding if I will keep them.
+457,2026-03-14,Pulse Mini Bluetooth Speaker,Nina,4,Positive,Bright design and warm tone. Best mini speaker I have owned.
+458,2026-03-15,Pulse Mini Bluetooth Speaker,Zoe,5,Positive,Bright design and warm tone. Best mini speaker I have owned.
+459,2026-03-18,Pulse Mini Bluetooth Speaker,Nora,5,Positive,Clear announcements in speakerphone mode. Connection stays stable.
+460,2026-03-20,Pulse Mini Bluetooth Speaker,Nora,1,Negative,Price is high for this thin sound. Neighbor's cheaper speaker beats it.
+461,2026-03-21,Pulse Mini Bluetooth Speaker,Lina,2,Negative,Disappointed overall. Price is high for this thin sound. Neighbor's cheaper speaker beats it.
+462,2026-03-21,Pulse Mini Bluetooth Speaker,Kabir,2,Negative,Battery dies during a short picnic. Charging port feels loose.
+463,2026-03-23,Pulse Mini Bluetooth Speaker,Ruth,5,Positive,Rich sound without crackle at high volume. Build feels solid.
+464,2026-03-23,Pulse Mini Bluetooth Speaker,Tom,5,Positive,Stereo pair mode locked in fast. Guests kept asking what speaker it was.
+465,2026-03-23,Pulse Mini Bluetooth Speaker,Alex,2,Negative,Volume maxes out too soon and the bass rattles the grille. Distortion is obvious.
+466,2026-03-25,Pulse Mini Bluetooth Speaker,Jake,2,Negative,Battery dies during a short picnic. Charging port feels loose.
+467,2026-03-31,Pulse Mini Bluetooth Speaker,Lina,1,Negative,Microphone for speakerphone calls is awful. Guests cannot hear me.
+468,2026-04-05,Pulse Mini Bluetooth Speaker,Mark,2,Negative,Microphone for speakerphone calls is awful. Guests cannot hear me.
+469,2026-04-05,Pulse Mini Bluetooth Speaker,Tom,1,Negative,Disappointed overall. Buttons are mushy and the app cannot find the speaker half the time.
+470,2026-04-16,Pulse Mini Bluetooth Speaker,Amina,1,Negative,Disappointed overall. The strap broke in a week. Support said wear and tear is not covered.
+471,2026-04-19,Pulse Mini Bluetooth Speaker,Nora,3,Neutral,Good enough for podcasts in the kitchen. Music needs more body.
+472,2026-04-21,Pulse Mini Bluetooth Speaker,Nina,4,Positive,Stereo pair mode locked in fast. Guests kept asking what speaker it was. Would buy again.
+473,2026-04-26,Pulse Mini Bluetooth Speaker,Jake,4,Positive,Bright design and warm tone. Best mini speaker I have owned.
+474,2026-04-26,Pulse Mini Bluetooth Speaker,Rahul,1,Negative,It overheats after thirty minutes of loud playback and shuts down.
+475,2026-05-01,Pulse Mini Bluetooth Speaker,Vikram,1,Negative,The strap broke in a week. Support said wear and tear is not covered.
+476,2026-05-03,Pulse Mini Bluetooth Speaker,Samir,3,Neutral,IP rating seems real for splashes. Tone is bright and a bit harsh. Still deciding if I will keep them.
+477,2026-05-05,Pulse Mini Bluetooth Speaker,Tara,3,Neutral,IP rating seems real for splashes. Tone is bright and a bit harsh. Still deciding if I will keep them.
+478,2026-05-06,Pulse Mini Bluetooth Speaker,Yusuf,1,Negative,Battery dies during a short picnic. Charging port feels loose.
+479,2026-05-09,Pulse Mini Bluetooth Speaker,Dev,4,Positive,Clear announcements in speakerphone mode. Connection stays stable. Would buy again.
+480,2026-05-09,Pulse Mini Bluetooth Speaker,Owen,1,Negative,Disappointed overall. Battery dies during a short picnic. Charging port feels loose.
+481,2026-05-13,Pulse Mini Bluetooth Speaker,Ben,5,Positive,"Compact, sturdy strap, and clean vocals. Great travel companion."
+482,2026-05-18,Pulse Mini Bluetooth Speaker,Tom,2,Negative,Buttons are mushy and the app cannot find the speaker half the time.
+483,2026-05-23,Pulse Mini Bluetooth Speaker,Lina,4,Positive,"Compact, sturdy strap, and clean vocals. Great travel companion."
+484,2026-05-24,Pulse Mini Bluetooth Speaker,Neha,5,Positive,Charges quickly and plays for hours. Perfect for dorm rooms. Would buy again.
+485,2026-05-25,Pulse Mini Bluetooth Speaker,Omar,3,Neutral,"Does what it says. Not a party speaker, more of a personal one."
+486,2026-05-25,Pulse Mini Bluetooth Speaker,Rohan,1,Negative,Price is high for this thin sound. Neighbor's cheaper speaker beats it.
+487,2026-05-26,Pulse Mini Bluetooth Speaker,Neha,5,Positive,Took light rain without issues. Loud enough for a small patio dinner.
+488,2026-05-29,Pulse Mini Bluetooth Speaker,Leela,4,Positive,Took light rain without issues. Loud enough for a small patio dinner.
+489,2026-05-29,Pulse Mini Bluetooth Speaker,Meera,3,Neutral,Fine for a desk. Bass is light and battery lasts an afternoon.
+490,2026-05-30,Pulse Mini Bluetooth Speaker,Neha,5,Positive,Took light rain without issues. Loud enough for a small patio dinner. Would buy again.
+491,2026-06-06,Pulse Mini Bluetooth Speaker,Helena,2,Negative,Water resistance failed after light rain. Unit will not power on now.
+492,2026-06-07,Pulse Mini Bluetooth Speaker,Ben,3,Neutral,Good enough for podcasts in the kitchen. Music needs more body.
+493,2026-06-13,Pulse Mini Bluetooth Speaker,Nina,4,Positive,Punchy bass and clear mids. Pairing is instant every time.
+494,2026-06-15,Pulse Mini Bluetooth Speaker,Ben,1,Negative,Sound is tinny at mid volume. Party mode never syncs with a second speaker.
+495,2026-06-17,Pulse Mini Bluetooth Speaker,Ravi,4,Positive,Clear announcements in speakerphone mode. Connection stays stable.
+496,2026-06-20,Pulse Mini Bluetooth Speaker,Kabir,4,Positive,Took light rain without issues. Loud enough for a small patio dinner.
+497,2026-06-21,Pulse Mini Bluetooth Speaker,Isha,2,Negative,Disappointed overall. Microphone for speakerphone calls is awful. Guests cannot hear me.
+498,2026-06-26,Pulse Mini Bluetooth Speaker,Arjun,3,Neutral,Design is clean. Output is safe but unexciting at this price.
+499,2026-06-27,Pulse Mini Bluetooth Speaker,Meera,4,Positive,Clear announcements in speakerphone mode. Connection stays stable.
+500,2026-06-27,Pulse Mini Bluetooth Speaker,Maya,2,Negative,Disappointed overall. The strap broke in a week. Support said wear and tear is not covered.

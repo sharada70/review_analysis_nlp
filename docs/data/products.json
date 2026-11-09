@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Aurora X1 Wireless Earbuds",
+      "slug": "aurora-x1",
+      "reviews": 100,
+      "avg_rating": 2.94
+    },
+    {
+      "name": "Flux ANC Headset",
+      "slug": "flux-anc",
+      "reviews": 100,
+      "avg_rating": 2.94
+    },
+    {
+      "name": "Nova Pro Over-Ear Headphones",
+      "slug": "nova-pro",
+      "reviews": 100,
+      "avg_rating": 2.94
+    },
+    {
+      "name": "Orbit Fit Band",
+      "slug": "orbit-fit",
+      "reviews": 100,
+      "avg_rating": 2.94
+    },
+    {
+      "name": "Pulse Mini Bluetooth Speaker",
+      "slug": "pulse-mini",
+      "reviews": 100,
+      "avg_rating": 2.94
+    }
+  ]
+}

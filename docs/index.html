@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ReviewLab — NLP Review Analysis</title>
+  <meta name="description" content="Static NLP demo: sentiment, keyword categories, and Naive Bayes on product reviews." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Sora:wght@500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.8/dist/chart.umd.min.js" defer></script>
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <div class="bg-wash" aria-hidden="true"></div>
+  <div class="bg-grid" aria-hidden="true"></div>
+
+  <div class="shell">
+    <aside class="sidebar reveal" id="sidebar">
+      <div class="brand">
+        <span class="brand-mark">RL</span>
+        <div>
+          <p class="brand-name">ReviewLab</p>
+          <p class="brand-tag">NLP review demo</p>
+        </div>
+      </div>
+
+      <label class="field">
+        <span>Product</span>
+        <select id="productSelect"></select>
+      </label>
+
+      <div class="field">
+        <span>Sentiment</span>
+        <div class="chip-row" id="sentimentFilters">
+          <label class="chip"><input type="checkbox" value="Negative" checked /> Negative</label>
+          <label class="chip"><input type="checkbox" value="Neutral" checked /> Neutral</label>
+          <label class="chip"><input type="checkbox" value="Positive" checked /> Positive</label>
+        </div>
+      </div>
+
+      <div class="field">
+        <span>Star range</span>
+        <div class="range-row">
+          <input id="ratingMin" type="range" min="1" max="5" value="1" />
+          <input id="ratingMax" type="range" min="1" max="5" value="5" />
+        </div>
+        <p class="muted" id="ratingLabel">1 – 5 stars</p>
+      </div>
+
+      <div class="meta-box" id="productMeta">
+        <p class="muted">Select a product to load analysis.</p>
+      </div>
+
+      <details class="stack-note">
+        <summary>NLP stack</summary>
+        <ul>
+          <li><strong>pandas</strong> — loads CSV, aggregates metrics</li>
+          <li><strong>nltk</strong> — tokenize + stopword cleanup</li>
+          <li><strong>scikit-learn</strong> — TF-IDF + Naive Bayes</li>
+          <li><strong>static build</strong> — JSON for GitHub Pages</li>
+        </ul>
+      </details>
+    </aside>
+
+    <main class="main">
+      <header class="hero reveal" data-reveal="up">
+        <h1 id="pageTitle">Review analysis</h1>
+        <p class="lede" id="pageLede">
+          Pick a product to explore sentiment, keyword themes, and a simple text classifier.
+        </p>
+        <div class="tabs" role="tablist" aria-label="Analysis sections">
+          <button class="tab active" data-tab="overview" role="tab" aria-selected="true">Overview</button>
+          <button class="tab" data-tab="improve" role="tab" aria-selected="false">Improve</button>
+          <button class="tab" data-tab="themes" role="tab" aria-selected="false">Themes</button>
+          <button class="tab" data-tab="trends" role="tab" aria-selected="false">Trends</button>
+          <button class="tab" data-tab="reviews" role="tab" aria-selected="false">Reviews</button>
+          <button class="tab" data-tab="model" role="tab" aria-selected="false">Model</button>
+        </div>
+      </header>
+
+      <p class="filter-note muted" id="filterNote"></p>
+
+      <section class="tab-panel active" id="panel-overview">
+        <div class="insight-list reveal" id="insightList"></div>
+        <div class="metric-grid reveal" id="metricGrid"></div>
+        <div class="chart-grid">
+          <article class="card reveal" data-reveal="left">
+            <h2>Sentiment mix</h2>
+            <canvas id="sentimentChart" height="220"></canvas>
+          </article>
+          <article class="card reveal" data-reveal="right">
+            <h2>Star ratings</h2>
+            <canvas id="starsChart" height="220"></canvas>
+          </article>
+        </div>
+      </section>
+
+      <section class="tab-panel" id="panel-improve">
+        <article class="card reveal accent-card">
+          <h2>New feedback to review</h2>
+          <p class="muted">
+            Latest negative and neutral reviews, shown separately so you can spot fresh product issues.
+            Keywords are extracted with the same NLP cleanup used for the rest of the demo.
+          </p>
+          <div class="feedback-list" id="recentFeedback"></div>
+        </article>
+        <article class="card reveal">
+          <h2>Improvement opportunities by category</h2>
+          <p class="muted">Negative reviews grouped into theme buckets with the keywords reviewers keep repeating.</p>
+          <div class="opportunity-grid" id="opportunityList"></div>
+        </article>
+      </section>
+
+      <section class="tab-panel" id="panel-themes">
+        <article class="card reveal">
+          <h2>Keyword categories</h2>
+          <p class="muted">Duplicates and near-duplicates (battery / batteries / charging) collapse into one theme.</p>
+          <canvas id="categoryChart" height="260"></canvas>
+          <div class="category-cards" id="categoryCards"></div>
+        </article>
+        <article class="card reveal">
+          <div class="table-toolbar">
+            <h2>Category-wise reviews</h2>
+            <select id="themeSelect" aria-label="Theme category"></select>
+            <select id="themeSort" aria-label="Sort reviews">
+              <option value="newest">Newest first</option>
+              <option value="oldest">Oldest first</option>
+              <option value="rating-asc">Lowest rating</option>
+              <option value="rating-desc">Highest rating</option>
+              <option value="negative">Negative first</option>
+              <option value="keywords">Most keywords</option>
+            </select>
+          </div>
+          <p class="muted" id="themeHint">Pick a theme to read matching reviews and their keywords.</p>
+          <div class="theme-reviews" id="themeReviews"></div>
+        </article>
+        <div class="chart-grid three">
+          <article class="card reveal" data-reveal="up">
+            <h2>Negative words</h2>
+            <canvas id="negWordsChart" height="220"></canvas>
+          </article>
+          <article class="card reveal" data-reveal="up">
+            <h2>Neutral words</h2>
+            <canvas id="neuWordsChart" height="220"></canvas>
+          </article>
+          <article class="card reveal" data-reveal="up">
+            <h2>Positive words</h2>
+            <canvas id="posWordsChart" height="220"></canvas>
+          </article>
+        </div>
+        <article class="card reveal">
+          <h2>Most used words</h2>
+          <canvas id="topWordsChart" height="260"></canvas>
+        </article>
+      </section>
+
+      <section class="tab-panel" id="panel-trends">
+        <div class="chart-grid">
+          <article class="card reveal" data-reveal="left">
+            <h2>Reviews by month</h2>
+            <canvas id="monthlyCountChart" height="240"></canvas>
+          </article>
+          <article class="card reveal" data-reveal="right">
+            <h2>Average rating by month</h2>
+            <canvas id="monthlyRatingChart" height="240"></canvas>
+          </article>
+        </div>
+      </section>
+
+      <section class="tab-panel" id="panel-reviews">
+        <article class="card reveal">
+          <div class="table-toolbar">
+            <h2>Demo reviews with keywords</h2>
+            <input id="reviewSearch" type="search" placeholder="Search review text or keyword…" />
+            <button id="downloadCsv" type="button" class="ghost">Download CSV</button>
+          </div>
+          <p class="muted" id="reviewCount"></p>
+          <div class="review-cards" id="reviewCards"></div>
+          <div class="pagination" id="reviewPagination" hidden>
+            <button type="button" class="ghost" id="reviewPrev" aria-label="Previous page">Prev</button>
+            <div class="page-buttons" id="reviewPageButtons"></div>
+            <button type="button" class="ghost" id="reviewNext" aria-label="Next page">Next</button>
+          </div>
+        </article>
+      </section>
+
+      <section class="tab-panel" id="panel-model">
+        <article class="card reveal">
+          <h2>Naive Bayes model</h2>
+          <p class="muted">
+            TF-IDF + Multinomial Naive Bayes, scored with 5-fold cross-validation during the Python build,
+            then exported so this static page can classify a new sentence in the browser.
+          </p>
+          <div class="metric-grid compact" id="modelMetrics"></div>
+          <div class="chart-grid">
+            <div>
+              <h3>Where guesses landed</h3>
+              <canvas id="matrixChart" height="240"></canvas>
+            </div>
+            <div>
+              <h3>Words the model leans on</h3>
+              <div id="modelWords" class="model-words"></div>
+            </div>
+          </div>
+        </article>
+        <article class="card reveal accent-card">
+          <h2>Try a new review</h2>
+          <p class="muted">New feedback is classified here and listed separately with extracted keywords and themes.</p>
+          <div class="example-row" id="exampleButtons"></div>
+          <textarea id="predictInput" rows="4" placeholder="Type a short product review…"></textarea>
+          <button id="predictBtn" type="button" class="primary">Analyze review</button>
+          <div id="predictResult" class="predict-result" hidden></div>
+          <div id="liveFeedbackTray" class="live-feedback-tray" hidden>
+            <h3>New feedback captured this session</h3>
+            <div id="liveFeedbackList"></div>
+          </div>
+        </article>
+      </section>
+    </main>
+  </div>
+</body>
+</html>
